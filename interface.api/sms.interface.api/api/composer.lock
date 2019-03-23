@@ -1,0 +1,268 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "a88a1c2156913d67f7f7452a5f6059f5",
+    "content-hash": "746ed9d51c0a330ce308cd8a10aeafe4",
+    "packages": [
+        {
+            "name": "arcturial/clickatell",
+            "version": "2.1.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arcturial/clickatell.git",
+                "reference": "d348e41a4052547d60d17737bf1993dd794b5ca1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arcturial/clickatell/zipball/d348e41a4052547d60d17737bf1993dd794b5ca1",
+                "reference": "d348e41a4052547d60d17737bf1993dd794b5ca1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.3.*"
+            },
+            "suggest": {
+                "symfony/config": "For usage with the Symfony Framework",
+                "symfony/dependency-injection": "For usage with the Symfony Framework",
+                "symfony/http-kernel": "For usage with the Symfony Framework"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Clickatell\\": [
+                        "src",
+                        "test"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GNU General Public License"
+            ],
+            "authors": [
+                {
+                    "name": "Chris Brand",
+                    "email": "webmaster@cainsvault.com"
+                }
+            ],
+            "description": "Standalone PHP library to integrate with the Clickatell SMS gateway",
+            "homepage": "http://www.cainsvault.com",
+            "time": "2016-03-19 21:20:59"
+        },
+        {
+            "name": "curl/curl",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-mod/curl.git",
+                "reference": "38fc139f0e73149911a5765249e9900b9c70d5fc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-mod/curl/zipball/38fc139f0e73149911a5765249e9900b9c70d5fc",
+                "reference": "38fc139f0e73149911a5765249e9900b9c70d5fc",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*",
+                "squizlabs/php_codesniffer": "~2.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Curl": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Hassan Amouhzi",
+                    "email": "hassan@anezi.net",
+                    "homepage": "http://hassan.amouhzi.com"
+                },
+                {
+                    "name": "php-curl-class",
+                    "homepage": "https://github.com/php-curl-class"
+                },
+                {
+                    "name": "user52",
+                    "homepage": "https://github.com/user52"
+                }
+            ],
+            "description": "cURL class for PHP",
+            "homepage": "https://github.com/php-mod/curl",
+            "keywords": [
+                "curl",
+                "dot"
+            ],
+            "time": "2016-06-04 18:16:12"
+        },
+        {
+            "name": "ideea/unicode",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ZhukV/Unicode.git",
+                "reference": "7b13dda34f2c8991a68ac82a93ac6edc3d821fea"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ZhukV/Unicode/zipball/7b13dda34f2c8991a68ac82a93ac6edc3d821fea",
+                "reference": "7b13dda34f2c8991a68ac82a93ac6edc3d821fea",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Ideea\\Unicode": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vitaliy Zhuk",
+                    "email": "zhuk2205@gmail.com"
+                }
+            ],
+            "description": "Utils for work with unicode strings",
+            "homepage": "https://github.com/ZhukV/Unicode",
+            "keywords": [
+                "unicode",
+                "util"
+            ],
+            "time": "2014-05-22 13:34:39"
+        },
+        {
+            "name": "joshcam/mysqli-database-class",
+            "version": "v2.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/joshcam/PHP-MySQLi-Database-Class.git",
+                "reference": "1b9bad88b3d87dbbcc6ff392c82367e521c888ec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/joshcam/PHP-MySQLi-Database-Class/zipball/1b9bad88b3d87dbbcc6ff392c82367e521c888ec",
+                "reference": "1b9bad88b3d87dbbcc6ff392c82367e521c888ec",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "MysqliDb.php",
+                    "dbObject.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Josh Campbell",
+                    "email": "josh.lee.campbell@gmail.com",
+                    "homepage": "https://github.com/joshcam",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Alexander V. Butenko",
+                    "email": "a.butenka@gmail.com",
+                    "homepage": "http://smarttechdo.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP MySQL Wrapper and object mapper which utilizes MySQLi and prepared statements",
+            "time": "2016-05-10 14:23:30"
+        },
+        {
+            "name": "phpmailer/phpmailer",
+            "version": "v5.2.16",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+                "reference": "1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a",
+                "reference": "1d85f9ef3ecfc42bbc4f3c70d5e37ca9a65f629a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "require-dev": {
+                "phpdocumentor/phpdocumentor": "*",
+                "phpunit/phpunit": "4.7.*"
+            },
+            "suggest": {
+                "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "class.phpmailer.php",
+                    "class.phpmaileroauth.php",
+                    "class.phpmaileroauthgoogle.php",
+                    "class.smtp.php",
+                    "class.pop3.php",
+                    "extras/EasyPeasyICS.php",
+                    "extras/ntlm_sasl_client.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.1"
+            ],
+            "authors": [
+                {
+                    "name": "Jim Jagielski",
+                    "email": "jimjag@gmail.com"
+                },
+                {
+                    "name": "Marcus Bointon",
+                    "email": "phpmailer@synchromedia.co.uk"
+                },
+                {
+                    "name": "Andy Prevost",
+                    "email": "codeworxtech@users.sourceforge.net"
+                },
+                {
+                    "name": "Brent R. Matzelle"
+                }
+            ],
+            "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+            "time": "2016-06-06 09:09:37"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

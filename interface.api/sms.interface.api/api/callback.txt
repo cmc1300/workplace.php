@@ -1,0 +1,1882 @@
+Friday 8th of July 2016 02:38:11 PM
+==========================================
+api_id: 3586245
+apiMsgId: a6b9aa5ad91680dcdcf670f83d781ec5
+cliMsgId: 
+timestamp: 1467952691
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Friday 8th of July 2016 02:40:29 PM
+==========================================
+api_id:	3586245
+apiMsgId:	132b6bdd122d5c8a3593d1264e350ae2
+cliMsgId:	
+timestamp:	1467952828
+to:	61430583951
+from:	
+status:	004
+charge:	1.000000
+==========================================
+
+Friday 8th of July 2016 02:41:32 PM
+==========================================
+api_id: 3586245
+apiMsgId: 62651a9da4996dac4152b5956121e7f0
+cliMsgId: 
+timestamp: 1467952892
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 02:30:36 PM
+==========================================
+api_id: 3586245
+apiMsgId: e8f879841f94abc5597d6f8ff66bf141
+cliMsgId: 
+timestamp: 1468297836
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 02:35:47 PM
+==========================================
+api_id: 3586245
+apiMsgId: e8f879841f94abc5597d6f8ff66bf141
+cliMsgId: 
+timestamp: 1468297836
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+_ga: GA1.3.1260165992.1465436479
+__zlcmid: b3fbyyBi1pdRyd
+==========================================
+
+Tuesday 12th of July 2016 02:37:18 PM
+==========================================
+api_id: 3586245
+apiMsgId: e8f879841f94abc5597d6f8ff66bf141
+cliMsgId: 
+timestamp: 1468297836
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+_ga: GA1.3.1260165992.1465436479
+__zlcmid: b3fbyyBi1pdRyd
+==========================================
+
+Tuesday 12th of July 2016 02:37:40 PM
+==========================================
+api_id: 3586245
+apiMsgId: e8f879841f94abc5597d6f8ff66bf141
+cliMsgId: 
+timestamp: 1468297836
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+_ga: GA1.3.1260165992.1465436479
+__zlcmid: b3fbyyBi1pdRyd
+==========================================
+
+Tuesday 12th of July 2016 02:37:58 PM
+==========================================
+api_id: 3586245
+apiMsgId: dbb3a68cb2b00047420cef3b4db0b62e
+cliMsgId: 
+timestamp: 1468298278
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 03:36:22 PM
+==========================================
+==========================================
+
+Tuesday 12th of July 2016 04:46:41 PM
+==========================================
+api_id: 3586245
+apiMsgId: 25e7cccc65a66489477c118598678ffa
+cliMsgId: 
+timestamp: 1468306001
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:46:45 PM
+==========================================
+api_id: 3586245
+apiMsgId: 25e7cccc65a66489477c118598678ffa
+cliMsgId: 
+timestamp: 1468306005
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:57:54 PM
+==========================================
+api_id: 3586245
+apiMsgId: a07171949e912ff0c6672778d2a5ac42
+cliMsgId: 
+timestamp: 1468306673
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:57:57 PM
+==========================================
+api_id: 3586245
+apiMsgId: a07171949e912ff0c6672778d2a5ac42
+cliMsgId: 
+timestamp: 1468306677
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:15 PM
+==========================================
+api_id: 3586245
+apiMsgId: 709fc359c2f04c6ea8ad9dd63ba3f2b6
+cliMsgId: 
+timestamp: 1468306695
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:17 PM
+==========================================
+api_id: 3586245
+apiMsgId: 709fc359c2f04c6ea8ad9dd63ba3f2b6
+cliMsgId: 
+timestamp: 1468306698
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:30 PM
+==========================================
+api_id: 3586245
+apiMsgId: fbad808d9aae64966eda4d88271cd3f1
+cliMsgId: 
+timestamp: 1468306710
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:33 PM
+==========================================
+api_id: 3586245
+apiMsgId: fbad808d9aae64966eda4d88271cd3f1
+cliMsgId: 
+timestamp: 1468306713
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:49 PM
+==========================================
+api_id: 3586245
+apiMsgId: 866d87e13571293b435ceccf3426bcaa
+cliMsgId: 
+timestamp: 1468306730
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 04:58:52 PM
+==========================================
+api_id: 3586245
+apiMsgId: 866d87e13571293b435ceccf3426bcaa
+cliMsgId: 
+timestamp: 1468306732
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 05:04:06 PM
+==========================================
+api_id: 3586245
+apiMsgId: 0e65591e29dfee45c529918d2bd8e9c5
+cliMsgId: 
+timestamp: 1468307046
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 05:04:09 PM
+==========================================
+api_id: 3586245
+apiMsgId: 0e65591e29dfee45c529918d2bd8e9c5
+cliMsgId: 
+timestamp: 1468307049
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 12th of July 2016 06:31:00 PM
+==========================================
+==========================================
+
+Wednesday 13th of July 2016 12:05:26 PM
+==========================================
+api_id: 3586245
+apiMsgId: 8501caea8481b17cbe572acb9c23fb72
+cliMsgId: 
+timestamp: 1468375526
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:05:28 PM
+==========================================
+api_id: 3586245
+apiMsgId: 8501caea8481b17cbe572acb9c23fb72
+cliMsgId: 
+timestamp: 1468375529
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:05:49 PM
+==========================================
+api_id: 3586245
+apiMsgId: 32ea29a45290cb241faf60700bc4a354
+cliMsgId: 
+timestamp: 1468375550
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:05:52 PM
+==========================================
+api_id: 3586245
+apiMsgId: 32ea29a45290cb241faf60700bc4a354
+cliMsgId: 
+timestamp: 1468375552
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:15:31 PM
+==========================================
+==========================================
+
+Wednesday 13th of July 2016 12:15:51 PM
+==========================================
+==========================================
+
+Wednesday 13th of July 2016 12:19:02 PM
+==========================================
+api_id: 3586245
+apiMsgId: 1647155a15e71f47684d659a2a036748
+cliMsgId: 
+timestamp: 1468376343
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:19:05 PM
+==========================================
+api_id: 3586245
+apiMsgId: 1647155a15e71f47684d659a2a036748
+cliMsgId: 
+timestamp: 1468376345
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:19:45 PM
+==========================================
+api_id: 3586245
+apiMsgId: 387812c65673ed9f34506c1c5f029527
+cliMsgId: 
+timestamp: 1468376385
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:19:47 PM
+==========================================
+api_id: 3586245
+apiMsgId: 387812c65673ed9f34506c1c5f029527
+cliMsgId: 
+timestamp: 1468376387
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:26:17 PM
+==========================================
+api_id: 3586245
+apiMsgId: 32d9209ae277c1a7fa5eb6bfd0f3777c
+cliMsgId: 
+timestamp: 1468376777
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:26:19 PM
+==========================================
+api_id: 3586245
+apiMsgId: 32d9209ae277c1a7fa5eb6bfd0f3777c
+cliMsgId: 
+timestamp: 1468376779
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:27:37 PM
+==========================================
+api_id: 3586245
+apiMsgId: e557191fc4d37c70cc35012d3652037e
+cliMsgId: 
+timestamp: 1468376857
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 12:27:39 PM
+==========================================
+api_id: 3586245
+apiMsgId: e557191fc4d37c70cc35012d3652037e
+cliMsgId: 
+timestamp: 1468376860
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 03:11:00 PM
+==========================================
+api_id: 3586245
+apiMsgId: f117e63bd85296fca0bf29afb577acea
+cliMsgId: 
+timestamp: 1468386660
+to: 61430583951
+from: Novatel Noc
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 03:11:03 PM
+==========================================
+api_id: 3586245
+apiMsgId: f117e63bd85296fca0bf29afb577acea
+cliMsgId: 
+timestamp: 1468386663
+to: 61430583951
+from: Novatel Noc
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 13th of July 2016 03:30:52 PM
+==========================================
+==========================================
+
+Tuesday 19th of July 2016 03:07:49 PM
+==========================================
+==========================================
+
+Tuesday 19th of July 2016 03:24:41 PM
+==========================================
+api_id: 3613510
+apiMsgId: 89967b7fca362fad33dc6b6543d6ef0d
+cliMsgId: 
+timestamp: 1468905881
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 03:24:44 PM
+==========================================
+api_id: 3613510
+apiMsgId: 89967b7fca362fad33dc6b6543d6ef0d
+cliMsgId: 
+timestamp: 1468905884
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 04:59:33 PM
+==========================================
+api_id: 3613510
+apiMsgId: 5cb6901f7df49f8e7bf66093a06ecd61
+cliMsgId: 
+timestamp: 1468911573
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 04:59:34 PM
+==========================================
+api_id: 3613510
+apiMsgId: 5cb6901f7df49f8e7bf66093a06ecd61
+cliMsgId: 
+timestamp: 1468911575
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 05:00:23 PM
+==========================================
+api_id: 3613510
+apiMsgId: 1c7bb61534bba5e669d9d6d99a236c0a
+cliMsgId: 
+timestamp: 1468911623
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 05:00:30 PM
+==========================================
+api_id: 3613510
+apiMsgId: 1c7bb61534bba5e669d9d6d99a236c0a
+cliMsgId: 
+timestamp: 1468911631
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 19th of July 2016 05:31:12 PM
+==========================================
+==========================================
+
+Monday 1st of August 2016 09:36:12 AM
+==========================================
+api_id: 3613510
+apiMsgId: eba53b3d094c094a48a8c4ff2e5aacd7
+cliMsgId: 
+timestamp: 1470008172
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 09:36:13 AM
+==========================================
+api_id: 3613510
+apiMsgId: eba53b3d094c094a48a8c4ff2e5aacd7
+cliMsgId: 
+timestamp: 1470008173
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 09:37:19 AM
+==========================================
+api_id: 3613510
+apiMsgId: c4cf36dbf87f0ad5b70740e034c3f132
+cliMsgId: 
+timestamp: 1470008240
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 09:37:22 AM
+==========================================
+api_id: 3613510
+apiMsgId: c4cf36dbf87f0ad5b70740e034c3f132
+cliMsgId: 
+timestamp: 1470008243
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 10:27:36 AM
+==========================================
+api_id: 3613510
+apiMsgId: 145b4cf51f3bac48f0bf7cb8d087c733
+cliMsgId: 
+timestamp: 1470011256
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 10:27:38 AM
+==========================================
+api_id: 3613510
+apiMsgId: 145b4cf51f3bac48f0bf7cb8d087c733
+cliMsgId: 
+timestamp: 1470011258
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 12:34:07 PM
+==========================================
+api_id: 3613510
+apiMsgId: ea1ae108456212fe921137ce5c98043d
+cliMsgId: 
+timestamp: 1470018848
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 2.000000
+==========================================
+
+Monday 1st of August 2016 12:36:15 PM
+==========================================
+api_id: 3613510
+apiMsgId: 6804bc974f58572abbb28f06b7c02e54
+cliMsgId: 
+timestamp: 1470018976
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 12:38:12 PM
+==========================================
+api_id: 3613510
+apiMsgId: ac6f060cdb1cb9533b3d4ed9f8fc2172
+cliMsgId: 
+timestamp: 1470019093
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 12:38:34 PM
+==========================================
+api_id: 3613510
+apiMsgId: f0279cd936b0c8afc9e3caa4c4d80313
+cliMsgId: 
+timestamp: 1470019115
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 2.000000
+==========================================
+
+Monday 1st of August 2016 12:39:27 PM
+==========================================
+api_id: 3613510
+apiMsgId: ea1ae108456212fe921137ce5c98043d
+cliMsgId: 
+timestamp: 1470019167
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 2.000000
+==========================================
+
+Monday 1st of August 2016 12:39:32 PM
+==========================================
+api_id: 3613510
+apiMsgId: 6804bc974f58572abbb28f06b7c02e54
+cliMsgId: 
+timestamp: 1470019173
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 12:41:26 PM
+==========================================
+api_id: 3613510
+apiMsgId: ac6f060cdb1cb9533b3d4ed9f8fc2172
+cliMsgId: 
+timestamp: 1470019287
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 1st of August 2016 12:41:27 PM
+==========================================
+api_id: 3613510
+apiMsgId: f0279cd936b0c8afc9e3caa4c4d80313
+cliMsgId: 
+timestamp: 1470019288
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 2.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:12:19 PM
+==========================================
+api_id: 3613510
+apiMsgId: 2bc65f3073fa9389c6da3fff1b45e6dc
+cliMsgId: 
+timestamp: 1470111139
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:12:22 PM
+==========================================
+api_id: 3613510
+apiMsgId: 2bc65f3073fa9389c6da3fff1b45e6dc
+cliMsgId: 
+timestamp: 1470111142
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:14:30 PM
+==========================================
+api_id: 3613510
+apiMsgId: 62737fed755c53cb3f5fcd22f2b1c68d
+cliMsgId: 
+timestamp: 1470111271
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:14:41 PM
+==========================================
+api_id: 3613510
+apiMsgId: 62737fed755c53cb3f5fcd22f2b1c68d
+cliMsgId: 
+timestamp: 1470111282
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:14:48 PM
+==========================================
+api_id: 3613510
+apiMsgId: f5e5a8ed3cdd3bfa926c9470587c0657
+cliMsgId: 
+timestamp: 1470111289
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:15:47 PM
+==========================================
+api_id: 3613510
+apiMsgId: f5e5a8ed3cdd3bfa926c9470587c0657
+cliMsgId: 
+timestamp: 1470111348
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:16:35 PM
+==========================================
+api_id: 3613510
+apiMsgId: 141b3e32a5704feb93e04ef654926c9a
+cliMsgId: 
+timestamp: 1470111396
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:18:28 PM
+==========================================
+api_id: 3613510
+apiMsgId: 141b3e32a5704feb93e04ef654926c9a
+cliMsgId: 
+timestamp: 1470111509
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:23:43 PM
+==========================================
+api_id: 3613510
+apiMsgId: ebea5935d6df82741cbcd1da949b91ac
+cliMsgId: 
+timestamp: 1470111823
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:23:45 PM
+==========================================
+api_id: 3613510
+apiMsgId: ebea5935d6df82741cbcd1da949b91ac
+cliMsgId: 
+timestamp: 1470111826
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:37:58 PM
+==========================================
+api_id: 3613510
+apiMsgId: e012df4b9405c9c6dd2a82443961859d
+cliMsgId: 
+timestamp: 1470112678
+to: 61430583951
+from: CNC Express
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:38:00 PM
+==========================================
+api_id: 3613510
+apiMsgId: e012df4b9405c9c6dd2a82443961859d
+cliMsgId: 
+timestamp: 1470112680
+to: 61430583951
+from: CNC Express
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:44:21 PM
+==========================================
+api_id: 3613510
+apiMsgId: 751f5d04a01b62ee8defbe60f3f6eb8d
+cliMsgId: 
+timestamp: 1470113062
+to: 61430583951
+from: CNC Express
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:44:24 PM
+==========================================
+api_id: 3613510
+apiMsgId: 751f5d04a01b62ee8defbe60f3f6eb8d
+cliMsgId: 
+timestamp: 1470113065
+to: 61430583951
+from: CNC Express
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:46:12 PM
+==========================================
+api_id: 3613510
+apiMsgId: b49a6fe2c398b68ab811660bc795fd2b
+cliMsgId: 
+timestamp: 1470113172
+to: 61430583951
+from: CNC Express
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:46:16 PM
+==========================================
+api_id: 3613510
+apiMsgId: b49a6fe2c398b68ab811660bc795fd2b
+cliMsgId: 
+timestamp: 1470113176
+to: 61430583951
+from: CNC Express
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:48:06 PM
+==========================================
+api_id: 3613510
+apiMsgId: 5fd8ba4bcfcbcad7de20f5651414cbe6
+cliMsgId: 
+timestamp: 1470113287
+to: 61430583951
+from: CNC Express
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:48:11 PM
+==========================================
+api_id: 3613510
+apiMsgId: 5fd8ba4bcfcbcad7de20f5651414cbe6
+cliMsgId: 
+timestamp: 1470113292
+to: 61430583951
+from: CNC Express
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:56:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: e261c2332f68b2743d5c25e2021108af
+cliMsgId: 
+timestamp: 1470113797
+to: 61430583951
+from: CNC Express
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 02:56:38 PM
+==========================================
+api_id: 3613510
+apiMsgId: e261c2332f68b2743d5c25e2021108af
+cliMsgId: 
+timestamp: 1470113799
+to: 61430583951
+from: CNC Express
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 03:08:03 PM
+==========================================
+api_id: 3613510
+apiMsgId: 36780323ec490d8f2e997792aa35c1d8
+cliMsgId: 
+timestamp: 1470114484
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 03:08:06 PM
+==========================================
+api_id: 3613510
+apiMsgId: 36780323ec490d8f2e997792aa35c1d8
+cliMsgId: 
+timestamp: 1470114487
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 03:08:20 PM
+==========================================
+api_id: 3613510
+apiMsgId: 04c2fca8435eb696fb86631d1b74771e
+cliMsgId: 
+timestamp: 1470114501
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 03:08:22 PM
+==========================================
+api_id: 3613510
+apiMsgId: 04c2fca8435eb696fb86631d1b74771e
+cliMsgId: 
+timestamp: 1470114503
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 04:24:29 PM
+==========================================
+api_id: 3613510
+apiMsgId: 702df5e42519f93513f0551c396e7775
+cliMsgId: 
+timestamp: 1470119069
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 04:24:30 PM
+==========================================
+api_id: 3613510
+apiMsgId: 702df5e42519f93513f0551c396e7775
+cliMsgId: 
+timestamp: 1470119072
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 04:40:34 PM
+==========================================
+api_id: 3613510
+apiMsgId: 7d34b1594c8b460eb8ee73279c12f03d
+cliMsgId: 
+timestamp: 1470120035
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Tuesday 2nd of August 2016 04:40:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: 7d34b1594c8b460eb8ee73279c12f03d
+cliMsgId: 
+timestamp: 1470120038
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Friday 12th of August 2016 05:13:27 PM
+==========================================
+api_id: 3613510
+apiMsgId: c2287db87473578a418ddd44e372f00c
+cliMsgId: 
+timestamp: 1470986008
+to: 61487567724
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Friday 12th of August 2016 05:13:31 PM
+==========================================
+api_id: 3613510
+apiMsgId: c2287db87473578a418ddd44e372f00c
+cliMsgId: 
+timestamp: 1470986012
+to: 61487567724
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:31:10 PM
+==========================================
+api_id: 3613510
+apiMsgId: 4c2fef84a7421cd0baee87fc5ddca4d4
+cliMsgId: 
+timestamp: 1471228270
+to: 61433350702
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:31:13 PM
+==========================================
+api_id: 3613510
+apiMsgId: 4c2fef84a7421cd0baee87fc5ddca4d4
+cliMsgId: 
+timestamp: 1471228273
+to: 61433350702
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:37:35 PM
+==========================================
+api_id: 3613510
+apiMsgId: c6c55dc4395c40577bf7f9c5a54307a7
+cliMsgId: 
+timestamp: 1471228655
+to: 61433350702
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:37:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: c6c55dc4395c40577bf7f9c5a54307a7
+cliMsgId: 
+timestamp: 1471228658
+to: 61433350702
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:38:43 PM
+==========================================
+api_id: 3613510
+apiMsgId: 05823eae89a3aacaf763042dd80eb132
+cliMsgId: 
+timestamp: 1471228723
+to: 61433350702
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:38:46 PM
+==========================================
+api_id: 3613510
+apiMsgId: 05823eae89a3aacaf763042dd80eb132
+cliMsgId: 
+timestamp: 1471228726
+to: 61433350702
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:45:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: 4ce3c8747d1b62b6c066f70089377783
+cliMsgId: 
+timestamp: 1471229137
+to: 61433350702
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:45:43 PM
+==========================================
+api_id: 3613510
+apiMsgId: 4ce3c8747d1b62b6c066f70089377783
+cliMsgId: 
+timestamp: 1471229143
+to: 61433350702
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 15th of August 2016 12:55:23 PM
+==========================================
+api_id: 3613510
+apiMsgId: d79477fa0d9e5119d1e2beeb17e22ee4
+cliMsgId: 
+timestamp: 1471229724
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 15th of August 2016 12:55:30 PM
+==========================================
+api_id: 3613510
+apiMsgId: d79477fa0d9e5119d1e2beeb17e22ee4
+cliMsgId: 
+timestamp: 1471229730
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Monday 15th of August 2016 12:58:12 PM
+==========================================
+api_id: 3613510
+apiMsgId: ec9c87b7f11add64576269bca48c86a2
+cliMsgId: 
+timestamp: 1471229892
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 15th of August 2016 12:58:20 PM
+==========================================
+api_id: 3613510
+apiMsgId: ec9c87b7f11add64576269bca48c86a2
+cliMsgId: 
+timestamp: 1471229900
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:21:56 PM
+==========================================
+api_id: 3613510
+apiMsgId: babdefd9d2552a9023f5f7c3d9079dc7
+cliMsgId: 
+timestamp: 1472178117
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:22:14 PM
+==========================================
+api_id: 3613510
+apiMsgId: babdefd9d2552a9023f5f7c3d9079dc7
+cliMsgId: 
+timestamp: 1472178135
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:43:31 PM
+==========================================
+api_id: 3613510
+apiMsgId: b383f765dff7d3db46655479c6be0e62
+cliMsgId: 
+timestamp: 1472179411
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:43:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: b383f765dff7d3db46655479c6be0e62
+cliMsgId: 
+timestamp: 1472179418
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:53:36 PM
+==========================================
+api_id: 3613510
+apiMsgId: a0ef69df8197df08ec009d6a7fd99cdd
+cliMsgId: 
+timestamp: 1472180017
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:53:45 PM
+==========================================
+api_id: 3613510
+apiMsgId: a0ef69df8197df08ec009d6a7fd99cdd
+cliMsgId: 
+timestamp: 1472180025
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:53:55 PM
+==========================================
+api_id: 3613510
+apiMsgId: b8368f144a8cf956f0b606639c21f960
+cliMsgId: 
+timestamp: 1472180036
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 12:54:28 PM
+==========================================
+api_id: 3613510
+apiMsgId: b8368f144a8cf956f0b606639c21f960
+cliMsgId: 
+timestamp: 1472180069
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:19:10 PM
+==========================================
+api_id: 3613510
+apiMsgId: 283dbb2d9bc0d8f530cb1c061cf4c888
+cliMsgId: 
+timestamp: 1472181551
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:19:13 PM
+==========================================
+api_id: 3613510
+apiMsgId: 283dbb2d9bc0d8f530cb1c061cf4c888
+cliMsgId: 
+timestamp: 1472181554
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:27:20 PM
+==========================================
+api_id: 3613510
+apiMsgId: 9a6ed5fd15c1821d8e74f67aab1d6b8e
+cliMsgId: 
+timestamp: 1472182040
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:27:24 PM
+==========================================
+api_id: 3613510
+apiMsgId: 9a6ed5fd15c1821d8e74f67aab1d6b8e
+cliMsgId: 
+timestamp: 1472182044
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:29:04 PM
+==========================================
+api_id: 3613510
+apiMsgId: e33e0f7aac518e6e95a1521036cf9a8e
+cliMsgId: 
+timestamp: 1472182144
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:29:08 PM
+==========================================
+api_id: 3613510
+apiMsgId: e33e0f7aac518e6e95a1521036cf9a8e
+cliMsgId: 
+timestamp: 1472182149
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Friday 26th of August 2016 01:32:17 PM
+==========================================
+api_id: 3613510
+apiMsgId: bd5f2a98e96b802872ed7c97b26b9643
+cliMsgId: 
+timestamp: 1472182338
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Friday 26th of August 2016 01:32:30 PM
+==========================================
+api_id: 3613510
+apiMsgId: bd5f2a98e96b802872ed7c97b26b9643
+cliMsgId: 
+timestamp: 1472182350
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 03:19:50 PM
+==========================================
+api_id: 3613510
+apiMsgId: 301f8c648ebd4a5d68ee539dbe1e43e0
+cliMsgId: 
+timestamp: 1472447991
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 03:19:58 PM
+==========================================
+api_id: 3613510
+apiMsgId: 301f8c648ebd4a5d68ee539dbe1e43e0
+cliMsgId: 
+timestamp: 1472447999
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 03:25:23 PM
+==========================================
+api_id: 3613510
+apiMsgId: 62d268154e12285eb7a4d1cace865e8f
+cliMsgId: 
+timestamp: 1472448324
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 03:25:31 PM
+==========================================
+api_id: 3613510
+apiMsgId: 62d268154e12285eb7a4d1cace865e8f
+cliMsgId: 
+timestamp: 1472448332
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 04:53:26 PM
+==========================================
+api_id: 3613510
+apiMsgId: 1f198deb33c54eb5d39a675d201d5c1d
+cliMsgId: 
+timestamp: 1472453607
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 04:53:32 PM
+==========================================
+api_id: 3613510
+apiMsgId: 1f198deb33c54eb5d39a675d201d5c1d
+cliMsgId: 
+timestamp: 1472453614
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 04:53:37 PM
+==========================================
+api_id: 3613510
+apiMsgId: bf2c447f4e2084412dc38dc47a2beded
+cliMsgId: 
+timestamp: 1472453619
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 04:53:44 PM
+==========================================
+api_id: 3613510
+apiMsgId: bf2c447f4e2084412dc38dc47a2beded
+cliMsgId: 
+timestamp: 1472453625
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 04:56:34 PM
+==========================================
+api_id: 3613510
+apiMsgId: b124d23473879a0361d53ee4b101e54e
+cliMsgId: 
+timestamp: 1472453796
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 04:56:43 PM
+==========================================
+api_id: 3613510
+apiMsgId: b124d23473879a0361d53ee4b101e54e
+cliMsgId: 
+timestamp: 1472453804
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 04:58:09 PM
+==========================================
+api_id: 3613510
+apiMsgId: 3940ad8819581f50564f051df8529b55
+cliMsgId: 
+timestamp: 1472453890
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 04:58:21 PM
+==========================================
+api_id: 3613510
+apiMsgId: 3940ad8819581f50564f051df8529b55
+cliMsgId: 
+timestamp: 1472453902
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 05:01:33 PM
+==========================================
+api_id: 3613510
+apiMsgId: 10a9d0e14ca13f876f24e215623cc19b
+cliMsgId: 
+timestamp: 1472454094
+to: 8615922448358
+from: 
+status: 003
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 05:01:42 PM
+==========================================
+api_id: 3613510
+apiMsgId: 10a9d0e14ca13f876f24e215623cc19b
+cliMsgId: 
+timestamp: 1472454103
+to: 8615922448358
+from: 
+status: 004
+charge: 2.400000
+==========================================
+
+Monday 29th of August 2016 05:15:09 PM
+==========================================
+api_id: 3613510
+apiMsgId: 38b7315ce06057c4d2c22dc22b6ad2d5
+cliMsgId: 
+timestamp: 1472454910
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 05:15:10 PM
+==========================================
+api_id: 3613510
+apiMsgId: f579907fa9bfa5c141aa9f183bd8cd07
+cliMsgId: 
+timestamp: 1472454911
+to: 8615922448358
+from: 
+status: 003
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 05:16:51 PM
+==========================================
+api_id: 3613510
+apiMsgId: f579907fa9bfa5c141aa9f183bd8cd07
+cliMsgId: 
+timestamp: 1472455012
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 05:16:52 PM
+==========================================
+api_id: 3613510
+apiMsgId: 38b7315ce06057c4d2c22dc22b6ad2d5
+cliMsgId: 
+timestamp: 1472455014
+to: 8615922448358
+from: 
+status: 004
+charge: 0.800000
+==========================================
+
+Monday 29th of August 2016 05:17:46 PM
+==========================================
+api_id: 3613510
+apiMsgId: 6baef8e8e8c75ad987db246fc8201f7e
+cliMsgId: 
+timestamp: 1472455068
+to: 61487567724
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 29th of August 2016 05:17:48 PM
+==========================================
+api_id: 3613510
+apiMsgId: c8fdf0a1aa7755547e0053f2b4f0432f
+cliMsgId: 
+timestamp: 1472455069
+to: 61487567724
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Monday 29th of August 2016 05:17:49 PM
+==========================================
+api_id: 3613510
+apiMsgId: 6baef8e8e8c75ad987db246fc8201f7e
+cliMsgId: 
+timestamp: 1472455070
+to: 61487567724
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Monday 29th of August 2016 05:17:50 PM
+==========================================
+api_id: 3613510
+apiMsgId: c8fdf0a1aa7755547e0053f2b4f0432f
+cliMsgId: 
+timestamp: 1472455071
+to: 61487567724
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 10:17:57 AM
+==========================================
+api_id: 3613510
+apiMsgId: 2d15c88356d668962c9d78169f0f1dd3
+cliMsgId: 
+timestamp: 1473812277
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 10:17:59 AM
+==========================================
+api_id: 3613510
+apiMsgId: 2d15c88356d668962c9d78169f0f1dd3
+cliMsgId: 
+timestamp: 1473812280
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:41:26 PM
+==========================================
+api_id: 3613510
+apiMsgId: d67b2fe6e9eeec5c75a0a32321fbe6c8
+cliMsgId: 
+timestamp: 1473831686
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:41:29 PM
+==========================================
+api_id: 3613510
+apiMsgId: d67b2fe6e9eeec5c75a0a32321fbe6c8
+cliMsgId: 
+timestamp: 1473831690
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:53:02 PM
+==========================================
+api_id: 3613510
+apiMsgId: 933472facf927e846a92709ecb64add9
+cliMsgId: 
+timestamp: 1473832383
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:53:06 PM
+==========================================
+api_id: 3613510
+apiMsgId: 933472facf927e846a92709ecb64add9
+cliMsgId: 
+timestamp: 1473832387
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:54:08 PM
+==========================================
+api_id: 3613510
+apiMsgId: 19e3a924d77c7a4184ca07625a8ccc91
+cliMsgId: 
+timestamp: 1473832450
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:54:11 PM
+==========================================
+api_id: 3613510
+apiMsgId: 19e3a924d77c7a4184ca07625a8ccc91
+cliMsgId: 
+timestamp: 1473832452
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:54:58 PM
+==========================================
+api_id: 3613510
+apiMsgId: 781ec8fa09478827d6d7607316a42ca6
+cliMsgId: 
+timestamp: 1473832499
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Wednesday 14th of September 2016 03:55:01 PM
+==========================================
+api_id: 3613510
+apiMsgId: 781ec8fa09478827d6d7607316a42ca6
+cliMsgId: 
+timestamp: 1473832502
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:09:37 AM
+==========================================
+api_id: 3613510
+apiMsgId: ad6c3a1bbeab3ead680cc934a42887c7
+cliMsgId: 
+timestamp: 1473901779
+to: 61430583951
+from: 
+status: 003
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:09:39 AM
+==========================================
+api_id: 3613510
+apiMsgId: ad6c3a1bbeab3ead680cc934a42887c7
+cliMsgId: 
+timestamp: 1473901782
+to: 61430583951
+from: 
+status: 004
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:10:05 AM
+==========================================
+api_id: 3613510
+apiMsgId: 174d1919d9011b15e59a132ccc62b4d6
+cliMsgId: 
+timestamp: 1473901809
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:10:08 AM
+==========================================
+api_id: 3613510
+apiMsgId: 174d1919d9011b15e59a132ccc62b4d6
+cliMsgId: 
+timestamp: 1473901812
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:25 AM
+==========================================
+api_id: 3613510
+apiMsgId: 09d84ff9a48eecd1887561b5fc50b52d
+cliMsgId: 
+timestamp: 1473902248
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:28 AM
+==========================================
+api_id: 3613510
+apiMsgId: 09d84ff9a48eecd1887561b5fc50b52d
+cliMsgId: 
+timestamp: 1473902251
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:43 AM
+==========================================
+api_id: 3613510
+apiMsgId: 4c7999b8aa101dbd341aab1e9dbd1a71
+cliMsgId: 
+timestamp: 1473902266
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:46 AM
+==========================================
+api_id: 3613510
+apiMsgId: 4c7999b8aa101dbd341aab1e9dbd1a71
+cliMsgId: 
+timestamp: 1473902270
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:56 AM
+==========================================
+api_id: 3613510
+apiMsgId: 8c0e64b4d5698f065bcaf4a38583d0e1
+cliMsgId: 
+timestamp: 1473902279
+to: 61430583951
+from: Novatel NOC
+status: 003
+charge: 1.000000
+==========================================
+
+Thursday 15th of September 2016 11:17:59 AM
+==========================================
+api_id: 3613510
+apiMsgId: 8c0e64b4d5698f065bcaf4a38583d0e1
+cliMsgId: 
+timestamp: 1473902283
+to: 61430583951
+from: Novatel NOC
+status: 004
+charge: 1.000000
+==========================================
+

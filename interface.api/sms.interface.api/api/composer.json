@@ -1,0 +1,10 @@
+{
+  "require": {
+    "arcturial/clickatell": "*",
+    
+    "joshcam/mysqli-database-class": "^2.6",
+    "phpmailer/phpmailer": "^5.2.16",
+    "curl/curl": "^1.3",
+    "ideea/unicode": "^1.0"
+  }
+}

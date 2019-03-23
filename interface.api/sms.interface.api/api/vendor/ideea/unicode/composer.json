@@ -1,0 +1,22 @@
+{
+    "name": "ideea/unicode",
+    "description": "Utils for work with unicode strings",
+    "keywords": ["unicode", "util" ],
+    "homepage": "https://github.com/ZhukV/Unicode",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaliy Zhuk",
+            "email": "zhuk2205@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.3"
+    },
+
+    "autoload": {
+        "psr-0": { "Ideea\\Unicode": "src/" }
+    }
+}
