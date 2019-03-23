@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/marketo"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="stylesheet.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8f20154f1b6762ee1be0b4e8fcfc9f25"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="emails.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1f4e299ae6c44c74c87861188848519a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="emails.phps"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="dadad76aac8e8af82318742d6c13f758"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="step2.htm"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="00613ae30518e63dfd1d8254f0d8f7fa"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="index.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9269a06a32a9954b2d0e3a7a49ca70c8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="ie6.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a5b3516220ebbe1179acaafb98f10e11"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="mktSignup.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="51ae059676175b056888922b3194ce0a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.maskedinput.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="83c8d12b0190702fa51938c293eddf74"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

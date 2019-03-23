@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/elfinder2.0/files"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name=".tmb"
+   kind="dir"/>
+<entry
+   name="Documents"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="passwords.txt"
+   text-time="2012-10-30T13:03:50.993000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4b69dde4d8e53ec534d5571b81427550"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="Other Files"
+   kind="dir"/>
+<entry
+   name=".quarantine"
+   kind="dir"/>
+<entry
+   name="temp"
+   kind="dir"/>
+<entry
+   name="Statistics"
+   kind="dir"/>
+<entry
+   name="Photos"
+   kind="dir"/>
+<entry
+   name="My Stuff"
+   kind="dir"/>
+</wc-entries>

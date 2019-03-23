@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/highcharts"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="highcharts.js"
+   text-time="2012-08-31T08:26:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b5e18a00cc1db3db0ebf4b4b909e1b60"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="highcharts-more.js"
+   text-time="2012-08-31T08:26:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ab647d93bf6d2c967eaa820878760df3"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="adapters"
+   kind="dir"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="highcharts.src.js"
+   text-time="2012-08-31T08:26:38.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="90de241ccb7bd933be873a33d28009b3"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="modules"
+   kind="dir"/>
+</wc-entries>

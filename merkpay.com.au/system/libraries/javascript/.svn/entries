@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/system/libraries/javascript"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="Jquery.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="83155c79408fb27bafc39e7894f4f40e"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

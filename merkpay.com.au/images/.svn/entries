@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2130"
+   name=""
+   committed-date="2014-02-24T06:43:48.501809Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/images"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2360"
+   name="audflag.jpg"
+   text-time="2014-03-03T23:42:50.732963Z"
+   committed-date="2014-03-04T00:41:23.041760Z"
+   checksum="397d69a019fb5b66efd52c02eca27fa4"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-04T00:42:09.794530Z"
+   revision="2360"/>
+<entry
+   committed-rev="2130"
+   name="tenpay.png"
+   text-time="2014-02-24T06:44:56.629040Z"
+   committed-date="2014-02-24T06:43:48.501809Z"
+   checksum="9a54dfa8b426d14b116c9ad6ea4f1cca"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T06:45:05.623555Z"/>
+<entry
+   committed-rev="2360"
+   name="tenpay1.png"
+   text-time="2014-03-03T23:24:28.811937Z"
+   committed-date="2014-03-04T00:41:23.041760Z"
+   checksum="fc227acb97e794d33d3bc07868f31226"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-04T00:42:09.856533Z"
+   revision="2360"/>
+<entry
+   committed-rev="2360"
+   name="tenpay3.png"
+   text-time="2014-03-03T23:47:53.094257Z"
+   committed-date="2014-03-04T00:41:23.041760Z"
+   checksum="301c77b2a245b07828f8e066bb36cae4"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-04T00:42:09.817531Z"
+   revision="2360"/>
+<entry
+   committed-rev="2395"
+   name="favicon.ico"
+   text-time="2014-03-04T05:58:58.386759Z"
+   committed-date="2014-03-04T05:57:50.212442Z"
+   checksum="d379b36eb11bdb7d0158c15fc457d1f5"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-04T05:59:09.429391Z"
+   revision="2395"/>
+</wc-entries>

@@ -1,0 +1,6 @@
+[22-Sep-2015 17:34:25 Antarctica/Macquarie] PHP Fatal error:  Call to undefined function getLogo() in /home/tenpayco/public_html/api/demo/index.php on line 5
+[22-Sep-2015 17:35:42 Antarctica/Macquarie] PHP Fatal error:  Cannot redeclare getLogo() (previously declared in /home/tenpayco/public_html/api/demo/compose.php:4) in /home/tenpayco/public_html/api/demo/compose.php on line 26
+[22-Sep-2015 18:14:26 Antarctica/Macquarie] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tenpayco/public_html/api/demo/compose.php on line 81
+[23-Sep-2015 01:45:02 Antarctica/Macquarie] PHP Warning:  simplexml_load_string(): Entity: line 6: parser error : Extra content at the end of the document in /home/tenpayco/public_html/api/demo/process.php on line 24
+[23-Sep-2015 01:45:02 Antarctica/Macquarie] PHP Warning:  simplexml_load_string(): Failed to update table weChatPaymentTransactions: You have an error in your SQL  in /home/tenpayco/public_html/api/demo/process.php on line 24
+[23-Sep-2015 01:45:02 Antarctica/Macquarie] PHP Warning:  simplexml_load_string(): ^ in /home/tenpayco/public_html/api/demo/process.php on line 24

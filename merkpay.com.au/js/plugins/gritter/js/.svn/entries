@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/gritter/js"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="jquery.gritter.js"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="04026d53aa2624c99f7976302549e7e7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.gritter.min.js"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0f43c9f68f7be475ab6eea23a8ca4426"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

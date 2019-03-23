@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="multipart"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="errorcontainer-demo.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="acfb93e60ec301670d19ac3d6555f733"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="custom-messages-metadata-demo.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b505acaa3bcb23dee9cc6826b167fccb"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="radio-checkbox-select-demo.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="af62bc7327baa8b26c79ae09706fc31b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="tabs"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="form.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c37704e6d34221253074ce7b1050235b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="dynamic-totals.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="3091ea7213f6f7c4677ed1a8d022e3a0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="milk"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="themerollered.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7db74f06072c1a34b2ae1f69d5c00bd1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="ajaxSubmit-intergration-demo.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b3acc6c3457dae67ab7b353ad5247841"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="custom-methods-demo.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bf24bf248ea1ed591ef42a4cd2318c85"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="file_input.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9c3b23b2c7e19e3cac52ac26b03ab618"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="marketo"
+   kind="dir"/>
+<entry
+   name="captcha"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="login"
+   kind="dir"/>
+<entry
+   name="tinymce"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="jquerymobile.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f0e1e383dab92ffbfb9d8914a5807fb5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="index.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f3cbf37e53820fa8d254f2b70c28c0c8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="form.phps"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c37704e6d34221253074ce7b1050235b"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

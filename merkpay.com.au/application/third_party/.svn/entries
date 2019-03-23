@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2102"
+   name=""
+   committed-date="2014-02-24T00:27:51.207657Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/third_party"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2102"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:27:51.207657Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

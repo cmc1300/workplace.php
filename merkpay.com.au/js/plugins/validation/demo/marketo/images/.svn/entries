@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/marketo/images"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="back_nav_blue.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="953a393be30bedcc53497520fca107f2"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:13.989811Z"/>
+<entry
+   committed-rev="2103"
+   name="login-sprite.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0030f16bea35735f431e32e9700fc3cc"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:08.037471Z"/>
+<entry
+   committed-rev="2103"
+   name="button-submit.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1e9931befb02a50b5d1aec0617bdbb45"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.600075Z"/>
+<entry
+   committed-rev="2103"
+   name="back_green-fade.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="61658e37c1b4823384344850df6909ae"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:04.382262Z"/>
+<entry
+   committed-rev="2103"
+   name="time.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b139ed675fdbdca56f0d73121f36f836"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.948095Z"/>
+<entry
+   committed-rev="2103"
+   name="step1-24.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d237a446839ad85afa8eec5d49312b44"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:04.945294Z"/>
+<entry
+   committed-rev="2103"
+   name="step2-24.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="16ace198bae32383ee19d23a9dbb8bff"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:04.974296Z"/>
+<entry
+   committed-rev="2103"
+   name="toggle.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4f85ad4104963a3926b8bb096d2f4a6e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:28.648650Z"/>
+<entry
+   committed-rev="2103"
+   name="step3-24.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="625165c7437836082d6e7e851c076d67"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:01.392091Z"/>
+<entry
+   committed-rev="2103"
+   name="logo_marketo.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="02c50c4c7f0cf566cfb52603d5f52b15"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:27.920608Z"/>
+<entry
+   committed-rev="2103"
+   name="backRequiredGray.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="409bc9ad700f928b627f138c3a7dff1d"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:13.888806Z"/>
+<entry
+   committed-rev="2103"
+   name="tab_green.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8cb161286236087a7b0c8209f12f58f7"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:24.056387Z"/>
+<entry
+   committed-rev="2103"
+   name="blank.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4a47d42933a433ec197cef19b88ee5e6"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:29.504699Z"/>
+<entry
+   committed-rev="2103"
+   name="sf.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5c0a823af58206a1ec7b716d3b419f50"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.950180Z"/>
+<entry
+   committed-rev="2103"
+   name="left-nav-callout-long.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ff214855e33517db82a3deb42ea67ba6"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:22.844318Z"/>
+<entry
+   committed-rev="2103"
+   name="favicon.ico"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="52dd4d71fadd47812bc1d685830b4079"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:28.893664Z"/>
+<entry
+   committed-rev="2103"
+   name="warning.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="99cb8859e1f99f25cb972b880bda2b0b"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:26:59.484982Z"/>
+<entry
+   committed-rev="2103"
+   name="help.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="adc9e97da5d4f24a85dd9eeccb3fb016"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:09.378548Z"/>
+<entry
+   committed-rev="2103"
+   name="tab-sprite.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f9f6f2f10fd0a5993d073bb19d3b0b85"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:15.680908Z"/>
+</wc-entries>

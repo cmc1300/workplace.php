@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/system/language/english"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="number_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="a12d5f99fdaf29ac8e70bbbc4be58d89"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="migration_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="d3500a3d1ae7ca1ba07dfe5430b39e3b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="ftp_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="ee685ab58e2d8c3a5f788bec84041c82"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="calendar_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="c99806514fd76bcda20fa0323a6481b1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="form_validation_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="55e056d4b09d43fbbc7b2021051a4174"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="date_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="8587e76174909459c230741dce0cb5c8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="unit_test_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="fbfde27be9084ef02f26bae9c44ff494"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="profiler_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="4c5c96826e574610ffff53510b796bd0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="imglib_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="42a14a4978484ad3da74e856c5a02969"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="upload_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="90ac3cffc0837e83ea6909a857292fdf"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="db_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="d43498105cfa805ac7939a8ad07b93b9"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="email_lang.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="85dee44ed00459c37c6cb5920e9601ec"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

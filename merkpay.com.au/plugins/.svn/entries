@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2059"
+   name=""
+   committed-date="2014-02-18T23:26:57.922623Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/plugins"
+   last-author="r.sun"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="DebugKit"
+   kind="dir"/>
+<entry
+   committed-rev="2059"
+   name="empty"
+   text-time="2014-02-27T05:42:19.274783Z"
+   committed-date="2014-02-18T23:26:57.922623Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="r.sun"
+   kind="file"
+   prop-time="2014-02-27T05:42:19.258782Z"/>
+</wc-entries>

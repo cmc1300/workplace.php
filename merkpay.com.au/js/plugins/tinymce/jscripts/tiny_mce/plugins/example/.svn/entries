@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/example"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin.js"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e0a175dca3d5e437657ccd5d548ff409"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin_src.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="3fcff53aee2c0828db3a4e9e78f9b580"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="dialog.htm"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e6170a190a4d44ea5e6af089d2728d7e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/multipart"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="style.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="93ae4ef05c605bf44a6a7583dbbf0b38"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="index.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="923e6dd2edd4063a673b8859f01bb76d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="js"
+   kind="dir"/>
+</wc-entries>

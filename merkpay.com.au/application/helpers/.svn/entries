@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2102"
+   name=""
+   committed-date="2014-02-24T00:27:51.207657Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/helpers"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2488"
+   name="authCheck_Helper.php"
+   text-time="2014-03-12T06:09:07.027847Z"
+   committed-date="2014-03-12T06:08:10.164092Z"
+   checksum="81a5cc96181fb9c36bbba56abc6d029c"
+   last-author="s.wang"
+   kind="file"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   schedule="delete"
+   prop-time="2014-03-12T05:38:08.158526Z"
+   revision="2488"/>
+<entry
+   committed-rev="2532"
+   name="authcheck_helper.php"
+   text-time="2014-03-14T05:44:27.454919Z"
+   committed-date="2014-03-14T06:17:40.527208Z"
+   checksum="83add186319c64319da9c40835591fbf"
+   last-author="s.wang"
+   kind="file"
+   revision="2532"/>
+<entry
+   committed-rev="2102"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:27:51.207657Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

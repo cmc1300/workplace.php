@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/paste"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="pasteword.htm"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8b9459b98f9a70ed684832326bf1cdf6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e7e3089339dc85691bed70d81734accd"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin_src.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="03eedc4d1f03ee650ad6959022b412aa"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="pastetext.htm"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8f217769e59a5dd67843c7c17c842f41"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="js"
+   kind="dir"/>
+</wc-entries>

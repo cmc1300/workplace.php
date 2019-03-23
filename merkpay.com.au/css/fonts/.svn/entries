@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/css/fonts"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="fontawesome-webfont.eot"
+   text-time="2012-08-31T13:32:11.936000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5f4a40c122903174c4227e6871b88cff"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:00.600046Z"/>
+<entry
+   committed-rev="2103"
+   name="fontawesome-webfont.ttf"
+   text-time="2012-08-31T13:32:11.939000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="6ea09593203493bfd053a1e838c62404"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:09.548557Z"/>
+<entry
+   committed-rev="2103"
+   name="fontawesome-webfont.svg"
+   text-time="2012-08-31T13:32:11.937000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="99097ca0b6675cd2f3c0d1482322da37"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="fontawesome-webfont.woff"
+   text-time="2012-08-31T13:32:11.939000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="04b9bfc362dcb9bc999c7d1bcb44a942"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:09.394549Z"/>
+</wc-entries>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="chosen"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="responsive-tables.js"
+   text-time="2012-10-30T11:37:49.292000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="6b8e95c61868846c59b912b932b71b34"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="gritter"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="avgrund.js"
+   text-time="2012-09-14T05:22:36.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8c98affe2e0a72cea9a4a3e905ede0ec"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="modernizr.custom.32549.js"
+   text-time="2012-09-06T12:32:15.740000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="71626f1230fb3ce305d85a24074c592b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="character-limit.js"
+   text-time="2012-09-24T15:40:39.888000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7865fc7a541d546d56aa88f81ec5ab1c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="highcharts"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="modernizr.js"
+   text-time="2012-09-06T12:26:25.373000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="15b7d5cf593909fc927930b9552cb732"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.uniform.min.js"
+   text-time="2012-09-25T11:08:44.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0502e81c1d9a3063885297bca76e4095"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="validation"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.js"
+   text-time="2012-09-25T07:34:13.735000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="2cd293870168ac1ff4625c2ea04ad881"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="textarea-autogrow.js"
+   text-time="2012-09-24T15:36:20.416000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="de82c73293230df2b84849c85878d207"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.bookblock.js"
+   text-time="2012-10-04T15:20:51.346000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5c020749027933ee9186ba7dc0e7fc0f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="wysihtml5-0.3.0.min.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4fcc9f496fd823f14115efa6a5731313"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-datepicker.js"
+   text-time="2012-09-25T12:05:33.876000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="3bd3cbe2229f1df33bccff7747a8be42"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-colorpicker.js"
+   text-time="2012-09-25T14:36:15.311000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a4de0c4ee51a9aff02e17f64f90e1ce6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.sparkline.min.js"
+   text-time="2012-10-19T07:12:04.272000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="fe4db19bd123db1b05be2639a5056a3b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquerypp.custom.js"
+   text-time="2012-09-01T14:34:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5c09aaf09d2c1c291aecd6eed91052f3"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="datatables"
+   kind="dir"/>
+<entry
+   name="flot"
+   kind="dir"/>
+<entry
+   name="wysihtml5"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="jquery.peity.min.js"
+   text-time="2012-09-05T14:09:59.039000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="438541ee0b8813222efdfa962af799d6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="justGage.1.0.1"
+   kind="dir"/>
+<entry
+   name="gmap3"
+   kind="dir"/>
+<entry
+   name="elfinder2.0"
+   kind="dir"/>
+<entry
+   name="tinymce"
+   kind="dir"/>
+<entry
+   name="full-calendar"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="jquery.maskedinput-1.3.js"
+   text-time="2012-09-25T06:23:28.749000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1ccd4f0c7c2363a8a3a9c886544f6039"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="pie"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="excanvas.compiled.js"
+   text-time="2009-03-22T10:09:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="13b23ed01c8dfb9e06ba26c665876df9"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

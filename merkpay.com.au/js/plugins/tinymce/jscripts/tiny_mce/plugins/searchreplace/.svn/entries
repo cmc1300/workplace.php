@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/searchreplace"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ed4f1fa6e12844b533c86258647a298f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin_src.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7292198991a0fda1b9c7b28c921c6521"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="searchreplace.htm"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4d01ee3be4045a600778fca1e11cee61"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="js"
+   kind="dir"/>
+</wc-entries>

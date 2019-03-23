@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/test/firebug"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="warningIcon.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="29c7f33c47b148ff8e0213cc8c513638"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:24.415408Z"/>
+<entry
+   committed-rev="2103"
+   name="errorIcon.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="011bb9b7eac7571ee8adb3cf27157c80"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:00.350031Z"/>
+<entry
+   committed-rev="2103"
+   name="firebug.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="21e3dc903446aeb3e8302dcfec27dc39"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="firebugx.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5a7d11ab3059e411319aab1e729df97c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="infoIcon.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4c28612029b22c5ac1b2df9955a94ebc"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:23.754370Z"/>
+<entry
+   committed-rev="2103"
+   name="firebug.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b6fc54e6632ce662b918b59fdf90364e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="firebug.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c32da437064c8f7a1a0769d8bf1faedf"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

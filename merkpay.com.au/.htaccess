@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+RewriteCond %{HTTP_HOST} ^merkpay\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.merkpay\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.merkpay\.com\.au\/" [R=301,L]
+

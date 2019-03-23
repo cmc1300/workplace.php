@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/gmap3"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="gmap3.min.js"
+   text-time="2011-11-18T18:14:22.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b899c7c26c5c7f483b8aed20ce6a29e8"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

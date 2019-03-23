@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/spellchecker/img"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="wline.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c136c9f8e00718a98947a21d8adbcc56"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:19.266113Z"/>
+</wc-entries>

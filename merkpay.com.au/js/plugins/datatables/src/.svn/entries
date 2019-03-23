@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/datatables/src"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="DataTables.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1cf483908a9fb472f65750faa0a4b82a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="ext"
+   kind="dir"/>
+<entry
+   name="model"
+   kind="dir"/>
+<entry
+   name="core"
+   kind="dir"/>
+<entry
+   name="api"
+   kind="dir"/>
+</wc-entries>

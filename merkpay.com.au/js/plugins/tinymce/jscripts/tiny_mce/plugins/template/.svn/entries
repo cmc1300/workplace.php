@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/template"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin.js"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="70cb20c4e287110ae8aeed999893c532"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="template.htm"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b55e174e239e5c4b3a52d6ad60eb991d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="editor_plugin_src.js"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="336af7b2ec3e0f7c83a7d05bf16cd018"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="blank.htm"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9553e76581d74579d23bea5c7ea8a807"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

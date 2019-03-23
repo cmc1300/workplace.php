@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2430"
+   name=""
+   committed-date="2014-03-05T06:55:34.950049Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/views/admin"
+   last-author="r.sun"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2479"/>
+<entry
+   committed-rev="2562"
+   name="userlist.php"
+   text-time="2014-03-19T09:04:31.349155Z"
+   committed-date="2014-03-19T09:21:25.008522Z"
+   checksum="15b33a4f0aa6fa98b75fc0dd26becd80"
+   last-author="s.wang"
+   kind="file"
+   revision="2562"/>
+<entry
+   committed-rev="2492"
+   name="register_success.php"
+   text-time="2014-03-12T06:29:30.281814Z"
+   committed-date="2014-03-12T06:28:14.254057Z"
+   checksum="92c04f9674cb7ec9d75d244e234b2ad8"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T06:57:26.598215Z"
+   revision="2492"/>
+<entry
+   committed-rev="2320"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-03-03T03:55:45.450096Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2552"
+   name="edit.php"
+   text-time="2014-03-18T23:19:14.192569Z"
+   committed-date="2014-03-18T23:54:19.130800Z"
+   checksum="2647823eecf9c6e7fbec51e5a68a73c0"
+   last-author="s.wang"
+   kind="file"
+   revision="2552"/>
+<entry
+   committed-rev="2531"
+   name="registry.php"
+   text-time="2014-03-14T05:41:59.788473Z"
+   committed-date="2014-03-14T06:17:32.847783Z"
+   checksum="a3f4d4bbd7a37c122f4a7ea724c95f3f"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T06:35:32.416048Z"
+   revision="2531"/>
+</wc-entries>

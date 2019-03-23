@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2354"
+   name=""
+   committed-date="2014-03-03T06:46:25.145570Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application"
+   last-author="s.wang"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="hooks"
+   kind="dir"/>
+<entry
+   name="language"
+   kind="dir"/>
+<entry
+   name="models"
+   kind="dir"/>
+<entry
+   name="core"
+   kind="dir"/>
+<entry
+   name="third_party"
+   kind="dir"/>
+<entry
+   name="views"
+   kind="dir"/>
+<entry
+   name="helpers"
+   kind="dir"/>
+<entry
+   name="cache"
+   kind="dir"/>
+<entry
+   name="logs"
+   kind="dir"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="controllers"
+   kind="dir"/>
+<entry
+   committed-rev="2102"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:27:51.207657Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2102"
+   name=".htaccess"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:27:51.207657Z"
+   checksum="209634bb0238704c4874c35d615ae59e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="errors"
+   kind="dir"/>
+<entry
+   name="libraries"
+   kind="dir"/>
+</wc-entries>

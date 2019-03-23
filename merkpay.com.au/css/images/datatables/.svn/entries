@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/css/images/datatables"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="sort_both.png"
+   text-time="2012-09-07T11:00:28.630000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="24762006c2672af184aca215f478a1d2"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:27.481583Z"/>
+</wc-entries>

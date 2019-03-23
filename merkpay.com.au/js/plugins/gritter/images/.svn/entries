@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/gritter/images"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="gritter-long.png"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="73ab5f9e18c8c475e178b54443cf6184"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:10.148592Z"/>
+<entry
+   committed-rev="2103"
+   name="trees.jpg"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f532b8c618b90a0483fe07be66e6b1b9"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:17.291000Z"/>
+<entry
+   committed-rev="2103"
+   name="gritter.png"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0d28eb4cdd458ada4abc38b596ad281c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:11.469667Z"/>
+<entry
+   committed-rev="2103"
+   name="gritter-light.png"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0bd3702890052075b08500ea9dbe580f"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:00.103017Z"/>
+<entry
+   committed-rev="2103"
+   name="ie-spacer.gif"
+   text-time="2012-06-04T09:22:46.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:01.611103Z"/>
+</wc-entries>

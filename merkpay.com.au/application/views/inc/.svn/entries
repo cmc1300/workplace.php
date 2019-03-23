@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2449"
+   name=""
+   committed-date="2014-03-07T05:07:01.100223Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/views/inc"
+   last-author="r.sun"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2479"/>
+<entry
+   committed-rev="2563"
+   name="admin_menu.php"
+   text-time="2014-03-19T09:07:27.420226Z"
+   committed-date="2014-03-19T09:21:33.093870Z"
+   checksum="9142fcc63f7edbe625c0d5d27ab6cac3"
+   last-author="s.wang"
+   kind="file"
+   revision="2563"/>
+<entry
+   committed-rev="2307"
+   name="footer.php"
+   text-time="2014-03-03T03:19:06.970364Z"
+   committed-date="2014-03-03T03:19:29.819749Z"
+   checksum="183e3fdc400fb56e0bb45afb2a7e224d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2530"
+   name="adminheader.php"
+   text-time="2014-03-14T05:45:21.723023Z"
+   committed-date="2014-03-14T06:17:29.416903Z"
+   checksum="2d80959d3369e0c1ad3fd4a0895c0229"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-12T05:38:15.801963Z"
+   revision="2530"/>
+<entry
+   committed-rev="2530"
+   name="header_content.php"
+   text-time="2014-03-14T05:34:28.592666Z"
+   committed-date="2014-03-14T06:17:29.416903Z"
+   checksum="348cb23300071cc2f881b08560920ee2"
+   last-author="s.wang"
+   kind="file"
+   revision="2530"/>
+<entry
+   committed-rev="2564"
+   name="topbar.php"
+   text-time="2014-03-19T08:58:53.671841Z"
+   committed-date="2014-03-19T09:21:40.316567Z"
+   checksum="57fba14b2afbf43b2453d688b5b7395f"
+   last-author="s.wang"
+   kind="file"
+   revision="2564"/>
+<entry
+   committed-rev="2530"
+   name="header.php"
+   text-time="2014-03-14T05:41:24.372448Z"
+   committed-date="2014-03-14T06:17:29.416903Z"
+   checksum="8be8424d71ef80839b82af89ac0bc0b1"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-12T05:38:15.848966Z"
+   revision="2530"/>
+</wc-entries>

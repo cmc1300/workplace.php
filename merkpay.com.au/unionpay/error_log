@@ -1,0 +1,271 @@
+[10-Jan-2015 15:19:00 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(26): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[10-Jan-2015 15:29:14 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(47): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[10-Jan-2015 15:43:21 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(49): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[10-Jan-2015 15:44:47 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(49): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[10-Jan-2015 15:54:19 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(26): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[10-Jan-2015 18:12:38 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(44): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[10-Jan-2015 18:14:01 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(50): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[10-Jan-2015 18:17:48 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'origQid is not provided' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(29): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53
+[10-Jan-2015 18:32:07 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'KEY [orderTime] not set in params given' in /home/tenpayco/public_html/unionpay/quickpay_service.php:187
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(31): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 187
+[10-Jan-2015 18:42:08 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(50): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[11-Jan-2015 17:54:32 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'origQid is not provided' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(29): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53
+[12-Jan-2015 12:42:04 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'origQid is not provided' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(29): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53
+[12-Jan-2015 12:49:04 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(52): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 12:49:19 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(52): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 12:49:44 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(52): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 12:50:10 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(46): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[12-Jan-2015 12:53:59 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(58): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[12-Jan-2015 13:03:44 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:48
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(43): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 48
+[12-Jan-2015 13:04:10 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(52): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:05:58 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(52): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:07:57 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(53): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:13:46 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:15:46 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:19:35 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/tenpayco/public_html/unionpay/back.php on line 44
+[12-Jan-2015 13:19:35 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:19:40 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(54): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:22:26 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(43): quickpay_service->quickpay_service(Array, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:22:41 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(43): quickpay_service->quickpay_service(Array, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:27:38 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(53): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:28:09 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(53): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:32:36 Pacific/Auckland] PHP Fatal error:  Using $this when not in object context in /home/tenpayco/public_html/unionpay/back.php on line 33
+[12-Jan-2015 13:36:10 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(53): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:38:34 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(53): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:45:26 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:45:49 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:45:58 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:46:02 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:46:14 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:134
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 134
+[12-Jan-2015 13:47:10 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 13:47:48 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 13:54:14 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 13:56:02 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 14:13:08 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 14:13:13 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:139
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(55): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 139
+[12-Jan-2015 14:17:15 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:55
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/front.php(29): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 55
+[12-Jan-2015 14:23:34 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:141
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(57): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 141
+[12-Jan-2015 14:23:43 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:141
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(57): quickpay_service->quickpay_service(NULL, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 141
+[12-Jan-2015 14:29:08 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:141
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(57): quickpay_service->quickpay_service(false, 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 141
+[12-Jan-2015 16:41:52 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'origQid is not provided' in /home/tenpayco/public_html/unionpay/quickpay_service.php:60
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(46): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 60
+[12-Jan-2015 16:43:07 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'origQid is not provided' in /home/tenpayco/public_html/unionpay/quickpay_service.php:60
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/back.php(46): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 60
+[20-Jan-2015 14:30:05 Pacific/Auckland] PHP Fatal error:  Using $this when not in object context in /home/tenpayco/public_html/unionpay/front_notify.php on line 7
+[20-Jan-2015 15:40:51 Pacific/Auckland] PHP Warning:  require_once(/home/tenpayco/public_html/unionpay/config.php): failed to open stream: No such file or directory in /home/tenpayco/public_html/unionpay/front_notify.php on line 4
+[20-Jan-2015 15:40:51 Pacific/Auckland] PHP Fatal error:  require_once(): Failed opening required '/home/tenpayco/public_html/unionpay/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tenpayco/public_html/unionpay/front_notify.php on line 4
+[20-Jan-2015 16:05:52 Pacific/Auckland] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tenpayco/public_html/unionpay/front_notify.php on line 14
+[21-Jan-2015 17:03:32 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/midpay.php(30): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53
+[21-Jan-2015 17:04:31 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/midpay.php(30): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53
+[23-Jan-2015 11:22:37 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:136
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/midpay.php(38): quickpay_service->quickpay_service('<script languag...', 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 136
+[23-Jan-2015 11:23:02 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'No signature Or signMethod set in notify data!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:136
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/midpay.php(38): quickpay_service->quickpay_service('<script languag...', 3)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 136
+[23-Jan-2015 12:17:28 Pacific/Auckland] PHP Fatal error:  Uncaught exception 'Exception' with message 'consume OR pre_auth transactions need cardNumber!' in /home/tenpayco/public_html/unionpay/quickpay_service.php:53
+Stack trace:
+#0 /home/tenpayco/public_html/unionpay/midpay.php(31): quickpay_service->quickpay_service(Array, 2)
+#1 {main}
+  thrown in /home/tenpayco/public_html/unionpay/quickpay_service.php on line 53

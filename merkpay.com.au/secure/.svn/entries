@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/secure"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="recaptchalib.php"
+   text-time="2014-02-23T23:22:41.955344Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="cc590c0782970a8f215a33c5cbc474e1"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/themes/advanced/skins/default"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="content.css"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1779499935490440d7a2423157756bc5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="ui.css"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="823d750bb9c2bde55084d322f44b17c1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="dialog.css"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ab94126c11ff9c79445cc4ad537b2823"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="img"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/captcha"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="image_req.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="59a4e7bc4b27cd2ec9af95a80c342ec8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="newsession.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8d206b5088a47f81405b278b65950307"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="process.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="092b15f16a3fd4d7f95ccc618bda52b9"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="style.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="17c460157a0280ffa48138cc2848b4b5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="rand.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9a1278d7ee6b2978335ca27896b4d517"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="index.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="2083263f0a8679c6e2790a09cf5fd4dc"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="captcha.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4a34e7f3a43a45c807234b05094ab4eb"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

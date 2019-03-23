@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1542"
+   name=""
+   committed-date="2014-01-20T05:29:36.624746Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/.settings"
+   last-author="s.wang"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="1542"
+   name="org.eclipse.php.core.prefs"
+   text-time="2014-02-23T22:55:42.108694Z"
+   committed-date="2014-01-20T05:29:36.624746Z"
+   checksum="045d98e482d3377d35fe4b62c6825d07"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-23T22:55:42.086692Z"/>
+</wc-entries>

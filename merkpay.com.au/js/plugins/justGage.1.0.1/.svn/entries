@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/justGage.1.0.1"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="custom-interval.htm"
+   text-time="2012-10-01T07:34:11.493000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ead96603fd6e7baf339ae01e26725150"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="customize-style.htm"
+   text-time="2012-08-01T18:08:12.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ed310093a008ce6530f94aa37370f772"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="auto-adjust.htm"
+   text-time="2012-08-01T18:06:48.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="eeac29dff3e90d2319db1de7d90b7150"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="show-color-by-sector.htm"
+   text-time="2012-08-01T18:08:58.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="80d558bd393f37d2ba9624a5d63e306c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="resources"
+   kind="dir"/>
+</wc-entries>

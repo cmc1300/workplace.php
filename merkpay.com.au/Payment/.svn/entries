@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/Payment"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="Pay.php"
+   text-time="2014-02-23T23:22:41.674328Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="6463fa35831d7115d44759b307350be9"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="payment.php"
+   text-time="2014-02-23T23:22:41.772333Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="02fcdbee1bc1ef4048d4b23d14376c2b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name=".project"
+   text-time="2014-02-23T23:22:41.526319Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="ff65353b991b6e21b5ad1fba0ceed9e7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="error_log"
+   text-time="2014-02-23T23:22:41.609324Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="a886c3b4afeffd1e6648d2f25636722d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name=".myumldata"
+   text-time="2014-02-23T23:22:41.442314Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="3035944c15dd890ddbef91e2a1d3c757"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="tenpay_cc.php"
+   text-time="2014-02-23T23:22:41.835337Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="227067818b28563b0f4a1acea85e08a0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+</wc-entries>

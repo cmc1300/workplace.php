@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/login/images"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="page.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a3ec3754385fedb765b6f9b6f0600502"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:16.667965Z"/>
+<entry
+   committed-rev="2103"
+   name="header1.jpg"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ab0abdf5251a49bcd68fd4001323887c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:15.588903Z"/>
+<entry
+   committed-rev="2103"
+   name="bg.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="04875fe605333bf05e51a8a4e74ec3d9"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:06.842403Z"/>
+<entry
+   committed-rev="2103"
+   name="required_star.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="6ae3f1531c2c6df6d815f9f0e236ed11"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:23.973382Z"/>
+</wc-entries>

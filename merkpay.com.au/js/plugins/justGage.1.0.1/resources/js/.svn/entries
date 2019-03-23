@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/justGage.1.0.1/resources/js"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="justgage.1.0.1.js"
+   text-time="2012-08-01T18:02:48.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ac62b5cc34d0487652401063b66922ca"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="justgage.1.0.1.min.js"
+   text-time="2012-08-01T18:05:06.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b847def46d88528d7e2ee38e3f3b5ca6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="raphael.2.1.0.min.js"
+   text-time="2012-07-02T11:57:58.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8000a8e8becee8d35a8bb61503c4aa1a"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,345 @@
+body {
+background : url(../images/bg.png) repeat #fff;
+}
+
+/* MAIN DIV */
+
+#main {
+width : 1100px; /*1100px;*/
+margin : 80px auto;
+}
+header {
+width : 211px;
+}
+
+/* COL_1 DIV */
+/* the first column div styling, the logo and the egg is included here */
+
+#col_1 {
+clear : both;
+float : left;
+/**margin-top : 20px;*/
+margin-left : 55px;
+/**width : 262px;*/
+display : block;
+}
+
+/* The logo comes as a backgroung  */
+
+#col_1 h1 {
+margin-left: 72px;
+/**background : url(../images/logo.png) no-repeat;*/
+text-indent : -1000px;
+/**width : 211px;*/
+height : 87px;
+}
+
+/* this is the egg picture */
+#col_1 img {
+float : left;
+padding : 25px 10px 0 20px;
+}
+
+
+/* COL_2 DIV */
+/* the second column div styling, the speech bubble, message and the countdoed are included here */
+
+#col_2 {
+float : right;
+width : 380px;
+margin-right : 100px;
+margin-top: 25px;
+}
+
+/* this is the speech bubble div, it has a css3 gradient background */
+
+#eggword {
+	position:relative;
+	width:340px;
+	height:340px;
+/**	margin:1em auto 80px;*/
+	text-align:center;
+	color:#fff; 
+	background:url(http://netcube.com.au/underconstruction/images/web_03.png) no-repeat;
+	/* css3 */
+/**	background:-webkit-gradient(linear, 0 0, 0 100%, from(#e64c74), to(#d8305c));
+	background:-moz-linear-gradient(#e64c74, #d8305c);
+	background:-o-linear-gradient(#e64c74, #d8305c);
+	background:linear-gradient(#e64c74, #d8305c);
+	/*
+	NOTES:
+	-webkit-border-radius:170px; // produces oval in safari 4 and chrome 4
+	-webkit-border-radius:170px; // produces oval in chrome 4 (again!) but not supported in safari 4
+	
+	*/
+/**	-webkit-border--radius:170px;
+	-moz-border-radius:170px;
+	border-radius:170px;*/
+}
+
+
+
+/* creates the larger circle */
+/**#eggword:before {
+	content:"";
+	position:absolute;
+	bottom:-50px;
+	right:200px;
+	border-width:100px 0px 200px 100px;
+	border-style:solid;
+	border-color:transparent #db3661;
+	z-index:-2;
+transform:rotate(35deg);
+-ms-transform:rotate(35deg); /* IE 9 */
+/**-moz-transform:rotate(35deg); /* Firefox */
+/**-webkit-transform:rotate(35deg); /* Safari and Chrome */
+/**-o-transform:rotate(35deg); /* Opera */
+}
+
+/* hello there my friend text */
+
+#eggword h1 {
+padding : 67px 56px 15px 56px;
+text-align : center;
+font-family : 'Lobster', arial, sans-serif;
+font-size : 50px;
+color : #eae8e8;
+}
+
+/* the sorry, but... text */
+
+#eggword p {
+padding : 30px;
+text-align : center;
+font-family : Arial, Helvetica, sans-serif;
+font-size : 24px;
+color : #eae8e8;
+}
+
+
+.msgboxtop {
+letter-spacing: 0.2em;
+position: absolute;
+margin-top : 70px;
+width : 400px;
+font-family: Tahoma, Helvetica, Arial, 'Microsoft Yahei','微软雅黑', STXihei, '华文细黑', sans-serif;
+font-size : 36px;
+color : #54504f;
+text-align : center;
+line-height:1.5em;
+}
+
+.msgboxtop span{
+	color:#ed6f3e;
+	font-weight: bold;
+}
+
+/* the info about being under construction */
+
+.firstinfo {
+/**margin-top : 65px;*/
+width : 400px;
+font-family: Tahoma, Helvetica, Arial, 'Microsoft Yahei','微软雅黑', STXihei, '华文细黑', sans-serif;
+font-size : 24px;
+color : #54504f;
+text-align : center;
+}
+
+/* styling the counddown */
+
+#counter {
+margin-top : 37px;
+margin-left: 1px;
+width : 320px;
+height : 85px;
+font-family : /**Arial, */Helvetica, sans-serif;
+font-weight:500;
+  
+font-size : 42px;
+color : #CCCCCC;
+}
+
+.countDays{
+    float: left;
+    height: 85px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+    width: 70px;
+    background: none repeat scroll 0 0 #585858;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.countHours, .countMinutes, .countSeconds {
+    background: none repeat scroll 0 0 #585858;
+    border-radius: 5px 5px 5px 5px;
+    display: block;
+    float: left;
+    height: 85px;
+    margin-left: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+    width: 70px;
+/**float : left;
+width:52px;
+height:100px;
+padding-left : 35px;
+width : 60px;
+text-align : left;
+display : block;*/
+}
+.digit {
+position : absolute;
+top : 0;
+left : 0;
+}
+.position {
+position : relative;
+float : left;
+width : 30px;
+height:20px;
+margin : 8px 0 0 0;
+}
+.boxName {
+font-family : Arial, Helvetica, sans-serif;
+font-size : 12px;
+font-weight : 100;
+text-transform : capitalize;
+text-align:center;
+display:block;
+margin: 65px 0 0 0;
+}
+/* margin left for DAYS and HOURS that the text may come to center much more */
+.Days { } 
+.Hours {  }
+
+
+/* NEWSLETTER SECTION */
+
+/* this is the section that contains the newsletter form and the text above it */
+section {
+clear : both;
+width : 1100px;
+padding-top : 5px;
+}
+
+/* the invitation to subscribe to the newsletter, starting with Meanwhile.. */
+
+section p {
+font-family: Tahoma, Helvetica, Arial, 'Microsoft Yahei','微软雅黑', STXihei, '华文细黑', sans-serif;
+font-size : 18px;
+font-weight:400;
+text-align : center;
+color : #585858;
+padding : 25px 0px;
+}
+
+/* The div wich contains the form */
+
+.form-container {
+width : 1100px;
+height : 40px;
+display : block;
+position:relative;
+}
+
+/* the part where the email will be submitted */
+
+.email {
+width : 530px;
+height : 38px;
+margin : 0 0 0 227px;
+padding-left : 26px;
+background : #f5f5f5;
+border : #c8c8c8 solid 1px;
+border-radius : 6px;
+font-family : Arial, Helvetica, sans-serif;
+font-size : 14px;
+color : #585858;
+font-style : italic;
+text-align : left;
+line-height : 14px;
+}
+/* the style of the email when the cursor is placed on it */
+
+.email:focus {
+outline : 0;
+background : #f0f0f0;
+}
+
+/* This is the submit button, which is done fully with CSS3 */
+
+.submit {
+	moz-box-shadow:inset 0px 1px 0px 0px #ed6f3e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ed6f3e;
+	box-shadow:inset 0px 1px 0px 0px #ed6f3e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f17817), color-stop(1, #f47a20) );
+	background:-moz-linear-gradient( center top, #f17817 5%, #f47a20 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f17817', endColorstr='#f47a20');
+	background-color:#f17817;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #f47a20;
+	display:inline-block;
+	color:#fcfcfc;
+	font-family:arial;
+	font-size:18px;
+	padding:10px 31px;
+	text-decoration:none;
+	text-transform:uppercase;
+	height:42px;
+	width:116px;
+	position:absolute;
+	right:200px;
+	}
+/* styling the submit button when the mouse points on it */
+
+.submit:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f47a20), color-stop(1, #f17817) );
+	background:-moz-linear-gradient( center top, #f47a20 5%, #f17817 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#f17817');
+	background-color:#f47a20;
+} 
+
+.submit:active {
+	position:absolute;
+	top:1px; 
+}
+
+/* SOCIAL DIV */
+/* the social icons container div */
+#social {
+clear : both;
+width : 320px;
+margin : 26px auto;
+}
+/* the un-ordered list wich is used to display the social icons */
+
+#social ul {
+width : 320px;
+}
+/* the links in the ul, style to bring the icons side by side */
+
+#social li {
+float : left;
+padding-left: 20px;
+}
+
+#social a {
+	position:relative;
+}
+
+/* the icon images style */
+#social li img {
+width : 40px;
+height : 40px;
+/**border : #838282 solid 1px;*/
+border-radius : 21px;
+}
+/* styling images when the mouse is over them */
+#social li img:hover {
+/**	border : #db3661 solid 2px;*/
+	
+}

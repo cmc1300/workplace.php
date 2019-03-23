@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/sass/twitter"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="_responsive-utilities.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="633f899fa7976d3da4fe4f963b62c1fa"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_responsive-1200px-min.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="c5cb6ff9942f77e408e5d1c08db574e4"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_thumbnails.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="cafe1f4c135d735a24811f313c60b704"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_variables.scss"
+   text-time="2012-10-31T11:56:55.550000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="d70e4cf03bff8e1ba74231ea287e264b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_navbar.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="8ac8770fd3d5d947a14aa872c2e399e0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_grid-fix.scss"
+   text-time="2012-09-05T13:56:34.287000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="74788144078a7c4e8f1010f4e48e3531"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_hero-unit.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="81cedf0c36bf6289047284d1c233c4e1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_code.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="0e6f98cea00998f0463f610c396678b1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_utilities.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="21586e793c4362ae197cc67620b04048"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="bootstrap.scss"
+   text-time="2012-10-31T11:43:00.865000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="5d719deab2d484439bd2f838571de66d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_modals.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="970867366c3a544a04efc5515f9aad8b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_media.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="291dc78e3a59c66c7a1be96ccb743c8f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_dropdowns.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="6e46bf6aab35cb15be64e6ca141e7f77"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_scaffolding.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="3a59331587ddc25c87094f0ad93d94af"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_reset.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="8e66427a1f2200f6301001dba1369baa"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_labels-badges.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="8b847018b23d6d4493de3b097a712689"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_grid.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="aa8acdb4fb46f594eee978ca10d52b4f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_forms.scss"
+   text-time="2012-10-31T12:27:19.001000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="18c11e3593c589949393c5dbfbcd64e2"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_pagination.scss"
+   text-time="2012-10-31T12:20:49.559000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="a9458ddd1a6d39a938628ffe56e307b0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="2106"
+   name="_sprites.scss"
+   text-time="2012-10-31T12:31:39.393000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="fb5e1a14b8032385790b877b8835289b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_alerts.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="b46a034e3558d7faf780a831f1f8aebe"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_buttons.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="e217c6a19d7b78cbc7bc29646c3f43d8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="responsive.scss"
+   text-time="2012-10-31T12:07:34.212000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="5657fd31f6b8bd4f71ebda89aff342d5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_accordion.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="1dafe50d0f9b84a39d2f645801f5831b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_responsive-navbar.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="7c9a94e4a168336430f24294879f673f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_mixins.scss"
+   text-time="2012-10-31T11:50:58.148000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="aa45a6977bc2369c1b9c9bda64909cca"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_navs.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="d9b3d6f1c9a02bff6027f903a848b4fe"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_responsive-767px-max.scss"
+   text-time="2012-10-31T12:02:53.670000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="b3d2e4c3b92a46bfb35e267f5b762da1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_tables.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="6f29d838f206ce82d0acc1dc443b568a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_carousel.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="6284a4c70267e2a763b6d12b8bbf722c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_popovers.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="54c83ead72ae0b432785872be90612a0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_type.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="e8998c35b28b94c6eef9d32972f76ad3"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_responsive-768px-979px.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="e219c2ae271e9f349f1da57d739b747b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_wells.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="e5719aa1e08d35ddb75729ff2972ce5f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_button-groups.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="4494982e26fad86dec286d37e9f7dd79"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_progress-bars.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="6707fd517c60719b5adec5e7562a046c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_breadcrumbs.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="16666a071e31165bd5c0f1a3aa6c73f8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_tooltip.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="85c1ba458fabbf52afdf93eeac9a9b9b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_pager.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="ec8ef7d9e4f1effd899f84ef1f621a75"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_layouts.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="ed81105f265f0734921f62dead210e0a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_component-animations.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="cbd4adf80b676a539d9dde7009ab43e8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_close.scss"
+   text-time="2012-10-31T02:35:34.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="ba9337a64376dbd22505eccdb9509d50"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="corners.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="55298b5baaecb7e06a251db9f0a4b14c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.395148Z"/>
+<entry
+   committed-rev="2103"
+   name="button.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="19f864cb81177840dcd534df4d537ea3"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:17.442009Z"/>
+<entry
+   committed-rev="2103"
+   name="confirm.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1bc337a20c319e531cda6ced531827d0"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:21.968268Z"/>
+<entry
+   committed-rev="2103"
+   name="buttons.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1743ac9f7f2267a6edafefc536a2265d"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:05.545328Z"/>
+<entry
+   committed-rev="2103"
+   name="alert.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="568d4cf84413656fb72fe39d1dd60f8d"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:16.890977Z"/>
+<entry
+   committed-rev="2103"
+   name="vertical.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0261136fac58ce77bdbd96aa0194947e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:03.434208Z"/>
+<entry
+   committed-rev="2103"
+   name="horizontal.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0365e75dd4a9ad61dc98dcb641207c21"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:14.935865Z"/>
+</wc-entries>

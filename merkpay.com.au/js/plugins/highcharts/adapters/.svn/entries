@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/highcharts/adapters"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="prototype-adapter.src.js"
+   text-time="2012-08-31T08:26:38.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5b4c64a44cf59fd2c892a3d21942f9f8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="mootools-adapter.js"
+   text-time="2012-08-31T08:26:38.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1db8a1668d4c4dc75ff65ce8161132d7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="mootools-adapter.src.js"
+   text-time="2012-08-31T08:26:38.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b302d0815f70bccb6cc81bef4cef5f26"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="prototype-adapter.js"
+   text-time="2012-08-31T08:26:38.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="230b8e8fea1bba8e6b6d1cd24adac580"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

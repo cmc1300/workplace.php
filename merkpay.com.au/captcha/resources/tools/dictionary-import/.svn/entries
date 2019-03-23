@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/captcha/resources/tools/dictionary-import"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="importwords.php"
+   text-time="2014-02-23T23:22:39.369196Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="cf033b2ade2006a71fc63b0b65c1d9d0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="sample-words-es.txt"
+   text-time="2014-02-23T23:22:39.831222Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f5ccaa95dcd9689ea10a39858d1bddd7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="sample-words-en.txt"
+   text-time="2014-02-23T23:22:39.727216Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="48a7a591ed10bfa7ac8eb37c8ace9045"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="README.txt"
+   text-time="2014-02-23T23:22:39.427199Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8dfa4a2001f3a1934eac8c5634eaf7d7"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/elfinder2.0/img"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="logo.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="cb9f576d7f18a12d7491792263d81194"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:26.925551Z"/>
+<entry
+   committed-rev="2103"
+   name="icons-small.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1cc7e5b5209b52315229e06a848d679b"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:13.746797Z"/>
+<entry
+   committed-rev="2103"
+   name="resize.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7534f49b3685850784498a01b7f6bcd6"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.617076Z"/>
+<entry
+   committed-rev="2103"
+   name="dialogs.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e2304c50865f6e9f6f7d4b743f067071"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:11.625676Z"/>
+<entry
+   committed-rev="2103"
+   name="toolbar.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f0d5e6de3a2d9aee9369ca04b0cbc59e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:16.453952Z"/>
+<entry
+   committed-rev="2103"
+   name="arrows-normal.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e479c6b5847e562e1cf6f12bef3cb850"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.566073Z"/>
+<entry
+   committed-rev="2103"
+   name="crop.gif"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7a4b4c6ebdb549fcbe47408f9457493e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:14.338831Z"/>
+<entry
+   committed-rev="2103"
+   name="progress.gif"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a9371aaf90b95f71ff98eb9c861ad28c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:15.056872Z"/>
+<entry
+   committed-rev="2103"
+   name="arrows-active.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5463d585532aa23a6a54776a020c7f04"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.299058Z"/>
+<entry
+   committed-rev="2103"
+   name="quicklook-bg.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="59c269d5821ab7c018d8e9248c6ab030"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:21.836260Z"/>
+<entry
+   committed-rev="2103"
+   name="spinner-mini.gif"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7b9776076d5fceef4993b55c9383dedd"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:26.669537Z"/>
+<entry
+   committed-rev="2103"
+   name="icons-big.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ebbfff72ab0f3af7185a26484e1ccb42"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.529156Z"/>
+<entry
+   committed-rev="2103"
+   name="quicklook-icons.png"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f141d9d9669cfb9dc492edb91e99bf9c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.756169Z"/>
+</wc-entries>

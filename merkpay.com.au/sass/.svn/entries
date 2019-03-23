@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/sass"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="twitter"
+   kind="dir"/>
+<entry
+   committed-rev="2106"
+   name="_general_classes.scss"
+   text-time="2012-10-30T12:12:09.388000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="f33258b3bc1b03aff553f64b021e4ce3"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="jquery-ui-1.8.23.custom.scss"
+   text-time="2012-08-31T14:16:49.185000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="0bfe4a3ea053499c3ae547ee212f71f8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="base.scss"
+   text-time="2012-11-11T13:52:56.807000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="a644ead93d30a55adfe5557084fc1fcb"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_full-calendar-1.5.4.scss"
+   text-time="2012-09-07T16:05:56.570000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="13b923982057c9aa26a2769822d6c23f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="font"
+   kind="dir"/>
+<entry
+   committed-rev="2106"
+   name="_general.scss"
+   text-time="2012-10-31T12:29:23.827000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="78c3b7d4a23e43d0d74180740d17690a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="responsive.scss"
+   text-time="2012-09-05T06:36:27.730000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="83208cad7b2c3e6c4ca6e6cc76465e94"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_gallery.scss"
+   text-time="2012-07-17T02:07:48.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="4f71e32c08d42703fae26c0e9a7cb82e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_font-awesome-2.0.scss"
+   text-time="2012-09-07T11:52:52.510000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="c244a5038e1e3e908ab2439f84e10f46"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_datatables.scss"
+   text-time="2012-10-30T11:23:19.544000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="3a6fa279f202f3317403d61c1f271f7d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2106"
+   name="_specific.scss"
+   text-time="2012-10-31T12:37:50.814000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="a27a0f2b29b6b622615bc1d84c1380d2"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

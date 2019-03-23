@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/elfinder2.0/js/i18n"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.LANG.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b55fc56d5d3260d314f6b3567dcf2531"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.ca.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="67518c454f73407093834b4ad07f6714"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.ru.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9b69f18dbd775d19516cc1a9b2d7151d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.de.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b8a2c94c33472cd775692bc49624fc58"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.bg.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="265a5cd5e448d968c0f3462167483b1b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.zh_CN.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c68edc8572e03e3a03955240eda83692"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.ar.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="cd908f2cdf9600a67007087e109217a8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.cs.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a08f04b0245370e565912cb63c212e4c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.pt_BR.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0cff8458b6265dcc3ac9995302e045a8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.es.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="302aa08b9621e8b64319d5ae69881b8a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.fr.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f05570841fe5e779020ae3508ec1742b"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.jp.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e6b203d15640a465b9090950f25ea450"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.nl.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ee263ca442413ba03b1af54ac63854fb"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.pl.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9221f72312d8f9ac4a75e3c8c55659ff"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.hu.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d85cabf2ccda06bfb0300a7dc1265fee"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.no.js"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="dc985e0a92ae8b111c4d3d21f1f05e37"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

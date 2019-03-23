@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/captcha"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="LICENSE.txt"
+   text-time="2014-02-23T23:22:40.616267Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="3c34afdc3adf82d2448f12715a255122"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="example-form.php"
+   text-time="2014-02-23T23:22:40.558264Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c369d88d4d696de0685b7b42ca7875ac"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="captcha.php"
+   text-time="2014-02-23T23:22:40.341251Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="740eb1d550c44834744b60cf97453e72"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="error_log"
+   text-time="2014-02-23T23:22:40.416256Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e654bcd41ac26a97b27cb2fb7d50c4da"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="example.jpg"
+   text-time="2014-02-23T23:22:40.469259Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c43a4ccb03c2ab8d5daaad15e0c93192"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:20.038157Z"/>
+</wc-entries>

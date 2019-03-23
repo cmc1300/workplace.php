@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/wysihtml5/test/bootstrap_wysihtml5"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="parserRules_test.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d29b738fff4e689f1c1aaad33375062c"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

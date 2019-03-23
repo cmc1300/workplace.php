@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/milk"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="milk.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d87f0bb7309aff2e80cb01c274c3ac68"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.604160Z"/>
+<entry
+   committed-rev="2103"
+   name="right_white.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bb33f85301e99de47b4794b1d2b31e98"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:04.352260Z"/>
+<entry
+   committed-rev="2103"
+   name="emails.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bb3c70cbd6d7f6619c9cbb06306dcf34"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="emails.phps"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="dadad76aac8e8af82318742d6c13f758"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="milk.css"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7b28c5acc8601ad7299489fa46d851b6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="users.php"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="178a59751ef5c81cf59c89b350646f10"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="index.html"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="280641bc0274344bb225dc79ccf0e27a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="users.phps"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="edb4bba7135645a7b43631c78db008fc"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bg.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="66c163ac79c0933c85e3796cd2324bf1"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:08.957524Z"/>
+<entry
+   committed-rev="2103"
+   name="left_white.png"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bf6829dd6bd8253c5e72ff55995cf711"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.633077Z"/>
+</wc-entries>

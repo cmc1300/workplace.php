@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/css/unminified"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="base.css"
+   text-time="2013-03-18T15:48:35.738000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e1b59947d40934ba142529e092f457cd"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery-ui-1.8.23.custom.css"
+   text-time="2013-03-18T15:48:35.869000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ac35cc938e5f9c066f77e6dcf779adb1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="twitter"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="responsive.css"
+   text-time="2013-03-18T15:48:36.224000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0ef8e3c573f94052f20a326c525a279c"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

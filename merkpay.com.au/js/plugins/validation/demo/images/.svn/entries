@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/images"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="loading.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e494be070277ad54cd8c4bfc9e26026e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.712166Z"/>
+<entry
+   committed-rev="2103"
+   name="cmxform-divider.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f724691b211b7849fad4dacf6ca53cdf"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:07.139420Z"/>
+<entry
+   committed-rev="2103"
+   name="checked.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e707646f960a7d1db30af4301e56a3c1"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:26.817545Z"/>
+<entry
+   committed-rev="2103"
+   name="bg.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b9fe1e91505d9830f525f41097326b91"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:12.107704Z"/>
+<entry
+   committed-rev="2103"
+   name="cmxform-fieldset.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="fde1ddd43c8f2cc869c9c7759e4594cb"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:25.251455Z"/>
+<entry
+   committed-rev="2103"
+   name="unchecked.gif"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1b925e308bb0235c7acd67fef859ba4c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.479153Z"/>
+</wc-entries>

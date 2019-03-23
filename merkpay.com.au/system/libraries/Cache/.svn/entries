@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2106"
+   name=""
+   committed-date="2014-02-24T00:29:32.022872Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/system/libraries/Cache"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2106"
+   name="Cache.php"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:29:32.022872Z"
+   checksum="460b1f69b3eec6838eb6850a75a31835"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="drivers"
+   kind="dir"/>
+</wc-entries>

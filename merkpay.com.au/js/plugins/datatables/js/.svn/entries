@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/datatables/js"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="jquery.dataTables.min.js"
+   text-time="2012-08-08T19:53:22.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9d03c26420cd36b041ff4d7b98c27c0d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4bab8348a52d17428f684ad1ec3a427e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="datatables_bootstrap.js"
+   text-time="2012-09-07T11:27:45.970000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e87686033d917a25522f1fc07a290021"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.dataTables.js"
+   text-time="2012-08-08T19:53:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ce07f6b5d4be62acb784e7ed24bf0494"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

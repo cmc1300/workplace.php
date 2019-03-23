@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2406"
+   name=""
+   committed-date="2014-03-05T01:25:27.222104Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/sql"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2406"/>
+<entry
+   committed-rev="2406"
+   name="tenpayco_db_bak.sql"
+   text-time="2014-02-24T04:33:03.747000Z"
+   committed-date="2014-03-05T01:25:27.222104Z"
+   checksum="e3f16375a22f8bcb77c17ab56507d450"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2406"
+   name="tenpayco_db_new.sql"
+   text-time="2014-03-03T04:48:49.733000Z"
+   committed-date="2014-03-05T01:25:27.222104Z"
+   checksum="40b2c8714d5a6042f8a5ca89b42a0451"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

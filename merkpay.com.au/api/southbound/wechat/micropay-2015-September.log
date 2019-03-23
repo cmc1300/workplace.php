@@ -1,0 +1,1053 @@
+Tuesday 22nd of September 2015 10:29:58 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D51399CB14F01CE76815A9E933A64822', `nonce_str` = 'FEZ40SBDUCJCMSS9ODY5FYC2JDJ51UAG', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `openid` = '', `trade_type` = '', `bank_type` = '', `currency` = 'AUD', `order_amount` = , `customer_payment_amount` = , `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '', `time_end` = '' where id = 126
+=============================================================================
+Tuesday 22nd of September 2015 10:39:08 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1CA2F7953FC8530989ED767310753E53', `nonce_str` = 'AKOONCCONKOLOWKKF4CJORCVDKVSEJ5O', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 127
+=============================================================================
+Tuesday 22nd of September 2015 10:41:03 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E46CC441A417D7998B4817BFB1FFB86B', `nonce_str` = 'E9GEUBSTQDQZDHXWRCB1I9UMLWWYWMGA', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 128
+=============================================================================
+Tuesday 22nd of September 2015 10:44:48 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '91AFFB3B109D111C2114F602EEB8EACB', `nonce_str` = 'ZE7NJERTK9QJ6H261OQRONJUOQTHKD7K', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'ORDERPAID', `err_code_des` = '该订单已支付', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 129
+=============================================================================
+Tuesday 22nd of September 2015 10:48:02 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '811CB8B19A5FF8DDABFC549C3B11DE3A', `nonce_str` = 'I42DBII907RPZICLSH7I80XA3XVVQ6D9', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuM2JuXG59LTFy-xKc4Enp2c', `is_subscribe` = FALSE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007830019201509220953721910', `time_end` = '20150922084802' where id = 130
+=============================================================================
+Tuesday 22nd of September 2015 11:03:16 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1365ABB5A5FF7BE44EFAC4F62D17F30F', `nonce_str` = 'J9EYOB1L50CHCAH3MEPNA0AMSHEHNRSH', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 131
+=============================================================================
+Tuesday 22nd of September 2015 11:07:23 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '57D577AF6FE8FBAF790AC8C077AB5476', `nonce_str` = 'SN7IQSEHAHHXID6T8FN7041K9OFX2IZU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 132
+=============================================================================
+Tuesday 22nd of September 2015 11:18:35 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '9AA76E44B1FFB7A51BE16CA21DE455D0', `nonce_str` = '6FXUGJ5HI79HP8KTCESHUSUQH7R7HMAO', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 133
+=============================================================================
+Tuesday 22nd of September 2015 01:19:55 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1F09D6AEFC2F94F0067800DAE67E2B0F', `nonce_str` = '9NUUBCBZX1BASDYLK0JMRZ1239VUYET8', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 134
+=============================================================================
+Tuesday 22nd of September 2015 01:29:32 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0D15FDF60CDE60C949FCA5608ECA720C', `nonce_str` = 'JHDS8Y6CFREZLM1H29TI0HNPGELGB7YV', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 137
+=============================================================================
+Tuesday 22nd of September 2015 01:33:05 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0EE51C231B1F183D620ABB489E3ADDB3', `nonce_str` = 'FA3H4BCUBKHPJBOGKGL3SSZGXE0AAA2Q', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 138
+=============================================================================
+Tuesday 22nd of September 2015 01:34:35 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CA9F40A5F3611D2D61EF32FD23AF9284', `nonce_str` = 'NCEHO4DN9NIPYQZRPRZI6DDQDPBIV1WI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 139
+=============================================================================
+Tuesday 22nd of September 2015 01:40:25 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6A5F2889BE47D53D7EEF45A529101A3F', `nonce_str` = 'ZD0JE4TR9DYOCZMA8YRHM5AJ7FT9VFAU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 140
+=============================================================================
+Tuesday 22nd of September 2015 01:50:13 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D5E9F63A8BF5E4018F832162745FBBBC', `nonce_str` = 'XQYLRZASPW26P3SOOV4LUI692RSCDUWB', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35324015]外币订单信息不匹配', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 141
+=============================================================================
+Tuesday 22nd of September 2015 01:51:26 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '25A4808881A40A561ED141265E016304', `nonce_str` = 'MFU8XKUCYKOKY8DWDUTUHMJ7GYRKBEBX', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35324015]外币订单信息不匹配', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 142
+=============================================================================
+Tuesday 22nd of September 2015 01:52:00 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'B9A2767613F4DBCD90A16C25A75B67C2', `nonce_str` = 'USFZPXFRJ4OTAYP10GMTDBBFRSMITUUN', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 143
+=============================================================================
+Tuesday 22nd of September 2015 02:08:00 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E88248DF2898ECD0DD021A6E1EAD2184', `nonce_str` = 'RL8CHA5NC7RCSLDJNGBA3UPCSFRCB9MT', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 144
+=============================================================================
+Tuesday 22nd of September 2015 02:13:36 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5DF6890B1AD1D7F2D55BA046698F1930', `nonce_str` = 'ZXJHROUI1K4QYGDZBHCJI9GY2KJOSNO1', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuM2JuXG59LTFy-xKc4Enp2c', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007830019201509220955876383', `time_end` = '20150922121336' where id = 145
+=============================================================================
+Tuesday 22nd of September 2015 02:22:55 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'AEDC2E543ED2E8F04DC4E8421860DD90', `nonce_str` = 'VJYNFQJMYTJPRBQSPRFLYODUDXJCTMDP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '每个二维码仅限使用一次，请刷新再试', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 146
+=============================================================================
+Tuesday 22nd of September 2015 02:46:35 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '9ED43D32B4815A0A51BD951931777F72', `nonce_str` = 'NQZUMPMNZKCIPP38JLOMO8NVQD6TVOZI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 147
+=============================================================================
+Tuesday 22nd of September 2015 04:13:01 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '744065BDD08D85048D8973CB7D796B5D', `nonce_str` = 'QZT6S4BRHJCWM76UXGYMX8IZFGBKAVS0', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 148
+=============================================================================
+Tuesday 22nd of September 2015 05:41:00 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'EB793DD69BE2EB41339869796BC1EC8B', `nonce_str` = '9VBYAJYHFZ0UCM69LU5THL9CJMY3LMHV', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 149
+=============================================================================
+Tuesday 22nd of September 2015 05:41:36 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '77A4BCEE9CD83C4598FEBC50B22CB41B', `nonce_str` = 'X2SRBH6EAIFQ73REHMEAFV5WGV5FMFEJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 150
+=============================================================================
+Tuesday 22nd of September 2015 05:43:44 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '9E239DA46E89E6C02CA4ED0994F70773', `nonce_str` = 'H5GYGUSGD5E79SBE2W3PK0T4V3MRTAXA', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 151
+=============================================================================
+Tuesday 22nd of September 2015 05:44:38 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '12725010E223B261EE0FFE1DBA6C4B27', `nonce_str` = 'SSS17770BD6G0NGRJ4RAI1MRBMDXQBIJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuM2JuXG59LTFy-xKc4Enp2c', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007830019201509220957976177', `time_end` = '20150922154438' where id = 152
+=============================================================================
+Tuesday 22nd of September 2015 05:46:57 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '02B48F53DBC4EAA884C06725382B8B17', `nonce_str` = 'SZWCGRKR0WIZMRDE6RQEDEVV2O8XLMNE', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 153
+=============================================================================
+Tuesday 22nd of September 2015 05:48:59 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CB4FEAF131E36CEB38F763DB3D3AB80A', `nonce_str` = 'NOHWYMPCFAZDB8SOIHNKALAUNRCOKBM7', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuM2JuXG59LTFy-xKc4Enp2c', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007830019201509220958012934', `time_end` = '20150922154859' where id = 154
+=============================================================================
+Tuesday 22nd of September 2015 06:13:16 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '3AA481D1F59F4A62368C95CD3853F9BB', `nonce_str` = '6V9XZHNRJEZRSGCFI6DEJD3OQSP7Z9QG', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'USERPAYING', `err_code_des` = '需要用户输入支付密码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 155
+=============================================================================
+Tuesday 22nd of September 2015 06:13:47 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6D25356C3960834C4246117B3413DCBA', `nonce_str` = '5OH1NH18RX2D9YURLYYY5GDXOK25PI7U', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'USERPAYING', `err_code_des` = '需要用户输入支付密码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 156
+=============================================================================
+Tuesday 22nd of September 2015 06:14:18 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '2E54D22AC7CA08974392D4CA12CE18BD', `nonce_str` = '3YZKC7HRWZJGFS9FVGPGZCNONIBXYPN2', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'USERPAYING', `err_code_des` = '需要用户输入支付密码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 157
+=============================================================================
+Tuesday 22nd of September 2015 09:05:05 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '8053B6CBBD4769955E6668534AC72780', `nonce_str` = 'PVYY94SKYLDBXOVVRUXTPV01NUR1S7NS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'SYSTEMERROR', `err_code_des` = '请求平台数据返回异常，请稍后再试', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 158
+=============================================================================
+Tuesday 22nd of September 2015 09:06:09 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'C63A0E7F2FFD6A2278EB04E316EFB988', `nonce_str` = 'E8QMN4PQ0CNQ0LCHNZWTGEOJBIL1GUXL', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuL4Qi5EiW8TCr9bd_Gt9GMM', `is_subscribe` = FALSE, `trade_type` = 'MICROPAY', `bank_type` = 'CMB_DEBIT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1003000019201509220960018229', `time_end` = '20150922190610' where id = 159
+=============================================================================
+Tuesday 22nd of September 2015 09:09:19 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '951341D7190F69F601C20B78072549A0', `nonce_str` = 'HFVCNVPRA12PEG2X8FZGVM7KSHO19TNR', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35311004]您的操作已提交，请确认是否已生效。', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 160
+=============================================================================
+Tuesday 22nd of September 2015 09:09:49 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CECAA78DB53E2F1A940005E403DB3664', `nonce_str` = 'SCWPGKLRIGAEPTYDP96FYKMVBSX5UX7N', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35311004]您的操作已提交，请确认是否已生效。', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 161
+=============================================================================
+Tuesday 22nd of September 2015 09:14:10 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '592AAD65D99AB0A8095F09EDDF6E6458', `nonce_str` = 'PNZM0TSWEYSJYXHO3ZW199U2KXY99O5Z', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuL4Qi5EiW8TCr9bd_Gt9GMM', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CMB_DEBIT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1003000019201509220960110244', `time_end` = '20150922191410' where id = 162
+=============================================================================
+Tuesday 22nd of September 2015 09:15:22 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '054808CC03B038756DCAF77917FA0D98', `nonce_str` = 'J2CZEZWTSH9AWC01XTZ6B91SRGE3RBTA', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35311004]您的操作已提交，请确认是否已生效。', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 163
+=============================================================================
+Tuesday 22nd of September 2015 09:15:53 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E5144401EF7FCEF1443396A8DC3DABE7', `nonce_str` = 'AWMOAGQUAHFLAYSM0JNC8ZSYA9CJRB72', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35311004]您的操作已提交，请确认是否已生效。', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 164
+=============================================================================
+Tuesday 22nd of September 2015 09:17:09 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E814BC3EF366E0232F566A4BEF61EE66', `nonce_str` = 'P3QSZF4YVTHWPVZEMSOZYM7UGKAJD7K2', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuL4Qi5EiW8TCr9bd_Gt9GMM', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CMB_DEBIT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1003000019201509220960145043', `time_end` = '20150922191709' where id = 165
+=============================================================================
+Tuesday 22nd of September 2015 09:18:12 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5DB9D21034301CBC7930ECAD62FB78A9', `nonce_str` = 'II5ZH9KA09GC3R0GRVFV7K1JS9FGAJZJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35311004]您的操作已提交，请确认是否已生效。', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 166
+=============================================================================
+Tuesday 22nd of September 2015 09:23:42 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'FC4638D0962D80B84DA05F672CF76021', `nonce_str` = '7SZAMLTWOONSD45BVUU2HKAEJGGZ8P9F', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 167
+=============================================================================
+Tuesday 22nd of September 2015 10:10:57 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '64A86B7B96FFF2B02561A24ED158ACCA', `nonce_str` = 'QKQJGSRAWCYQKJKLBD2UF2DV3D6BT5AJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuO9S4d-a_y3q4GvJ5NR-jJg', `is_subscribe` = FALSE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 188, `customer_payment_amount` = 188, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007610019201509220960693828', `time_end` = '20150922201057' where id = 168
+=============================================================================
+Tuesday 22nd of September 2015 10:12:48 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'EF2FB5469A2808CF60BEB83FADF43D02', `nonce_str` = 'DFETSIEJFQU2CS7A8WSKHBSTYUDDLO6Y', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'OUT_TRADE_NO_USED', `err_code_des` = '商户订单号重复', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 169
+=============================================================================
+Tuesday 22nd of September 2015 10:15:19 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '45C09FC78960B3111C2091389CF42A05', `nonce_str` = 'FCOYP9HSAKWI7WMMUANTFPDOJURWWV3M', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuO9S4d-a_y3q4GvJ5NR-jJg', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 188, `customer_payment_amount` = 188, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007610019201509220960738024', `time_end` = '20150922201519' where id = 170
+=============================================================================
+Tuesday 22nd of September 2015 11:18:53 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '85A15795357443150329EDB97A14214D', `nonce_str` = 'OX6SL9CC6HXUCHXOP81BWGWYGNLXOBOC', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 171
+=============================================================================
+Tuesday 22nd of September 2015 11:20:03 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '93E957E7EBAE73C203206445A41F2FA4', `nonce_str` = 'NAIKH43DE3SNI0JCD9XHLZCHVFKH04PO', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 172
+=============================================================================
+Tuesday 22nd of September 2015 11:22:29 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '63A793DC60E8A4F2C9550ADF42A9901B', `nonce_str` = 'UJULS36XGXISQODJB0DWPNHSPWGB9TFD', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 173
+=============================================================================
+Tuesday 22nd of September 2015 11:22:44 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '427CEBF0191F211244DDAE5DC21A8F54', `nonce_str` = 'VXCU0M1KRIPFJMNNJZQ7I8HDB19ZAPA5', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 174
+=============================================================================
+Tuesday 22nd of September 2015 11:27:24 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '77E6DFBFB3D49517EAC2C169B9BC08F0', `nonce_str` = 'WCDXFJ2EQUWG0Y3KZAMZVBHHFEKINNZJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 175
+=============================================================================
+Tuesday 22nd of September 2015 11:30:27 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '43123FE63C93474844A9E888C33C2E88', `nonce_str` = 'YFAV9QPCZVUC8BQYGMX3XZRCLPIHXLQV', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 176
+=============================================================================
+Tuesday 22nd of September 2015 11:34:02 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0851F640CB3B797845EA3A1FA4670A9F', `nonce_str` = 'DVJNVARIWOCPTEDZAEMLFQOH143HFFLI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 177
+=============================================================================
+Tuesday 22nd of September 2015 11:39:35 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D7A4942C11E1BC5661960C6E34F8BA80', `nonce_str` = 'AGHUWXTPSM2CEXVCJ7BYBJKNP5MGFCZP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 178
+=============================================================================
+Tuesday 22nd of September 2015 11:41:20 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'BBA42ACF78FB8B1F993629F75251AB30', `nonce_str` = 'EH7J4OXCH5L821MYDYWEFHHYOVDZS7KW', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 179
+=============================================================================
+Tuesday 22nd of September 2015 11:44:41 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '802499CB46EAA3265D4EF3CE9E79CA44', `nonce_str` = 'W3PUVYTTSZKHCEN7UMV9ZV6L0ZHOCNTY', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 180
+=============================================================================
+Tuesday 22nd of September 2015 11:45:32 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E7D6842DD69E9563EDAF20C3D78BE0E0', `nonce_str` = 'VZUJSBJAJZBUP9AQRD5PCYTIK0OB4DV0', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 181
+=============================================================================
+Tuesday 22nd of September 2015 11:49:16 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D3EBF54216A1DCAA1902AA491BAB481B', `nonce_str` = '0F1V2S9BCBH9EKLOUVIQMM3FESTORHZR', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 182
+=============================================================================
+Tuesday 22nd of September 2015 11:50:14 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1B892AF24F541144F40324E159F154A9', `nonce_str` = 'ITHHCM3WYOKAT0YM4FXM364PZDIMS85A', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 183
+=============================================================================
+Tuesday 22nd of September 2015 11:54:33 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'F0BF65858232733116A58BA384033E35', `nonce_str` = 'KICHB1RRJTRS5TVYLZY6GEGI3ALGBQFL', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 184
+=============================================================================
+Tuesday 22nd of September 2015 11:55:02 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'FE2270A74D3A60ADBE162D599BCE758E', `nonce_str` = 'GZOK8A5E3KZ4LRNEYARZRSKVS7ANPSN5', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 185
+=============================================================================
+Tuesday 22nd of September 2015 11:57:25 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A9AB99D7CCA5E8A970F2E0A7CCA3FCD4', `nonce_str` = 'FBXWGP1ZDF3HALTWGXSGMS7SOSKJCDXS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 186
+=============================================================================
+Wednesday 23rd of September 2015 12:44:33 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '3C74B399FADE334CAD442060669E3F53', `nonce_str` = 'IP13APE8DSMZ8BGL2AVSYTN8CDAOP4A8', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 12:45:02 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0727201EF6E4C0936F02103341843D63', `nonce_str` = 'S5HMLA6QJG5EP4WTYJRLFGLNQHOFFBE8', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 12:46:22 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '4C4144C5E37E6FE83EA7E35AEE210C25', `nonce_str` = 'F6YJCUVNHQNDKXKSE4YGTDWVRQTPMLYC', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 12:48:24 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '33A77732D2F5051F0C8F05CB0AAD8578', `nonce_str` = '6IJXKA7NR9BIFPYUPLPDACWPSMNEJECQ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 12:48:45 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'AC609E46DA83DD9FE33A17642CDE2C5F', `nonce_str` = 'FTR5PQDUKHY67YQEOIQB5KCBQAJDF49V', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 12:49:33 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6B367B1512DE59A8D3E58703EEADB5F1', `nonce_str` = 'KRPFCAGKHZSPU000EXFTUXAVYLNBNRS7', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[35324015]外币订单信息不匹配', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 187
+=============================================================================
+Wednesday 23rd of September 2015 07:37:52 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5E9D13952C030A8F51094FE1EA345879', `nonce_str` = 'KNIVZS4VW3JQPWJN3AATGHCLTDPHEOMY', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'FAIL', `return_msg` = '[1137]验证商户key失败', `result_code` = '',
+	`err_code` = '', `err_code_des` = '' where id = 
+=============================================================================
+Wednesday 23rd of September 2015 09:22:39 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '26F513CCB1D23D8C09365BA3613E19D4', `nonce_str` = 'HKZO9VMW7KJD7FOVJJ5YBYAA8TXDMHD4', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 189
+=============================================================================
+Wednesday 23rd of September 2015 04:12:48 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '447D99FC9754C7AE6E363FBE913E520F', `nonce_str` = 'MWYNV2WSSJO3QUYASAKSWQ6MW0UG6OAT', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 196
+=============================================================================
+Wednesday 23rd of September 2015 05:01:55 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'BD0DAA0BE94652333143C6FF3028FE01', `nonce_str` = 'EJMRIWJEYWWBFSVDQXZYXEZNJXNBLQ00', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 197
+=============================================================================
+Thursday 24th of September 2015 09:36:41 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6230E769DEF88FDE341E8364FD4D2039', `nonce_str` = 'U41ZSAJ3OPPLK7XRWCN6TNBIBSLNZCWU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 198
+=============================================================================
+Thursday 24th of September 2015 09:37:22 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1C80DB10296EE16CADF71ED1BC967375', `nonce_str` = 'MGMGK5ZXZTLUBDUR1ZFP0YAJWSJNKDUH', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 200
+=============================================================================
+Thursday 24th of September 2015 09:49:41 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '533EC3FBBA766E4936B4D53CF820EDB7', `nonce_str` = 'QBHLORGYJC3IJA7NYKJJPETLZ4ITIF09', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 201
+=============================================================================
+Thursday 24th of September 2015 09:51:25 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '3F5F1127C9EF01393065431721D45310', `nonce_str` = 'QHPPWQ3X281NBAKKWAHYQJOQZIIGYDXO', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 202
+=============================================================================
+Thursday 24th of September 2015 10:10:31 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6BC83D61DAE687F168FA95E87647C579', `nonce_str` = 'NVJJX9QJCEIYEFEGRFDW5QYBAXYVQ8MD', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 204
+=============================================================================
+Thursday 24th of September 2015 10:15:03 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '59FD1F658CFB357497E70C35667D9606', `nonce_str` = 'MJ1XYWHJKNJZXFNKQ7EUP8SXBVWJKHK6', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 205
+=============================================================================
+Thursday 24th of September 2015 10:15:54 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '72D718E1FB60FB834522459E5FC2F1EF', `nonce_str` = 'AGBQBTDKWL14QB1XJMCEUQYDTQKWIZDJ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 206
+=============================================================================
+Thursday 24th of September 2015 10:16:25 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '540DDADB461F33E3CCD7A7085C6F7465', `nonce_str` = 'AMT1GCDO69HX1AA1KUQCJU4POKX2JVOT', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 207
+=============================================================================
+Thursday 24th of September 2015 10:25:11 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '4AF5911E68DCBED1871CD8C6B9D0A171', `nonce_str` = 'CJHQSCYKYBUBGS7PS0ZQ94LXKAFDHAPT', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 208
+=============================================================================
+Thursday 24th of September 2015 10:37:54 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E0D919D9CFA01A4FCFABA1A0BB893F97', `nonce_str` = 'MOW2S45TADJAPC4ICKNUVMTGP98KANAW', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 209
+=============================================================================
+Thursday 24th of September 2015 10:41:22 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5EA10B1B47B7510E8A46774154494F37', `nonce_str` = 'FW3VXKKPMBZRLAULTMLD3HKUK8FGRBG7', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 210
+=============================================================================
+Thursday 24th of September 2015 10:42:50 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '7D8871BF278E8B1C5CB614D85BB79A8E', `nonce_str` = 'M55QMM1JBU4D56CKM9TD8IDE5U4XEEGR', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 211
+=============================================================================
+Thursday 24th of September 2015 10:45:18 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '61FEDFD8B8DD9D47FA11118FDC1DD541', `nonce_str` = 'TIRK5RZJX8MTOEZBI6AOOK1DQFGUQF4K', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 212
+=============================================================================
+Thursday 24th of September 2015 10:45:50 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0BC1613F0C0083CF46EABD1BBB68BD26', `nonce_str` = 'OHW1VH3XZCDZOBCSSXJMGA7ZIDIUUKCI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 213
+=============================================================================
+Thursday 24th of September 2015 10:47:04 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '82B830EB49ACB983055A3EF28CD96AC6', `nonce_str` = '8MHUPUJ1DPWNKWVZYR3GQNNKXELWV7CE', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 214
+=============================================================================
+Thursday 24th of September 2015 11:02:39 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '2FB51328123E5C416757F631E6808F62', `nonce_str` = 'H9QIGL8JN3MHWCGRA79HD9IFD4TCX0VP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 215
+=============================================================================
+Thursday 24th of September 2015 11:12:12 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CEE6D6AD8EE422EACEB90D40E984431D', `nonce_str` = 'ZSQYELLKUFBAKY8J9W2ODTPOS9Q7KWUK', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 216
+=============================================================================
+Thursday 24th of September 2015 11:16:32 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1B99334975B5693EFE9138D4D522DFA7', `nonce_str` = '6CBXVOOKJTCFRU3XX8AK8UWWFKYOBGJH', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 217
+=============================================================================
+Thursday 24th of September 2015 11:18:29 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CE4B875179495FA4267B0CEF1887AA69', `nonce_str` = 'ZKAZ4EPLHXWPOXRCQQZ9QMJIRRZVNVIW', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 218
+=============================================================================
+Thursday 24th of September 2015 11:21:37 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'BA628B6816258C0E9FABB8F192035627', `nonce_str` = 'WHXHGCLN1IS7N6POVYXXQA9SQ8IURIWN', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 219
+=============================================================================
+Thursday 24th of September 2015 11:24:30 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A8B28E67E52296CC25AB00B71D9D860E', `nonce_str` = 'UXWXWN06VY5MWPHYDXQTE64QACWDHMQB', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 220
+=============================================================================
+Thursday 24th of September 2015 11:25:57 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5C0295D846B88DB8385AA22E3B268738', `nonce_str` = 'B7SJIIBGS2HSCX1I4W5QYVDYUMIAJGBU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 221
+=============================================================================
+Thursday 24th of September 2015 11:26:01 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'ECFF39853CFC31B44596DA13CE12D889', `nonce_str` = 'OIFGQYIA4QIWQZCADQLXXILVDUXORDDF', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 222
+=============================================================================
+Thursday 24th of September 2015 11:26:17 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '1E05680B5B5BB9EF6FC998A4981295B6', `nonce_str` = '1W8LAKRHKZ6RDLVHUAHTOEKKRQ8UQGNS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 223
+=============================================================================
+Thursday 24th of September 2015 11:27:14 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '08A6A92B2403DCCC6131640A4CE39EC8', `nonce_str` = 'UCQXJGJL83VZLGYHYSFMHL8NHGFWRKDW', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 224
+=============================================================================
+Thursday 24th of September 2015 11:27:23 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D8ED25BD0B8FD9E7621390EB93B2E346', `nonce_str` = 'EMCR2GX8LL83FMNW1XCHAWEX6YIYPAVE', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 225
+=============================================================================
+Thursday 24th of September 2015 11:27:26 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A8E8C91CA13946BBC1ED82AB1D585964', `nonce_str` = 'JOTBTYSRFKE7LPI8DMEGZKNQJ4L2CH8V', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 226
+=============================================================================
+Thursday 24th of September 2015 11:27:35 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6CB9DBBE4611C2CB9CA041D0EBCF783A', `nonce_str` = 'HV6WYRR6MH5LDXBCMVLSZ3YCM2BXIKKP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 227
+=============================================================================
+Thursday 24th of September 2015 11:29:24 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '687B37E952D97F1A6195259A471DDC00', `nonce_str` = 'BKSFYLOZRMCOFNVIW7FJGF02V8KKOC2Q', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 228
+=============================================================================
+Thursday 24th of September 2015 11:34:11 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'EC640BC0333DA3AB295296AF1FB62AEE', `nonce_str` = '8RT8MHRVYPUDCEZZJLENBS0NZMRFS7G0', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 229
+=============================================================================
+Thursday 24th of September 2015 11:35:00 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0473FBACB83634457BC01DEAB8BE72A4', `nonce_str` = 'LTFCQHBKZRBNZFXAE0OO1BSRMWYUVBEH', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 230
+=============================================================================
+Thursday 24th of September 2015 11:35:06 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CFE5073C56884AAAA8D6088D038837DA', `nonce_str` = 'JO1UDO0MZ1IO0BXJCRXSY4GSCQQN0ZOK', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 231
+=============================================================================
+Thursday 24th of September 2015 11:47:59 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '4856ACC9BBF981D437558C76CEA3190E', `nonce_str` = 'FQFWGYYH1QHCPQ8VEZXNNGSUQ1JKHQ8X', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 232
+=============================================================================
+Thursday 24th of September 2015 11:48:45 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '133B0CD963357D3998CBECAABBEAD8E2', `nonce_str` = 'QRNRHITVNIWP5SRFVSRBQF7IXJTBMXRN', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 233
+=============================================================================
+Thursday 24th of September 2015 11:49:10 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5196F921BEC43416DA0BAF48A8D243FC', `nonce_str` = 'I8YZTD62BPLWKXK5CPNLB7OG4Y36USFD', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 234
+=============================================================================
+Thursday 24th of September 2015 11:49:38 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A76FB00ED9A3AFA3FC8E923F6C4E142B', `nonce_str` = 'S8HCDHQFRIHKCBZ6LG3TAH14RVYPP2ZR', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 235
+=============================================================================
+Thursday 24th of September 2015 11:50:33 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '2869A516F84BDDA0024E719BCD392325', `nonce_str` = '1VY3DE4S1CET7RHDL1GGFZSHWAXTTLOV', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 236
+=============================================================================
+Thursday 24th of September 2015 11:50:57 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '74951ABDAE838C5F75B40FA1B6853890', `nonce_str` = 'DJ2MDTW9INDMSKDJTUVDHR4NA4YRPEH2', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 237
+=============================================================================
+Thursday 24th of September 2015 11:53:34 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'DA307A9D134C0AA202C201DE2D20A9CB', `nonce_str` = '0A5OOCK9TQT5SP3LASMYNN4ZE2OFIEWI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 238
+=============================================================================
+Thursday 24th of September 2015 11:54:29 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '7707445E89D490F7D294B50B34352C62', `nonce_str` = 'QECDINNVOSDJUL2DZMXXPLFZIQS00GPR', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 239
+=============================================================================
+Thursday 24th of September 2015 11:58:03 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '97EDC6304D605FED86303755D641D060', `nonce_str` = '9DJTOYSTEI1DT9QNIK7DSPATHPTYUM43', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 240
+=============================================================================
+Thursday 24th of September 2015 12:07:23 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D7A56ACA889B39821FA87A169E16ACE6', `nonce_str` = 'LFTZ6HPPT7PRPJVL2IXBBG48CPK1VJ2H', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 241
+=============================================================================
+Thursday 24th of September 2015 12:08:26 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E9EDE0DD3968416A1838406E78814B56', `nonce_str` = 'R2G5MTPTOOEDOHSXVCYJ3NOAXX7GVQBN', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 242
+=============================================================================
+Thursday 24th of September 2015 12:19:45 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A11B6D42F3D5E2A833CA7CF8283D4D4C', `nonce_str` = '8FVD2NEWXBB8JFLFORBGRP49XU8O32NC', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 243
+=============================================================================
+Thursday 24th of September 2015 12:20:21 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'AED175D2EFC9657AF3D96DB2DD69C5F3', `nonce_str` = 'GH3Q4ODRCEAF79BYTGJNMAYEMS2QIEUZ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 244
+=============================================================================
+Thursday 24th of September 2015 12:27:12 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'F2670C478CCCBA20CCCF52F82CC315BE', `nonce_str` = 'GJFE1LQPFCJM0K3VXLYTPX3OMH1J2W8J', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 245
+=============================================================================
+Thursday 24th of September 2015 01:20:12 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0EFA19E3B2422E575F42BC35E963CD15', `nonce_str` = 'QL0U3LW6BCNYC08QM1BIEG5DNMWQANKQ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 246
+=============================================================================
+Thursday 24th of September 2015 01:21:02 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A4CB00E75848BAF2D3C9FC276E5746FB', `nonce_str` = 'IAJKIDU5F4SAD4R1ZZABKEL0L5MNIRWA', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 247
+=============================================================================
+Thursday 24th of September 2015 01:22:56 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '07BB320CB5FE9C315036D896AAA60416', `nonce_str` = 'YEJB7XUD4HIEC26VRLGXI0N5DU8H4602', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 248
+=============================================================================
+Thursday 24th of September 2015 01:24:08 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '106C512F56EABDE990BDAFF89B077DF5', `nonce_str` = 'QYPPU7SNRDNQRWHYSXLGMK2YMHJVZYNP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 249
+=============================================================================
+Thursday 24th of September 2015 01:26:00 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'BAFA73F757FD4C6A5BB95BA39BE5607C', `nonce_str` = 'CX6LBO4GIJHKDB8U2MIPDYZUAJUM5CRH', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 250
+=============================================================================
+Thursday 24th of September 2015 01:40:09 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'ED1B11BC88B216560D2C40085E0B5EA0', `nonce_str` = 'N6L6DUWPH72IBFKGMBGWDIUHEINPFYFS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 251
+=============================================================================
+Thursday 24th of September 2015 01:43:22 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'EC858BEE376F1A41B9B42A7A65682BF2', `nonce_str` = '3BOP6R6PK0RBNWPR8QDMBMAH4AUHFUNI', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 252
+=============================================================================
+Thursday 24th of September 2015 01:44:35 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '23FC61C51AE2DC3B772BD98705AB6E2D', `nonce_str` = 'PWT3JQCKC4FKMKLC4NYISBYDHOTIRLGQ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 253
+=============================================================================
+Thursday 24th of September 2015 01:46:04 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'F733B909203DAEDF546F041ABCA3731A', `nonce_str` = 'UMSOMGHLY8EH6HJXGRINQYJBTF0ZUKTO', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 254
+=============================================================================
+Thursday 24th of September 2015 01:51:00 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'EC6DD59BDFA0B4097892C2796D18151C', `nonce_str` = 'YJI5RHIL1TKEFO5ONK5YL6FYLOCO2XJ1', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 255
+=============================================================================
+Thursday 24th of September 2015 01:53:06 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '7962DFE2AE23B4A1F487E977740D4DF8', `nonce_str` = 'RTOFO0USM7KS785WOGX8YXNLD1O8TWUU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 256
+=============================================================================
+Thursday 24th of September 2015 02:00:49 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5FF596EC52C1EB6C7AFB157E776A9DF8', `nonce_str` = 'QTMFYRUEJMED3THH4N5APEVXKNLAXE7N', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 257
+=============================================================================
+Thursday 24th of September 2015 02:05:22 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E94C50D505149C7FA6640447A72F52CE', `nonce_str` = 'IKVUNGCNHGFCDZRNJJDOIJ9QNZXKU06N', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 258
+=============================================================================
+Thursday 24th of September 2015 02:06:12 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'C7F797ED7057F213530A5E79B641650D', `nonce_str` = 'XGEYCCGCTH7QO1STAD6DVMZI4RJTXQDU', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 259
+=============================================================================
+Thursday 24th of September 2015 02:08:07 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '150AC5D2DB8AF54C95B0D5C7AF6CD27E', `nonce_str` = 'MJKIANPZUD386US3JZJG7U5XZ3IGNNC9', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 260
+=============================================================================
+Thursday 24th of September 2015 02:15:19 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'A36D8F77752FDC0C4C4120215F6D7211', `nonce_str` = 'C2LCWSGJYUP7GZM7OQMWJKDSUFXQ0EOD', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 261
+=============================================================================
+Thursday 24th of September 2015 02:15:48 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '506AA88BAAFC2B3FFA65A94C4D2433C5', `nonce_str` = '4CNPQQL2ATUDSRVLGJMSSN8TOTQJVXIZ', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 262
+=============================================================================
+Thursday 24th of September 2015 02:19:15 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E11B646578C52446A3CB66F1ABE4F8FC', `nonce_str` = 'O5PCC0UUWGVQACSZEEGB0WQWFAAEQXIP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 263
+=============================================================================
+Thursday 24th of September 2015 02:19:37 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E9BDB647AD3BF0D017B4ED8F62384899', `nonce_str` = 'XDT9PEVKPE76TQ4L4N3ENAJP8W7Y5J92', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 264
+=============================================================================
+Thursday 24th of September 2015 02:24:05 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'CC004C430E57EE900C166C937330A1DF', `nonce_str` = '05PRVHVRIGYMA9MPCFIARGETXRMQPZLP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 265
+=============================================================================
+Thursday 24th of September 2015 02:24:57 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'B6DD8BE4278569AD4D6D12473897974D', `nonce_str` = 'DVRBT3T6XS8LDIVX3T2YUYNCSIGWFJZS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 266
+=============================================================================
+Thursday 24th of September 2015 02:28:41 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '4E155975297633DE45819B52866FEDB2', `nonce_str` = 'CPUMFMWQAX15H9W0MYWPB3K252C5SKPE', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'SUCCESS',
+	`err_code` = '', `err_code_des` = '', `openid` = 'oYFNtuM2JuXG59LTFy-xKc4Enp2c', `is_subscribe` = TRUE, `trade_type` = 'MICROPAY', `bank_type` = 'CFT', `currency` = 'AUD', `order_amount` = 123, `customer_payment_amount` = 123, `coupon_amount` = 0, `discount_amount` = 0, `transaction_id` = '1007830019201509240976112318', `time_end` = '20150924122841' where id = 267
+=============================================================================
+Thursday 24th of September 2015 04:14:35 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'E4FA35CD28DB78B99A92BCED42056B6E', `nonce_str` = 'BB1WRNRXJ1YOMW9TVE5YMAV8E5DQSUTT', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 268
+=============================================================================
+Thursday 24th of September 2015 04:27:53 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '8E7001D645EA2B28F6468C5D366B4D1A', `nonce_str` = 'E7OENK4UUHFUFIZ5U0ITLRCAISPG6Q6K', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 269
+=============================================================================
+Thursday 24th of September 2015 04:28:16 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '2045DFE25C836C3DE686169702333CA7', `nonce_str` = 'JWQWPF9FEL3UBV1M2LDE69YDC9YY8QAS', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 270
+=============================================================================
+Thursday 24th of September 2015 04:29:55 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = 'D744953A2B3286A4D19620B6A88EB9D0', `nonce_str` = 'RRRP3W8BJG2W4IQCNMFCD3AWPNILXZEO', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 271
+=============================================================================
+Thursday 24th of September 2015 04:30:05 PM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '0FB32A1E4E689BF41349DEF8A9633647', `nonce_str` = '8OEIZY0PBVDT2QVXFD9PZ029GEQHZEA7', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 272
+=============================================================================
+Friday 25th of September 2015 09:44:48 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '6F367EDAA2EA08195BD615A2A969E5C4', `nonce_str` = 'UKVOJTCCN4U8UUMWN1PRV9OBQ49BKTQP', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 274
+=============================================================================
+Friday 25th of September 2015 10:05:37 AM  
+=============================================================================
+UPDATE `weChatPaymentTransactions`
+	SET `sign` = '5409D986AB644CD5BEEFA35279610BCB', `nonce_str` = '1NO1RPSN02RKEVBEYMIJ1YQ8AENLJEXL', `mch_id` = '1221929001', `appid` = 'wx6907630eadb944b9',
+	`return_code` = 'SUCCESS', `return_msg` = 'OK', `result_code` = 'FAIL',
+	`err_code` = 'AUTHCODEEXPIRE', `err_code_des` = '请扫描微信支付被扫条码/二维码', `currency` = 'AUD', `coupon_amount` = 0, `discount_amount` = 0 where id = 279
+=============================================================================
+Friday 25th of September 2015 10:17:59 AM  
+=============================================================================
+<?xml version="1.0" encoding="UTF-8"?>
+    <xml>
+		<appid>wx6907630eadb944b9</appid>
+		<attach>Novatel Merkpay Online Store</attach>
+		<auth_code>130414766970369705</auth_code>
+		<currency>AUD</currency>
+		<desc>微信支付澳洲001-MerkPay</desc>
+		<detail>订单商品的详细描述： 1.23 Novatel高档路由器，绝对物超所值</detail>
+		<device_info>013467007123456</device_info>
+		<goods_tag>tagAT123456</goods_tag>
+		<mch_id>1221929001</mch_id>
+		<nonce_str>7PZLMVJLDKOGZ5WBGC9JVDSHGBXSZLKH</nonce_str>
+		<order_amount>123</order_amount>
+		<out_trade_no>20150925101756720AT123456</out_trade_no>
+		<spbill_create_ip>14.137.150.239</spbill_create_ip>
+		<time_expire>20150925101758</time_expire>
+		<time_start>20150925081758</time_start>
+		<sign>0E1A6CEB0DE14D9F5F2A87638ECD4543</sign>
+	</xml>
+=============================================================================
+Friday 25th of September 2015 10:24:05 AM  
+=============================================================================
+Mode is display 
+<?xml version="1.0" encoding="UTF-8"?>
+    <xml>
+		<appid>wx6907630eadb944b9</appid>
+		<attach>Novatel Merkpay Online Store</attach>
+		<auth_code>130414766970369705</auth_code>
+		<currency>AUD</currency>
+		<desc>微信支付澳洲001-MerkPay</desc>
+		<detail>订单商品的详细描述： 1.23 Novatel高档路由器，绝对物超所值</detail>
+		<device_info>013467007123456</device_info>
+		<goods_tag>tagAT123456</goods_tag>
+		<mch_id>1221929001</mch_id>
+		<nonce_str>4WQAZOBE74JTJXCLTPN01SFWWCAPKVZO</nonce_str>
+		<order_amount>123</order_amount>
+		<out_trade_no>20150925102401782AT123456</out_trade_no>
+		<spbill_create_ip>14.137.150.239</spbill_create_ip>
+		<time_expire>20150925102405</time_expire>
+		<time_start>20150925082405</time_start>
+		<sign>1D497BA68F7072CACCC2F065F992B225</sign>
+	</xml>
+=============================================================================

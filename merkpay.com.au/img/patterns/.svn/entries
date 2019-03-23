@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/img/patterns"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="bg_dark3.png"
+   text-time="2012-10-11T15:07:17.457000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d0883e0c612fb258c0325cc469e272c2"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:08.068473Z"/>
+<entry
+   committed-rev="2103"
+   name="bg_dark4.png"
+   text-time="2012-10-11T14:56:01.840000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e30fb16d81cd7c7d26b4f6efeb5c8236"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:18.220053Z"/>
+<entry
+   committed-rev="2103"
+   name="crisp_paper_ruffles.png"
+   text-time="2012-06-14T18:19:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4aea711008ab10b4d31f3317e8293c3a"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:25.844489Z"/>
+<entry
+   committed-rev="2103"
+   name="furley_bg.png"
+   text-time="2012-06-14T18:19:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d57486ab23b722832d87a0e238acfd62"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:12.138705Z"/>
+<entry
+   committed-rev="2103"
+   name="rough_diagonal.png"
+   text-time="2012-06-14T18:19:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f9b3d3f04594fd56e001df4804f7e4c5"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:05.197308Z"/>
+<entry
+   committed-rev="2103"
+   name="classy_fabric.png"
+   text-time="2012-06-14T18:19:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="af855f3fa015e3fa3a08d9cd02909e8a"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:26:59.454980Z"/>
+<entry
+   committed-rev="2103"
+   name="grid.png"
+   text-time="2012-09-11T18:51:06.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4f508414445838c73f233ba8a9ec27bc"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:17.123991Z"/>
+<entry
+   committed-rev="2103"
+   name="subtle_surface.png"
+   text-time="2012-08-11T16:36:08.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8a89e4413fd3bf06de2b18962ddd864e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:07.850460Z"/>
+<entry
+   committed-rev="2103"
+   name="grid2.png"
+   text-time="2012-10-11T11:21:57.340000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="364a44f1c53283dbeb5999c5040d67d5"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:28.168622Z"/>
+<entry
+   committed-rev="2103"
+   name="whitey.png"
+   text-time="2012-06-14T18:19:04.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="db698606ff0094844cc0d3b5e99b807a"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:02.671164Z"/>
+<entry
+   committed-rev="2103"
+   name="bg_dark.png"
+   text-time="2012-10-11T14:22:08.915000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="7f06e321e77f03b09a50908baa47549f"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:10.587617Z"/>
+<entry
+   committed-rev="2103"
+   name="bg_dark2.png"
+   text-time="2012-10-11T13:57:20.153000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f065f99aa90e2abea1bffa7a83ffa5ec"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:12.211710Z"/>
+</wc-entries>

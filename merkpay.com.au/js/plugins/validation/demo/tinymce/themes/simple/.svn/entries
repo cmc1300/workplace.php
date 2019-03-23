@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation/demo/tinymce/themes/simple"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   name="skins"
+   kind="dir"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="editor_template.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="45f4d2bf0007e3f8fef1e8bdccff214c"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

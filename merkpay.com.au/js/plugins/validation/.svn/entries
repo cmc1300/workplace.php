@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/validation"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="dist"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="package.json"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0d0dce7715fe4184364a6f0c10add6f1"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="demo"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="changelog.txt"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="fc7e553c539873094b0359d9ef569fc5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="localization"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="grunt.js"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0a07d9429a4b356005736cf04acac627"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="README.md"
+   text-time="2012-09-07T10:16:20.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="009a75987d2dacb4658e25c5f8c9cdbe"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

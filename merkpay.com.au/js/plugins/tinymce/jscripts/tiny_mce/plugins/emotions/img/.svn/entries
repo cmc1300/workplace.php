@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/tinymce/jscripts/tiny_mce/plugins/emotions/img"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="smiley-innocent.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ec0477c8a206ff250782e40f9bae4b4c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:26:59.657992Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-surprised.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="2e136ebd637bf3e6c9fc6bdc20cbe73e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:15.264884Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-money-mouth.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="11c14bd1496afd0e21df115d25b68e96"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:13.010755Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-undecided.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="3c0c011d16b1a2331385ed97e160a42a"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:19.373119Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-frown.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="59930208822fe755f651a67ef4b70530"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:08.199480Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-cool.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e26e97a318f82ec144b0818e5a8f8edb"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:21.601247Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-sealed.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bb828cb46b377d1589927a02f8fd1762"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:09.943580Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-cry.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="e72bf995ceca9230273ed9909c5db9c8"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:08.786514Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-laughing.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c37f405db4e13cbebf24e745534687bf"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:28.367634Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-foot-in-mouth.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c12d9db6a14ad0b52f66f1e2cf2a38e7"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:12.310715Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-yell.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="19bb8ebfe3c2f5ef3ffb9aa4a027900d"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:11.999698Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-tongue-out.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5ec3bb4781c8e43a51d3a1a948b98fc0"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:26.882549Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-embarassed.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d59171236e6b0b96091eeda1f7b57ce3"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:12.253712Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-wink.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="897275ac7d07032b4d93fb83a0d2a41b"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:15.569902Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-kiss.gif"
+   text-time="2012-09-20T10:49:16.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4ae8945f3960751b5d294f18242e144d"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:06.448380Z"/>
+<entry
+   committed-rev="2103"
+   name="smiley-smile.gif"
+   text-time="2012-09-20T10:49:10.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="2968a664098d9580079c66d628dad1a8"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:22.494298Z"/>
+</wc-entries>

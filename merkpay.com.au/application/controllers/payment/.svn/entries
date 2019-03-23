@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2552"
+   name=""
+   committed-date="2014-03-18T23:54:19.130800Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/controllers/payment"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2552"/>
+<entry
+   committed-rev="2552"
+   name="pay.php"
+   text-time="2014-03-05T01:17:13.625659Z"
+   committed-date="2014-03-18T23:54:19.130800Z"
+   checksum="e931f0821af7726f90c25acf0346b76b"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

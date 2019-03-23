@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2448"
+   name=""
+   committed-date="2014-03-07T04:43:51.292637Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/controllers"
+   last-author="r.sun"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2479"/>
+<entry
+   committed-rev="2496"
+   name="withdraw.php"
+   text-time="2014-03-13T03:59:16.389046Z"
+   committed-date="2014-03-12T22:27:41.540890Z"
+   checksum="d954efb63b2a1ec77a1b906d6779a658"
+   last-author="r.sun"
+   kind="file"
+   prop-time="2014-03-13T03:59:16.364044Z"
+   revision="2496"/>
+<entry
+   committed-rev="2418"
+   name="payment.php"
+   text-time="2014-03-05T06:06:33.215571Z"
+   committed-date="2014-03-05T05:20:36.469636Z"
+   checksum="7d28644cb31caec06463e1468db6b62b"
+   last-author="r.sun"
+   kind="file"
+   prop-time="2014-03-05T06:06:33.167568Z"/>
+<entry
+   committed-rev="2117"
+   name="user.php"
+   text-time="2014-02-24T04:35:43.477585Z"
+   committed-date="2014-02-24T04:34:39.910410Z"
+   checksum="55ac75a996dc90fea0175ea762f532b5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2102"
+   name="index.html"
+   text-time="2013-07-29T04:54:58.000000Z"
+   committed-date="2014-02-24T00:27:51.207657Z"
+   checksum="0227cfd904e99656279202032b98d4a7"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2503"
+   name="transaction.php"
+   text-time="2014-03-13T06:41:59.642472Z"
+   committed-date="2014-03-13T06:41:36.971877Z"
+   checksum="e15129aea5a281c2850af30294cd2240"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T06:06:33.259574Z"
+   revision="2503"/>
+<entry
+   committed-rev="2420"
+   name="dashboard.php"
+   text-time="2014-03-05T06:06:33.306576Z"
+   committed-date="2014-03-05T05:22:29.990793Z"
+   checksum="8af2a31743c7d34e4b6e137ead91d6fd"
+   last-author="r.sun"
+   kind="file"
+   prop-time="2014-03-05T06:06:33.272574Z"/>
+<entry
+   name="payment"
+   kind="dir"/>
+<entry
+   committed-rev="2551"
+   name="login.php"
+   text-time="2014-03-18T22:51:45.373262Z"
+   committed-date="2014-03-18T23:54:12.118949Z"
+   checksum="af9e8d60eacea084ca74587bd45a25bd"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-12T05:38:22.269333Z"
+   revision="2551"/>
+<entry
+   committed-rev="2551"
+   name="registry.php"
+   text-time="2014-03-18T23:26:04.859058Z"
+   committed-date="2014-03-18T23:54:12.118949Z"
+   checksum="4dae31e579f31ab08d78f025aeb1d037"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T06:35:58.265526Z"
+   revision="2551"/>
+</wc-entries>

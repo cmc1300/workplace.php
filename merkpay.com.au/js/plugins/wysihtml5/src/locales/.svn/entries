@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/wysihtml5/src/locales"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.fr-FR.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bc253ae1caa0018668a907ab3a8c9b46"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.es-ES.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0301ff7f59d5f7a6c7e685838de2a5d5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.de-DE.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1fe090b5d3e540e6155d67236a79524a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.fr-NL.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="52c5fe996a8574b9fb9634d96f3b03f6"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="bootstrap-wysihtml5.pt-BR.js"
+   text-time="2012-09-23T22:41:30.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="40bff04dddd08e511278bff16a7d4359"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

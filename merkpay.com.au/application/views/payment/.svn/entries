@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2679"
+   name=""
+   committed-date="2014-04-02T23:50:33.310440Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/application/views/payment"
+   last-author="r.sun"
+   kind="dir"
+   uuid="232a9447-960e-4989-97e9-43d80ae30adb"
+   repos="svn://103.26.62.224/netcube"
+   revision="2679"/>
+<entry
+   committed-rev="2679"
+   name="addedpaymentcard.php"
+   text-time="2014-04-03T00:28:39.895002Z"
+   committed-date="2014-04-02T23:50:33.310440Z"
+   checksum="e079d0ca9d54be8dec1947bcf66e37cb"
+   last-author="r.sun"
+   kind="file"
+   prop-time="2014-04-03T00:28:39.882001Z"/>
+<entry
+   committed-rev="2407"
+   name="addnewcard.php"
+   text-time="2014-03-05T01:32:25.541818Z"
+   committed-date="2014-03-05T01:31:58.327078Z"
+   checksum="6778b0d30e9d1d4394a00e5ff38b4084"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T01:32:22.146624Z"/>
+<entry
+   committed-rev="2407"
+   name="addnewcard_form.php"
+   text-time="2014-03-05T01:31:51.580876Z"
+   committed-date="2014-03-05T01:31:58.327078Z"
+   checksum="96411cacf7ac34d439046da305a0ddfd"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T01:31:47.151622Z"/>
+<entry
+   committed-rev="2407"
+   name="payment_main.php"
+   text-time="2014-03-05T01:33:00.121796Z"
+   committed-date="2014-03-05T01:31:58.327078Z"
+   checksum="ee49ff167a70f4dec86b3b46fb46238e"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-03-05T01:32:59.145740Z"/>
+</wc-entries>

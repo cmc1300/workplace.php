@@ -1,0 +1,3 @@
+[21-Jan-2014 17:04:07 Antarctica/Macquarie] PHP Fatal error:  Call to undefined function imagettftext() in /home/tenpayco/public_html/captcha/captcha.php on line 438
+[21-Jan-2014 17:04:07 Antarctica/Macquarie] PHP Fatal error:  Call to undefined function imagettftext() in /home/tenpayco/public_html/captcha/captcha.php on line 438
+[21-Jan-2014 17:05:12 Antarctica/Macquarie] PHP Fatal error:  Call to undefined function imagettftext() in /home/tenpayco/public_html/captcha/captcha.php on line 438

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/datatables/src/core"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="core.state.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="a2f016197beb357325210396332740e9"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.columns.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="40ecf7e6f56b865a4d445970054d5a08"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.length.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0f8ad0cac76d6ca7ca73ba64dcc225e4"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.ajax.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="79aa4b5f5ac9a59d153ed4f81d3d754d"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.filter.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d8961c7d4c961c63f2c17681a3c96975"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.constructor.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f487aebeb1c427673e0facc0a91447a8"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.sort.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="da2f1d17bc0fc62f59b6f1b927dd486e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.info.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="d6bd87165f3b8ba08e57b4aa8d93d062"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.scrolling.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="54b00d6d050334f4a5d86721a8481ecc"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.draw.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="6d7c8f4e6b01d2ccafc12d5ab6825ce2"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.init.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="42a519e1ff72cb56521ec249640214d0"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.sizing.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="c0d7ce0f296708f0e77fa22082ace0ad"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.data.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="214c0e3ff4a93b469ff820fa243bb312"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.support.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="43fbce6971442abe25bc53fbf83de17f"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.page.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5adafc123af42225fa448d063450b010"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="core.processing.js"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="4b284b941414d17e5d51a5a0a665012a"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

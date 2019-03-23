@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/chosen/chosen"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="chosen.css"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="010f010e368273df9cecc451292b20a4"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="chosen-sprite.png"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8e70d120437ffc6a1bf7cebeca292d5c"
+   last-author="s.wang"
+   kind="file"
+   prop-time="2014-02-24T00:27:24.020385Z"/>
+<entry
+   committed-rev="2103"
+   name="chosen.jquery.js"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="ec22cd3dbb476f1f3f19fcb96e20f820"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="chosen.jquery.min.js"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="cbb9b4b4664c0b2e31b07768e48a24cc"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="chosen.proto.js"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="dcd443abc40043248a6b2d20ea7cdd37"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="chosen.proto.min.js"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="59d10ad2f1aea64c1f77dbd58c5da871"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/datatables/css"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="demo_table.css"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="8d069550cac86bdf0cacd9c123b439c5"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="demo_page.css"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0db45c8d6dcea46236553fab0018e1cf"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.dataTables.css"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b9b3c874609596bc0c9078ad65d15770"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="demo_table_jui.css"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="bd968116e9ade41f7ffde91bb8f6063a"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="jquery.dataTables_themeroller.css"
+   text-time="2012-08-08T19:53:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="5bdd3692a1252b1403ddb7538d34fa8e"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

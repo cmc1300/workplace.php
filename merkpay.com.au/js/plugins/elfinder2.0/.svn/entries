@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/elfinder2.0"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="files"
+   kind="dir"/>
+<entry
+   name="php"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="Changelog"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="82c49d25f25b78cf645a390ce4c7199e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="elfinder.html"
+   text-time="2012-04-10T13:59:48.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="1bc2314070b16cb740a4ee7a67997d2c"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="README.md"
+   text-time="2012-04-10T14:05:34.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="6d8432f8b60accc3e6db75a40e89573d"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

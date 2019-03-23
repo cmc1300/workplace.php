@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/chosen/coffee/lib"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   committed-rev="2103"
+   name="select-parser.coffee"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="0bb1efb20c50e2c9f05178728a95797e"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   committed-rev="2103"
+   name="abstract-chosen.coffee"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="b8ef0af5f90db1bf6da10f243c98b0fe"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>

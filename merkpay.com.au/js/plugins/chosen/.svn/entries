@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2103"
+   name=""
+   committed-date="2014-02-24T00:28:37.955527Z"
+   url="svn://103.26.62.224/netcube/05_tenpay_website/js/plugins/chosen"
+   last-author="s.wang"
+   kind="dir"
+   repos="svn://103.26.62.224/netcube"
+   revision="2354"/>
+<entry
+   name="chosen"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="example.proto.html"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="f61a719a9ef558cae1d087476e42c262"
+   last-author="s.wang"
+   kind="file"/>
+<entry
+   name="coffee"
+   kind="dir"/>
+<entry
+   committed-rev="2103"
+   name="example.jquery.html"
+   text-time="2012-09-04T16:40:14.000000Z"
+   committed-date="2014-02-24T00:28:37.955527Z"
+   checksum="9e1a83bde34a14d082f20b80332833da"
+   last-author="s.wang"
+   kind="file"/>
+</wc-entries>
