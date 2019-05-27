@@ -1,0 +1,20 @@
+<!doctype html>
+<title>Site Maintenance</title>
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  p { line-height: 1.5em; }
+  a { color: #0E006E; text-decoration: underline; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <h1>We&rsquo;ll be back soon!</h1>
+    <div>
+        <p>Sorry for the inconvenience, we&rsquo;re performing some maintenance at the moment. If you need to contact us, please email <a href="mailto:customerservice@blisstel.com.au">customerservice@blisstel.com.au</a> or call us <a href="tel:1300254777">1300 254 777</a>, otherwise we&rsquo;ll be back online shortly!</p>
+        <p>You are able to check your account and usage information by loggin into your <a href="https://customerportal.blisstel.com.au/">customerportal.blisstel.com.au</a>.</p>
+        <p>&mdash; Blisstel</p>
+    </div>
+</article>

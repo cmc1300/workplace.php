@@ -1,0 +1,372 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 6:33:54 Mar 27, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 6:22:15 May 3, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+skins available:
+	- black
+	- white
+*/
+
+/* the container */
+.logo_carousel {
+	position:relative;
+	/*overflow:hidden;*/
+}
+.logo_carousel img {
+	max-width:none;
+	max-height:none;
+}
+.lbg_carousel_grayscale {
+ 	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+	filter: gray; /* IE6-9 */
+	-webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */	
+	-o-filter: grayscale(100%);
+}
+.lbg_carousel_grayscale.disabled {
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+	-webkit-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+}
+.logo_carousel_list {
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:none;
+}
+
+.logo_carousel .contentHolder {
+	position:relative;
+	overflow:hidden;
+}
+.mycanvas {
+	position:absolute;
+	top:8px;
+	right:10px;
+	z-index:1000;
+}
+
+.myloader {
+	background:url(http://blisstel.com.au/includes/images/loader.gif);
+	width:37px;
+	height:37px;
+	position:absolute;
+	left:49%;
+	top:49%;
+	z-index:999;
+}
+
+.hideElement {
+	display:none;
+}
+
+
+/***black SKIN***/
+.logo_carousel.black .thumbsHolderWrapper {
+	width:100%;
+	overflow:hidden;
+}
+.logo_carousel.black .thumbsHolderVisibleWrapper {
+	position:absolute;
+	width:100%;
+	overflow:hidden;
+}
+.logo_carousel.black .thumbsHolder {
+	position:absolute;
+	height:100%;
+}
+.logo_carousel.black .thumbsHolder_ThumbOFF {
+	float:left;
+	display:block;
+	height:100px;
+}
+
+.logo_carousel.black .thumbsHolder_ThumbOFF img {
+	position:relative;
+}
+
+
+.logo_carousel.black .thumbsHolder_ThumbON {
+	background:url(http://blisstel.com.au/includes/images//thumbActiveArrow.png) center 0px no-repeat;	
+}
+
+.logo_carousel.black .titlez {
+	font-family:'PT Sans', sans-serif;
+	font-weight:bold;
+	line-height:1.35;
+}
+.logo_carousel.black .descz {
+	font-family:'PT Sans', sans-serif;
+	font-weight:normal;
+	line-height:1.5;
+}
+
+.logo_carousel.black .descz a {
+	color:#F00;
+	text-decoration:none;
+}
+
+.logo_carousel.black .descz a:hover {
+	text-decoration: underline;
+}
+
+
+.logo_carousel.black .carouselLeftNav {
+	position:absolute;
+	width:40px; /*34px*/
+	height:34px; /*34px*/
+	background:url(http://blisstel.com.au/includes/images/black/leftNavOFF.png) 0px 0px no-repeat;
+	cursor: pointer;
+}
+
+.logo_carousel.black .carouselLeftNav:hover {
+	background:url(http://blisstel.com.au/includes/images/black/leftNavON.png) 0px 0px no-repeat;
+}
+.logo_carousel.black .carouselLeftNavDisabled {
+	background:url(http://blisstel.com.au/includes/images/black/leftNavDisabled.png) 0px 0px no-repeat;
+	cursor:default;
+}
+.logo_carousel.black .carouselLeftNavDisabled:hover {
+	background:url(http://blisstel.com.au/includes/images/black/leftNavDisabled.png) 0px 0px no-repeat;
+}
+
+.logo_carousel.black .carouselRightNav {
+	position:absolute;
+	width:40px; /*34px*/
+	height:34px; /*34px*/
+	background:url(http://blisstel.com.au/includes/images/black/rightNavOFF.png) 6px 0px no-repeat;
+	cursor: pointer;
+}
+
+.logo_carousel.black .carouselRightNav:hover {
+	background:url(http://blisstel.com.au/includes/images/black/rightNavON.png) 6px 0px no-repeat;
+}
+.logo_carousel.black .carouselRightNavDisabled {
+	background:url(http://blisstel.com.au/includes/images/black/rightNavDisabled.png) 6px 0px no-repeat;
+	cursor:default;
+}
+.logo_carousel.black .carouselRightNavDisabled:hover {
+	background:url(http://blisstel.com.au/includes/images/black/rightNavDisabled.png) 6px 0px no-repeat;
+}
+
+.logo_carousel.black .bottomNav {
+	position:absolute;
+	height:35px;
+	width:0;
+	z-index:140;
+}
+
+.logo_carousel.black .bottomNavButtonOFF {
+	float:left;
+	display:block;
+	width:12px;
+	height:12px;
+	background:url(http://blisstel.com.au/includes/images/black/bottomNavOFF.png) 0 0 no-repeat;
+	padding-left:9px;
+	cursor: pointer;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;			
+}
+
+.logo_carousel.black .bottomNavButtonON {
+	float:left;
+	display:block;
+	width:12px;
+	height:12px;
+	padding-left:9px;
+	background:url(http://blisstel.com.au/includes/images/black/bottomNavON.png) 0 0 no-repeat;
+	cursor: pointer;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;		
+}
+
+
+
+
+
+/***white SKIN***/
+.logo_carousel.white .thumbsHolderWrapper {
+	width:100%;
+	overflow:hidden;
+}
+.logo_carousel.white .thumbsHolderVisibleWrapper {
+	position:absolute;
+	width:100%;
+	overflow:hidden;
+}
+.logo_carousel.white .thumbsHolder {
+	position:absolute;
+	height:100%;
+}
+.logo_carousel.white .thumbsHolder_ThumbOFF {
+	float:left;
+	display:block;
+	height:100px;
+}
+
+.logo_carousel.white .thumbsHolder_ThumbOFF img {
+	position:relative;
+}
+
+
+.logo_carousel.white .thumbsHolder_ThumbON {
+	background:url(http://blisstel.com.au/includes/images//thumbActiveArrow.png) center 0px no-repeat;	
+}
+
+.logo_carousel.white .titlez {
+	font-family:'PT Sans', sans-serif;
+	font-weight:bold;
+	line-height:1.35;
+}
+.logo_carousel.white .descz {
+	font-family:'PT Sans', sans-serif;
+	font-weight:normal;
+	line-height:1.5;
+}
+
+.logo_carousel.white .descz a {
+	color:#F00;
+	text-decoration:none;
+}
+
+.logo_carousel.white .descz a:hover {
+	text-decoration: underline;
+}
+
+
+.logo_carousel.white .carouselLeftNav {
+	position:absolute;
+	width:40px; /*34px*/
+	height:34px; /*34px*/
+	background:url(http://blisstel.com.au/includes/images/white/leftNavOFF.png) 0px 0px no-repeat;
+	cursor: pointer;
+}
+
+.logo_carousel.white .carouselLeftNav:hover {
+	background:url(http://blisstel.com.au/includes/images/white/leftNavON.png) 0px 0px no-repeat;
+}
+.logo_carousel.white .carouselLeftNavDisabled {
+	background:url(http://blisstel.com.au/includes/images/white/leftNavDisabled.png) 0px 0px no-repeat;
+	cursor:default;
+}
+.logo_carousel.white .carouselLeftNavDisabled:hover {
+	background:url(http://blisstel.com.au/includes/images/white/leftNavDisabled.png) 0px 0px no-repeat;
+}
+
+.logo_carousel.white .carouselRightNav {
+	position:absolute;
+	width:40px; /*34px*/
+	height:34px; /*34px*/
+	background:url(http://blisstel.com.au/includes/images/white/rightNavOFF.png) 6px 0px no-repeat;
+	cursor: pointer;
+}
+
+.logo_carousel.white .carouselRightNav:hover {
+	background:url(http://blisstel.com.au/includes/images/white/rightNavON.png) 6px 0px no-repeat;
+}
+.logo_carousel.white .carouselRightNavDisabled {
+	background:url(http://blisstel.com.au/includes/images/white/rightNavDisabled.png) 6px 0px no-repeat;
+	cursor:default;
+}
+.logo_carousel.white .carouselRightNavDisabled:hover {
+	background:url(http://blisstel.com.au/includes/images/white/rightNavDisabled.png) 6px 0px no-repeat;
+}
+
+.logo_carousel.white .bottomNav {
+	position:absolute;
+	height:35px;
+	width:0;
+	z-index:140;
+}
+
+.logo_carousel.white .bottomNavButtonOFF {
+	float:left;
+	display:block;
+	width:12px;
+	height:12px;
+	background:url(http://blisstel.com.au/includes/images/white/bottomNavOFF.png) 0 0 no-repeat;
+	padding-left:9px;
+	cursor: pointer;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;			
+}
+
+.logo_carousel.white .bottomNavButtonON {
+	float:left;
+	display:block;
+	width:12px;
+	height:12px;
+	padding-left:9px;
+	background:url(http://blisstel.com.au/includes/images/white/bottomNavON.png) 0 0 no-repeat;
+	cursor: pointer;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;		
+}
+
+
+
+
+
+/* jQuery-UI TOOL TIP */
+
+.ui-tooltip {	
+	padding:8px;
+	position:absolute;
+	z-index:9999;
+}
+
+.ui-tooltip, .lbg_carousel_arrow:after {
+	background: #333;
+}
+.ui-tooltip {
+	background: #333;
+	color: #FFFFFF;
+	padding: 8px 8px;
+	border-radius: 4px;
+}
+.lbg_carousel_arrow {
+  width: 70px;
+  height: 16px;
+  overflow: hidden;
+  position: absolute;
+  left: 50%;
+  margin-left: -33px;
+  bottom: -16px;
+}
+.lbg_carousel_arrow.top {
+	top: -16px;
+	bottom: auto;
+}
+.lbg_carousel_arrow.left {
+	left: 20%;
+}
+.lbg_carousel_arrow:after {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: -20px;
+  width: 25px;
+  height: 25px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  tranform: rotate(45deg);
+}
+.lbg_carousel_arrow.top:after {
+	bottom: -20px;
+	top: auto;
+}

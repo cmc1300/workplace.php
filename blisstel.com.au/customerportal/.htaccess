@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^customerportal\.blisstel\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.customerportal\.blisstel\.com\.au$
+RewriteRule ^/?$ "https\:\/\/customerportal\.blisstel\.com\.au" [R=301,L]
+
