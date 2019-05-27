@@ -1,0 +1,8 @@
+<message_acknowledgement>
+	<original_messagenumber> 1234 </original_messagenumber>
+	<original_type> 856 </original_type>
+	<original_senderidentifier> FDM </original_senderidentifier>
+	<statuscode> 900 </statuscode>
+	<statusmessage> Success</statusmessage>
+	<remark> </remark>
+</message_acknowledgement>

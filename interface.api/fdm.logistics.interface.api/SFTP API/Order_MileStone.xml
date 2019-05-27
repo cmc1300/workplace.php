@@ -1,0 +1,25 @@
+<order_milestone>
+<messageno>yyy</messageno>
+
+<details>
+
+<line>
+	<customer_id> </customer_id>
+	<order_number> </order_number>
+	<event_type> PR </event_type>
+	<event_date> </event_date>
+	<action_by> </action_by>
+	
+	
+</line>
+<line>
+	<customer_id></customer_id>
+	<order_number> </order_number>
+	<event_type> PI </event_type>
+	<event_date> </event_date>
+	<action_by> </action_by>
+	
+	
+</line>
+</details>
+</order_milestone>

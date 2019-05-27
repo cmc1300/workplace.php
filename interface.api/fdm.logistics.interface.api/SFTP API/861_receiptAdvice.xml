@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_861>
+  <messageno>yyy</messageno>
+  <customer_id>ABC</customer_id>
+  <asn_number></asn_number>
+  <sku>
+    <fdmlineno></fdmlineno>
+    <palletid></palletid>
+    <sku></sku>
+    <description></description>
+    <expectedqty></expectedqty>
+    <fitstatus></fitstatus>
+    <weight></weight>
+    <cube></cube>
+    <receiptdate></receiptdate>
+    <batch></batch>
+    <serialnumber></serialnumber>
+    <expirydate></expirydate>
+    <comments></comments>
+  </sku>
+  <sku>
+    <fdmlineno></fdmlineno>
+    <palletid></palletid>
+    <sku></sku>
+    <description></description>
+    <expectedqty></expectedqty>
+    <receivedqty></receivedqty>
+    <fitstatus></fitstatus>
+    <weight></weight>
+    <cube></cube>
+    <receiptdate></receiptdate>
+    <batch></batch>
+    <serialnumber></serialnumber>
+    <expirydate></expirydate>
+    <comments></comments>
+  </sku>
+</message_861>

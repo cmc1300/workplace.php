@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_947>
+  <MessageNo>12345</MessageNo>
+  <customer_id>ABC</customer_id>
+  <Details>
+    <Sku>
+      <adjustmentno>xxx </adjustmentno>
+      <sku> item1 </sku>
+      <Description> Sku description</Description>
+      <adjusted_qty></adjusted_qty>
+      <weight></weight>
+      <cube></cube>
+      <batch></batch>
+      <expirydate></expirydate>
+      <adjusted_date>yyyy-mm-dd hh:nn:ss </adjusted_date>
+      <adjusted_by></adjusted_by>
+      <loc></loc>
+      <zone></zone>
+      <location_type></location_type>
+      <adjustmentcode> fredefine list of adjustment code in openlink </adjustmentcode>
+      <Remarks></Remarks>
+    </Sku>
+    <Sku>
+      <adjustmentno>xxx </adjustmentno>
+      <sku> item1 </sku>
+      <Description> Sku description</Description>
+      <adjusted_qty></adjusted_qty>
+      <weight></weight>
+      <cube></cube>
+      <batch></batch>
+      <expirydate></expirydate>
+      <adjusted_date>yyyy-mm-dd hh:nn:ss </adjusted_date>
+      <adjusted_by></adjusted_by>
+      <loc></loc>
+      <zone></zone>
+      <location_type></location_type>
+      <adjustmentcode> fredefine list of adjustment code in openlink </adjustmentcode>
+      <Remarks></Remarks>
+    </Sku>
+  </Details>
+</message_947>

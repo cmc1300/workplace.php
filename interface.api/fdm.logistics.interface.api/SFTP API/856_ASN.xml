@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_856>
+  <messageno>yyy</messageno>
+  <customer_id>ABC</customer_id>
+  <asn_number></asn_number>
+  <reference2></reference2>
+  <exp_date_arrival> yyyy-mm-dd hh:nn:ss </exp_date_arrival>
+  <receipt_type> R1 </receipt_type>
+  <remark></remark>
+  <pickup_customerName></pickup_customerName>
+  <pickup_customerCode></pickup_customerCode>
+  <pickup_contact></pickup_contact>
+  <pickup_street></pickup_street>
+  <pickup_suburb></pickup_suburb>
+  <pickup_state></pickup_state>
+  <pickup_postCode></pickup_postCode>
+  <pickup_country></pickup_country>
+  <pickup_contactperson></pickup_contactperson>
+  <pickup_contacttelephone></pickup_contacttelephone>
+  <pickup_date></pickup_date>
+  <pickup_instruction></pickup_instruction>
+  <sku>
+    <fdmlineno></fdmlineno>
+    <sku></sku>
+    <description></description>
+    <qty></qty>
+    <batch></batch>
+    <serial_number></serial_number>
+    <expirydate></expirydate>
+    <instruction></instruction>
+  </sku>
+  <sku>
+    <fdmlineno></fdmlineno>
+    <sku></sku>
+    <description></description>
+    <qty></qty>
+    <batch></batch>
+    <serial_number></serial_number>
+    <expirydate></expirydate>
+    <instruction></instruction>
+  </sku>
+</message_856>

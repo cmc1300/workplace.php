@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_867>
+  <MessageNo>12345</MessageNo>
+  <customer_id>ABC</customer_id>
+  <details>
+    <Sku>
+      <move_type>PA </move_type>
+      <asn></asn>
+      <sku> item1 </sku>
+      <description> Sku description</description>
+      <qty></qty>
+      <weight></weight>
+      <cube></cube>
+      <batch></batch>
+      <expirydate></expirydate>
+      <from_palletid></from_palletid>
+      <fromloc></fromloc>
+      <fromzone></fromzone>
+      <fromlocation_type></fromlocation_type>
+      <fromfitstatus></fromfitstatus>
+      <to_palletid></to_palletid>
+      <toloc></toloc>
+      <tozone></tozone>
+      <tolocation_type></tolocation_type>
+      <tofitstatus></tofitstatus>
+      <transationdate></transationdate>
+      <move_by> person who doing the move </move_by>
+    </Sku>
+    <Sku>
+      <move_type>PA </move_type>
+      <asn></asn>
+      <sku> item1 </sku>
+      <description> Sku description</description>
+      <qty></qty>
+      <weight></weight>
+      <cube></cube>
+      <batch></batch>
+      <expirydate></expirydate>
+      <from_palletid></from_palletid>
+      <fromloc></fromloc>
+      <fromzone></fromzone>
+      <fromlocation_type></fromlocation_type>
+      <fromfitstatus></fromfitstatus>
+      <to_palletid></to_palletid>
+      <toloc></toloc>
+      <tozone></tozone>
+      <tolocation_type></tolocation_type>
+      <tofitstatus></tofitstatus>
+      <transationdate></transationdate>
+      <move_by> person who doing the move </move_by>
+    </Sku>
+  </details>
+</message_867>

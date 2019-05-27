@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_888>
+  <messageno>yyyy</messageno>
+  <customer_id>ABC</customer_id>
+  <transactiondate>yyyy-mm-dd hh:nn:ss </transactiondate>
+  <sku>
+    <sku></sku>
+    <description></description>
+    <EAN></EAN>
+    <serial_flag></serial_flag>
+    <cube></cube>
+    <weight></weight>
+    <velocity></velocity>
+    <pieces_per_carton></pieces_per_carton>
+    <pieces_per_pallet></pieces_per_pallet>
+    <min_qty></min_qty>
+    <max_qty></max_qty>
+    <batch_flag></batch_flag>
+    <expirydate_flag></expirydate_flag>
+    <dg_flag></dg_flag>
+    <dg_class></dg_class>
+    <dg_uncode></dg_uncode>
+    <dg_weight></dg_weight>
+  </sku>
+</message_888>

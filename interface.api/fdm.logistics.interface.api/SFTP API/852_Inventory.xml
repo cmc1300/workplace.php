@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<message_852>
+  <messageno>yyy</messageno>
+  <snapshot_date>yyyy-mm-dd hh:nn:ss</snapshot_date>
+  <sku>
+    <customer_id>ABC</customer_id>
+    <sku></sku>
+    <description></description>
+    <qty></qty>
+    <status></status>
+  </sku>
+  <sku>
+    <customer_id>ABC</customer_id>
+    <sku></sku>
+    <description></description>
+    <qty></qty>
+    <status></status>
+  </sku>
+</message_852>
