@@ -1,0 +1,1894 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title></title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/sys.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script language="JavaScript"> 
+<!-- 
+function IsSelect(form){ 
+for (var i=0;i<form.elements.length;i++){ 
+var e = form.elements[i]; 
+   if (e.Name != 'allSelect'&&e.disabled==false){ 
+   e.checked = form.allSelect.checked; 
+   } 
+     } 
+} 
+--> 
+</script> 
+</head>
+
+<body>
+<div id="top_one">
+	<div id="top_two">
+		<div id="top_three">
+			<p class="top_p">欢迎光临2future网站.您好,
+								<a href="../main/login.php" style="text-decoration:none;display:inline; color:#6A0000;">[登录</a> | 
+				<a href="../main/register.php" style="text-decoration:none;display:inline; color:#6A0000;">免费注册]</a> 			
+					
+			</p>
+			<div id="top_geduan" style="margin:0; padding:0;">
+				<ul id="top_ul">
+					<li id="top_li"><a href="index.php" style="color:#404040;text-decoration:none;">课程报名</a></li>
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li"><a href="portal.php" style="color:#404040;text-decoration:none;">学生账户</a></li>
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li2"><a href="../bbs/" style="color:#404040;text-decoration:none;">问题论坛</a></li>
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li2"><a href="../library/" style="color:#404040;text-decoration:none;">图书馆</a></li>	
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li2"><a href="../main/aap.php" style="color:#404040;text-decoration:none;">大学补习主页</a></li>
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li2"><a href="../main/hr.php" style="color:#404040;text-decoration:none;">诚聘英才</a></li>
+					<li style="clear:none !important;display:block;float:left;height:21px;padding:3px 0 0 6px;">|</li>
+					<li id="top_li2"><a href="../ielts/" style="color:#404040;text-decoration:none;">未来雅思</a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div style="clear:both;"></div><div id="wrap">
+ <div id="header">
+  <div id="logo"><img src="images/logo.gif" /></div>
+  <div id="nav"></div>
+ </div>
+ <div id="navlist"><img src="images/block_h2.png" width="950" height="42" /></div>
+ <div id="content">
+  <div id="left">
+   <!-- 老师管理的位置，管理通告，管理下载课件 -->   
+<div id="left_top_black">用户管理</div>
+<div id="left_bottom_black">
+		<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_alluser2.php">网站注册用户列表</a>
+	</div>
+	<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_alluser.php">课程注册用户列表</a>
+	</div>
+	<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="find_user.php">查找网站注册用户</a>
+	</div>
+	<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_finduser.php">查找报名用户</a>
+	</div>
+	<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_complaint.php">用户投诉建议</a>
+	</div>
+</div>
+  
+
+   
+   <div id="left_top_black">课程与老师管理</div>
+   <div id="left_bottom_black">
+   <div style=" border: #9E8AA2 solid 1px; padding:2px; text-align:center;margin-bottom:5px; margin-top:5px;margin-right:5px; ">
+   <a href="manage_course03.php">报名情况</a>
+   </div>
+   <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_teacher03.php">老师的列表</a>
+	</div> 
+	<div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_subject12.php">添加老师权限</a>
+	</div> 
+
+   <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; "><a href="manage_subject12.php">报名管理构架图<font color="#FF0000">(可编辑)</font></a>
+   
+  
+   
+   </div> 
+   <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; ">
+	<a href="manage_teacher01.php">管理科目通告</a>
+	</div>
+   </div>
+   <div id="left_top_black">新闻管理</div>
+   <div id="left_bottom_black">
+   
+   <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; "><a href="manage_newlist.php">AAP新闻列表</a></div>
+ 
+   
+   </div>
+<div id="left_top_black">微音基金</div>
+   <div id="left_bottom_black">
+   
+  
+   <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; "><a href="manage_weiyin.php">申请列表</a></div>
+   
+   </div>
+
+
+
+
+
+
+ <!-- 
+    <div style="border:#666 solid 1px; padding:2px; text-align:center;margin-bottom:5px;margin-right:5px; "><a href="manage_subject11.php">架构图</a></div>
+ -->
+     </div>
+  <div id="middle3" >
+    
+   <div id="middle_top_blue">报名列表[<a href="manage_portal_user03.php">账户管理：manage_portal_user03.php</a>]</div>
+   <div id="middle_bottom_blue">
+    
+    <table width="100%" cellpadding="1" cellspacing="1" bgcolor="#dedede">
+	<form action="update_review_email.php" method="post" name="myForm" id="myForm"> 
+	<tr align="center">
+	<td></td>
+	<td>身份</td>
+	<td><strong>name</strong></td>
+	<td><strong>email</strong></td>
+	<td><strong>Telephone</strong></td>
+	<td><strong>报名科目</strong></td>
+	<td><strong>状态</strong></td>
+	<td><strong>报名时间</strong></td>
+	<td><strong>开通时间</strong></td>
+	<td><strong>到期时间</strong></td>
+	<td><strong>到期设置</strong></td>
+	<td><strong>其他操作</strong></td>
+	</tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="17026" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>fred616</td>
+	<td>xiongfred@gmail.com</td>
+	<td id="tel">0430577027</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-09</td>
+	<td>2012-05-09</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5625&id=17026&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=17026&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16958" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>aimaimaimia</td>
+	<td>alexlovesmia@hotmail.com</td>
+	<td id="tel">0430510828</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#CCCCCC'>未激活</font>	</td>
+	<td>2012-05-08</td>
+	<td>0000-00-00</td>
+	<td>0000-00-00</td>
+	<td><a href="manage_portal_time.php?userid=6195&id=16958&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16958&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16929" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Doris LIU</td>
+	<td>fantasy15@sina.cn</td>
+	<td id="tel">0426821515</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#CCCCCC'>未激活</font>	</td>
+	<td>2012-05-08</td>
+	<td>0000-00-00</td>
+	<td>0000-00-00</td>
+	<td><a href="manage_portal_time.php?userid=4894&id=16929&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16929&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16784" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>jiho</td>
+	<td>jihong1989@163.com</td>
+	<td id="tel">0424529966</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-05</td>
+	<td>2012-05-06</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=6019&id=16784&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16784&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16783" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>jiho</td>
+	<td>jihong1989@163.com</td>
+	<td id="tel">0424529966</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-05</td>
+	<td>2012-05-06</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=6019&id=16783&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16783&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16782" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>jiho</td>
+	<td>jihong1989@163.com</td>
+	<td id="tel">0424529966</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-05</td>
+	<td>2012-05-05</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=6019&id=16782&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16782&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16747" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>zhangye1988</td>
+	<td>sophielily1988@hotmail.com</td>
+	<td id="tel">0425138882</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-04</td>
+	<td>2012-05-04</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4676&id=16747&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16747&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16730" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>maqiuchen</td>
+	<td>263784369@qq.com</td>
+	<td id="tel">0450801103</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-04</td>
+	<td>2012-05-05</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4783&id=16730&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16730&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16703" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>jay xie</td>
+	<td>648305050@qq.com</td>
+	<td id="tel">0430628498</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-04</td>
+	<td>2012-05-04</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3217&id=16703&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16703&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：huatong xie</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16682" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>xiaoyun115</td>
+	<td>xiaoyun115@gmail.com</td>
+	<td id="tel">0451153586</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-04</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=6093&id=16682&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16682&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16680" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Kwan Pig</td>
+	<td>lckyoyoyo_lazy@hotmail.com</td>
+	<td id="tel">0412101795</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-04</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4414&id=16680&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16680&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16676" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>daisy周</td>
+	<td>ss807475516@qq.com</td>
+	<td id="tel">0468767785</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-04</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4884&id=16676&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16676&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16672" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>jiayin liang</td>
+	<td>jiayin-liang@hotmail.com</td>
+	<td id="tel">0401073998</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-03</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4280&id=16672&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16672&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16640" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Rex LU</td>
+	<td>xiao_007@sina.com</td>
+	<td id="tel">0433741005</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-03</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4124&id=16640&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16640&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16609" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>17046831</td>
+	<td>zhang-run@live.com</td>
+	<td id="tel">0425127666</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-03</td>
+	<td>2012-05-03</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3026&id=16609&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16609&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16584" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Tutu</td>
+	<td>sweet-mengmeng@hotmail.com</td>
+	<td id="tel">0430560809</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4479&id=16584&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16584&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：你好
+
+已经付费, 请问怎样下载notes.
+
+关于不参加辅导Assignment的课,是在这里申请退款吗？（因为卡在朋友那里,不清楚步骤是什么）
+
+谢谢</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16577" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>nicole7707</td>
+	<td>zinuofaye@hotmail.com</td>
+	<td id="tel">0430718128</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5057&id=16577&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16577&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16553" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>王强</td>
+	<td>870230293@qq.com</td>
+	<td id="tel">0406626550</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=6007&id=16553&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16553&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16522" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>hkhkjeffrey</td>
+	<td>jeffrey161191@hotmail.com</td>
+	<td id="tel">0423369339</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-05-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5069&id=16522&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16522&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16413" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>liuhanzeharvey@hotmail.com</td>
+	<td>liuhanzeharvey@hotmail.com</td>
+	<td id="tel">0405654343</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-30</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4735&id=16413&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16413&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16381" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>yuwei huang</td>
+	<td>hyw1004@sina.com</td>
+	<td id="tel">0451004585</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-30</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5992&id=16381&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16381&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16373" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Xiaomeng Wang</td>
+	<td>here_meng@hotmail.com</td>
+	<td id="tel">0433021810</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-30</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=1530&id=16373&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16373&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16256" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>tluo7</td>
+	<td>tluo7@hotmail.com</td>
+	<td id="tel">0425042222</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-29</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3794&id=16256&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16256&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16240" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>michelle11189</td>
+	<td>michelle11189@hotmail.com</td>
+	<td id="tel">0430029593</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-29</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2526&id=16240&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16240&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16216" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>albee0315</td>
+	<td>symphony_9229@yahoo.com.hk</td>
+	<td id="tel">0433080718</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-28</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4089&id=16216&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16216&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16214" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>血染黄三角</td>
+	<td>alvinzhh@hotmail.com</td>
+	<td id="tel">0420281215</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-28</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2189&id=16214&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16214&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16172" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>chujun ma</td>
+	<td>276130227@qq.com</td>
+	<td id="tel">0430590316</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-28</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5944&id=16172&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16172&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16118" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>ms</td>
+	<td>ms@deakin.edu.au</td>
+	<td id="tel">0430166309</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2409&id=16118&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16118&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16102" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>dolphinbaby147</td>
+	<td>dolphinbaby147@hotmail.com</td>
+	<td id="tel">0424080613</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5862&id=16102&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16102&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16072" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>choi</td>
+	<td>yyzhang@deakin.edu.au</td>
+	<td id="tel">0430993578</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5919&id=16072&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16072&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16031" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>xtian</td>
+	<td>txx725@126.com</td>
+	<td id="tel">0430887250</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2497&id=16031&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16031&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16030" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>xtian</td>
+	<td>txx725@126.com</td>
+	<td id="tel">0430887250</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2497&id=16030&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16030&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16027" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>whlml</td>
+	<td>whlml@163.com</td>
+	<td id="tel">0415730099</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4734&id=16027&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16027&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16026" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>whlml</td>
+	<td>whlml@163.com</td>
+	<td id="tel">0415730099</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4734&id=16026&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16026&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="16020" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>zyy906</td>
+	<td>zhangyy906@hotmail.com</td>
+	<td id="tel">0425909966</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-27</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4189&id=16020&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=16020&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15989" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>车车</td>
+	<td>kittycm@126.com</td>
+	<td id="tel">0425407277</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3730&id=15989&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15989&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15987" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>julibagongli</td>
+	<td>178670433@qq.com</td>
+	<td id="tel">0425463936</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5893&id=15987&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15987&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15983" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>悠闲猫眯</td>
+	<td>125222809@qq.com</td>
+	<td id="tel">0432243935</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5698&id=15983&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15983&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15943" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>nky0248</td>
+	<td>nky0248@126.com</td>
+	<td id="tel">0430709107</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5882&id=15943&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15943&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15855" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>晓阳</td>
+	<td>yahohoo@126.com</td>
+	<td id="tel">0433560578</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5617&id=15855&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15855&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15823" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>冯桥</td>
+	<td>bridgefq@hotmail.com</td>
+	<td id="tel">0425988836</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5185&id=15823&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15823&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15817" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>crystal_jj</td>
+	<td>crystal01265@hotmail.com</td>
+	<td id="tel">0430901265</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3111&id=15817&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15817&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15805" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>OliviaWangxiaoran</td>
+	<td>olivia-826@hotmail.com</td>
+	<td id="tel">0425298266</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4893&id=15805&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15805&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15798" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>ma feng</td>
+	<td>837735573@qq.com</td>
+	<td id="tel">0411891615</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-26</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4738&id=15798&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15798&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15734" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>shelly_bazinga</td>
+	<td>shelly_bazinga@hotmail.com</td>
+	<td id="tel">0426261678</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-25</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4007&id=15734&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15734&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15725" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>rxy0906</td>
+	<td>rxy0906@live.cn</td>
+	<td id="tel">0432099006</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-25</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5759&id=15725&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15725&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15692" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>zoesoul</td>
+	<td>lxlzoe@hotmail.com</td>
+	<td id="tel">0424798826</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-25</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4759&id=15692&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15692&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15690" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Li xiaolin</td>
+	<td>zoe-xiao123@hotmail.com</td>
+	<td id="tel">0424798826</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-25</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4257&id=15690&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15690&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15662" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>gushenji6402</td>
+	<td>r.y.e-guilty_heaven@live.cn</td>
+	<td id="tel">0430790531</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-24</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4648&id=15662&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15662&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15618" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Raymond</td>
+	<td>wangzhijian_263@163.com</td>
+	<td id="tel">0424881031</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-24</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3934&id=15618&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15618&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15592" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>fsi320313</td>
+	<td>fsi320313@gmail.com</td>
+	<td id="tel">0451993636</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-24</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4150&id=15592&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15592&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15550" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>tianjuanjuan</td>
+	<td>jtian@deakin.edu.au</td>
+	<td id="tel">0413279177</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-23</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5761&id=15550&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15550&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15473" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Kira</td>
+	<td>272016266@qq.com</td>
+	<td id="tel">0450550423</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-23</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4204&id=15473&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15473&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15469" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>zhuoxi</td>
+	<td>cecilia_zx@sina.com</td>
+	<td id="tel">0433871666</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-23</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3246&id=15469&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15469&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15441" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Lester</td>
+	<td>372378168@qq.com</td>
+	<td id="tel">0425466697</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-22</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3148&id=15441&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15441&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15425" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>wany</td>
+	<td>fyingzhou@sina.com</td>
+	<td id="tel">0403585311</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-22</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4130&id=15425&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15425&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15404" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Estelle</td>
+	<td>biyiyun@hotmail.com</td>
+	<td id="tel">0402490062</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-22</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4574&id=15404&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15404&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15372" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>332416057</td>
+	<td>gaoyu3333@163.com</td>
+	<td id="tel">0425933318</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-22</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4671&id=15372&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15372&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15320" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>shmilysha</td>
+	<td>shmilysha@gmail.com</td>
+	<td id="tel">0430966887</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-21</td>
+	<td>2012-04-22</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4669&id=15320&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15320&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15288" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>koalapeach</td>
+	<td>koalapeach@sina.com</td>
+	<td id="tel">0433308310</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-21</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4694&id=15288&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15288&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15272" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Jiaze</td>
+	<td>isabella.jiaze@gmail.com</td>
+	<td id="tel">0449971127</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-21</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4665&id=15272&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15272&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15154" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>linyuan</td>
+	<td>315706556@qq.com</td>
+	<td id="tel">0425006886</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-20</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4312&id=15154&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15154&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15141" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>NanxiYANG</td>
+	<td>nancy_kvy@163.com</td>
+	<td id="tel">0430891001</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-20</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4394&id=15141&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15141&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15107" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>matthew1107</td>
+	<td>yongbuyanqi17@hotmail.com</td>
+	<td id="tel">0430270711</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-19</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4109&id=15107&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15107&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="15067" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>Bolinna</td>
+	<td>hexueminyuanfang@hotmail.com</td>
+	<td id="tel">0430206170</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-19</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4462&id=15067&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=15067&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14969" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>melissa</td>
+	<td>wangmeiying6539@126.com</td>
+	<td id="tel">0425556101</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-18</td>
+	<td>2012-05-01</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3753&id=14969&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14969&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14945" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>sherry9157</td>
+	<td>vivian.9157@hotmail.com</td>
+	<td id="tel">0425889157</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-17</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3806&id=14945&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14945&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14939" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>huangxiaona</td>
+	<td>dinahna@qq.com</td>
+	<td id="tel">04333066679</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-17</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3141&id=14939&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14939&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14890" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>maomao1_2</td>
+	<td>chuanrui_2009@163.com</td>
+	<td id="tel">0433505280</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-16</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3189&id=14890&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14890&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14849" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>sini</td>
+	<td>462732582@qq.com</td>
+	<td id="tel">0425980323</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-14</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5374&id=14849&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14849&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14818" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>ken123</td>
+	<td>wangbiao121@vip.qq.com</td>
+	<td id="tel">0426880121</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-13</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4706&id=14818&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14818&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14794" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>w3x1f4</td>
+	<td>544289056@qq.com</td>
+	<td id="tel">0425101026</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-12</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4801&id=14794&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14794&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14739" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>beishuizhiling</td>
+	<td>beishuizhiling@hotmail.com</td>
+	<td id="tel">0430768847</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-10</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=2045&id=14739&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14739&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14719" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>annabelle1028</td>
+	<td>annabelle1028@gmail.com</td>
+	<td id="tel">0425689892</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-06</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5070&id=14719&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14719&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14713" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>orohe</td>
+	<td>o_orohe@hotmail.com</td>
+	<td id="tel">0430289920</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-05</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4450&id=14713&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14713&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14676" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>huangvicky</td>
+	<td>huanghuan1990@yahoo.cn</td>
+	<td id="tel">0423251933</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-03</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3602&id=14676&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14676&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14668" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>zijie029</td>
+	<td>zhaojie029@hotmail.com</td>
+	<td id="tel">0433163737</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-03</td>
+	<td>2012-04-29</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3991&id=14668&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14668&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14657" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>fxu</td>
+	<td>373224784@qq.com</td>
+	<td id="tel">0403181229</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-02</td>
+	<td>2012-04-28</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=4754&id=14657&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14657&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14653" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>ZANFD1002</td>
+	<td>loosezf@163.com</td>
+	<td id="tel">0430126667</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=3022&id=14653&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14653&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr bgcolor="#ffffff" height="25px">
+	<td><input name="undate_id[]" type="checkbox" id="selectBox" value="14645" /></td>
+	<td>
+		<font color="#3333FF">会员</font>
+	</td>
+	<td>leon10779</td>
+	<td>leon10779@hotmail.com</td>
+	<td id="tel">0402521779</td>
+	
+	<td>
+	MAA261 Financial Accounting	</td>
+	<td>
+	<font color='#0033CC'>使用中</font>	</td>
+	<td>2012-04-02</td>
+	<td>2012-05-02</td>
+	<td>2012-06-30</td>
+	<td><a href="manage_portal_time.php?userid=5071&id=14645&subjectid=468">设置时间</a></td>
+	
+	<td><a href="del_signup.php?id=14645&subjectid=468 ">删除</a></td>
+	</tr>
+	<tr bgcolor="#ffffff"><td></td><td colspan="11" align="left">备注：</td></tr>
+		<tr height="30px"><td colspan="7" align="left"><input name="allSelect" type="checkbox" id="allSelect" value="" onClick="IsSelect(myForm)" />全选 <input type="submit" value="发送信息" /><input type="button" onclick="javascript:sendMessage();" value="发送短信" /></td></tr>
+	<tr>
+	  <td colspan="10"><textarea name="msg" cols="95" rows="9"></textarea></td>
+	</tr>
+	</form>
+	</table>
+   </div>
+  
+ 
+ </div>
+ <hr />
+ <div id="footer">Copyright (c) <a href="#">2Future</a>. All rights reserved· W3C</div>
+</div>
+
+<script language="javascript">
+		function xianshi(){
+		alert('发送邮件通知他(她)！');
+		}
+		function sendMessage(){
+			var phone="",phones="",text="",count=0;
+			text=$("[name='msg']").val();
+			//$("[id='tel']").each(function(i){
+			$("[name='undate_id[]']").each(function(i){				
+				if($(this).attr("checked")=="checked"){		
+					phone=($(this).parent().parent().find("#tel")).html();				
+						phones+=phone+",";	
+						count=i;
+				}
+			});
+			if(count==0){
+				alert("请选择要发送短信的学员.");
+				return false;
+			}
+			if(text==null||text==""){
+				alert("请输入要发送的短信内容.");
+				return false;
+			}
+			 $.ajax({
+			   url:'http://sms.webnova.com.au/api/test.php', 
+			   type:'post',        
+			   //dataType:'json',     
+			  // data:{username:'2future111',password:'tony2FUTURE',api_id:'35',text:'test',method:'sendMessages',mobile:'8613855585327'},  
+				   success:function(result){
+					 alert(result);
+				  },
+				  complete:function(m,n){
+				  alert(m);
+				  alert(n);
+					/*$("[name='undate_id[]']").each(function(i){				
+						$(this).attr("checked","value")="";								
+						}
+					});*/
+				  }
+			  });			
+			
+		}	
+</script>
+</body>
+</html>

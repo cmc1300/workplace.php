@@ -1,0 +1,639 @@
+[11-May-2012 04:17:36] PHP Fatal error:  Call to undefined function  son_encode() in /home/webnovau/public_html/sms/api/sendMessage.php on line 120
+[27-Jun-2013 15:26:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[27-Jun-2013 15:26:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[27-Jun-2013 15:39:31 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[27-Jun-2013 15:39:31 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[27-Jun-2013 15:40:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[27-Jun-2013 15:40:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[27-Jun-2013 15:40:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[27-Jun-2013 15:40:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[28-Jun-2013 10:13:53 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[28-Jun-2013 10:13:53 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[28-Jun-2013 12:47:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[28-Jun-2013 12:47:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[28-Jun-2013 12:47:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[28-Jun-2013 12:47:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 10:34:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 10:34:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 10:36:19 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 10:36:19 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 10:39:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 10:39:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 10:57:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 10:57:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 12:05:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 12:05:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 16:10:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 16:10:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 16:20:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 16:20:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 16:45:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 16:45:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[01-Jul-2013 22:42:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[01-Jul-2013 22:42:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 08:12:35 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 08:12:35 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 08:14:00 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 08:14:00 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 09:25:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 09:25:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 10:49:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 10:49:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 10:50:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 10:50:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 10:59:36 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 10:59:36 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 11:00:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 11:00:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 13:40:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 13:40:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 13:40:52 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 13:40:52 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 14:06:59 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 14:06:59 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 14:07:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 14:07:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 14:19:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 14:19:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 15:50:00 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 15:50:00 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[02-Jul-2013 16:09:32 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[02-Jul-2013 16:09:32 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:15:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:15:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:16:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:16:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:20:06 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:20:06 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:24:26 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:24:26 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:30:51 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:30:51 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:31:28 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:31:28 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:34:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:34:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:35:37 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:35:37 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:38:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:38:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:43:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:43:22 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:53:42 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:53:42 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:55:33 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:55:33 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:58:33 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:58:33 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 16:59:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 16:59:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:05:59 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:05:59 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:06:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:06:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:12:53 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:12:53 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:13:38 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:13:38 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:22:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:22:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Jul-2013 17:23:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Jul-2013 17:23:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 15:34:57 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 15:34:57 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 15:58:31 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 15:58:31 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:31:24 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:31:24 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:31:55 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:31:55 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:39:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:39:05 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:39:20 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:39:20 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:45:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:45:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:46:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:46:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 16:58:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 16:58:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[16-Jul-2013 17:02:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[16-Jul-2013 17:02:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[17-Jul-2013 14:31:10 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[17-Jul-2013 14:31:10 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[17-Jul-2013 14:40:40 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[17-Jul-2013 14:40:40 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[17-Jul-2013 14:40:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[17-Jul-2013 14:40:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[19-Jul-2013 10:09:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[19-Jul-2013 10:09:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[19-Jul-2013 10:10:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[19-Jul-2013 10:10:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[19-Jul-2013 12:32:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[19-Jul-2013 12:32:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[19-Jul-2013 13:56:15 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[19-Jul-2013 13:56:15 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 16:25:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 16:25:29 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 16:29:41 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 16:29:41 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 16:29:45 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 16:29:45 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 16:47:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 16:47:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 18:19:47 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 18:19:47 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[06-Aug-2013 18:21:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[06-Aug-2013 18:21:12 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[13-Aug-2013 15:39:52 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[13-Aug-2013 15:39:52 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[14-Aug-2013 11:03:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[14-Aug-2013 11:03:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[14-Aug-2013 11:44:06 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[14-Aug-2013 11:44:06 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[14-Aug-2013 11:44:14 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[14-Aug-2013 11:44:14 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[14-Aug-2013 11:44:21 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[14-Aug-2013 11:44:21 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Aug-2013 10:55:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Aug-2013 10:55:30 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Aug-2013 11:10:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Aug-2013 11:10:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Aug-2013 11:12:09 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Aug-2013 11:12:09 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[15-Aug-2013 11:14:51 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[15-Aug-2013 11:14:51 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[20-Aug-2013 17:29:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[20-Aug-2013 17:29:18 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[20-Aug-2013 17:30:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[20-Aug-2013 17:30:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[20-Aug-2013 17:34:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[20-Aug-2013 17:34:16 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[20-Aug-2013 17:34:39 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[20-Aug-2013 17:34:39 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[20-Aug-2013 17:35:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[20-Aug-2013 17:35:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:01:08 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:01:08 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:05:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:05:11 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:08:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:08:48 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:12:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:12:17 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:31:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:31:07 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:50:44 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:50:44 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:51:58 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:51:58 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:52:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:52:03 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:53:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:53:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 11:55:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 11:55:13 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:00:49 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:00:49 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:02:28 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:02:28 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:03:57 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:03:57 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:04:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:04:01 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:04:04 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:04:04 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:10:15 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:10:15 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:10:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:10:43 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:14:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:14:46 PRC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[21-Aug-2013 12:15:11 PRC] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/webnovau/public_html/sms/api/sendMessage.php on line 53
+[21-Aug-2013 12:15:11 PRC] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/webnovau/public_html/sms/api/sendMessage.php on line 54
+[22-Oct-2013 18:50:24 PRC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[22-Oct-2013 18:50:24 PRC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[22-Oct-2013 18:51:51 PRC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[22-Oct-2013 18:51:51 PRC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[01-Nov-2013 09:21:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 11:13:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 11:14:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 11:15:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:20:45 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:20:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:22:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:27:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:36:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 12:49:03 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 13:07:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 13:09:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 13:12:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 13:50:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[01-Nov-2013 20:30:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-Nov-2013 04:09:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[02-Nov-2013 08:34:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[02-Nov-2013 08:39:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[04-Nov-2013 06:49:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[05-Nov-2013 15:29:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[05-Nov-2013 15:29:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[05-Nov-2013 15:29:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[05-Nov-2013 15:29:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 14:50:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 16:21:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 18:29:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 19:04:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[08-Nov-2013 19:11:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 19:11:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Nov-2013 19:20:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 08:06:38 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 08:59:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 09:02:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 13:19:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 13:20:04 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 13:25:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 13:46:06 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 13:46:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 14:00:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 14:01:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 14:02:28 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 14:02:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:28 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:15:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:16:00 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 15:16:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[10-Nov-2013 16:44:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 05:59:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 08:32:39 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 13:57:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 14:20:18 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 14:29:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 14:39:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 14:41:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:20:06 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:20:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:20:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:20:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:20:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 17:36:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[11-Nov-2013 20:10:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 02:05:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 05:45:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 05:45:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:16:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:24:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:29:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:29:04 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:47:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:49:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:58:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 12:58:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 13:05:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 13:21:38 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 13:24:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 13:24:38 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 13:46:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:06:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:07:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:07:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:07:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:34:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:59:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 14:59:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 15:04:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 15:06:39 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 15:24:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 16:15:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 16:58:04 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 16:58:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 16:58:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 16:58:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 17:05:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 17:24:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 17:53:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 18:19:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 18:27:54 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 18:27:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[12-Nov-2013 18:27:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 04:07:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 05:43:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 05:58:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 05:59:00 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 05:59:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 08:40:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 08:53:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 11:00:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 11:00:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 11:45:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 11:50:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 11:52:14 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:33:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:33:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:33:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:35:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:50:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 13:52:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 14:39:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 14:39:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 14:39:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 18:31:06 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[13-Nov-2013 19:49:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 05:26:40 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 05:41:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 05:41:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 05:41:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 13:50:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Nov-2013 13:54:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:16:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:18:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:21:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:22:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:27:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:27:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 08:30:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:00:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:07:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:13:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:30:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:34:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:42:29 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:45:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:45:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 09:45:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 10:13:39 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 11:09:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 11:48:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 11:49:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 13:07:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 13:07:45 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 13:26:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[15-Nov-2013 17:28:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 17:41:54 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 17:44:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 19:06:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[15-Nov-2013 19:13:40 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[16-Nov-2013 11:19:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[16-Nov-2013 21:19:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[18-Nov-2013 06:47:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[18-Nov-2013 08:22:39 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[18-Nov-2013 10:05:06 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[18-Nov-2013 14:02:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[19-Nov-2013 06:22:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Nov-2013 06:53:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 16:42:41 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:09:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:15:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:19:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:19:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:22:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:25:00 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:28:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:31:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:31:31 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:33:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:35:00 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[28-Nov-2013 17:38:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[29-Nov-2013 10:09:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[29-Nov-2013 10:24:31 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[05-Dec-2013 12:39:04 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[09-Jan-2014 14:16:45 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[09-Jan-2014 14:17:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[16-Jan-2014 12:32:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[29-Jan-2014 10:19:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[29-Jan-2014 10:20:41 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[30-Jan-2014 14:25:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[14-Feb-2014 08:12:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[22-Apr-2014 13:29:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 13:43:04 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 18:54:03 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 18:55:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 18:57:58 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 18:59:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-Apr-2014 18:59:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:29:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:29:54 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:29:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:31:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:31:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 07:58:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 08:09:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 09:06:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 09:06:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[23-Apr-2014 09:06:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[29-Apr-2014 16:20:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[29-Apr-2014 16:22:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[29-Apr-2014 16:23:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-May-2014 14:47:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[03-May-2014 16:43:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-May-2014 15:53:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-May-2014 15:55:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-May-2014 17:39:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-May-2014 17:40:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-May-2014 17:47:06 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[10-May-2014 20:33:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[12-May-2014 13:05:31 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[12-May-2014 13:05:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-May-2014 11:21:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[22-May-2014 17:23:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[22-May-2014 17:58:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[22-May-2014 18:50:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[26-May-2014 14:58:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[01-Jun-2014 17:02:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[01-Jun-2014 17:03:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-Jun-2014 16:10:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-Jun-2014 16:34:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-Jun-2014 17:58:45 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[02-Jun-2014 17:59:35 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[03-Jun-2014 09:07:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[03-Jun-2014 09:43:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[03-Jun-2014 15:05:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 10:57:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 11:04:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:21:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:23:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:34:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:39:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:46:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:47:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 14:48:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[04-Jun-2014 16:50:14 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-Jun-2014 13:28:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-Jun-2014 13:31:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-Jun-2014 13:59:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[05-Jun-2014 15:44:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[07-Jun-2014 10:17:00 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[08-Jul-2014 14:45:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:49:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:49:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:50:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:50:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:51:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:51:54 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:51:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[08-Jul-2014 14:57:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 53
+[14-Jul-2014 13:25:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:29:48 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:29:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:30:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:31:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:32:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:33:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 13:33:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 14:10:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 14:12:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 14:12:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 14:41:34 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[14-Jul-2014 14:46:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 09:28:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:19:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:32:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:33:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:33:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:33:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessage.php on line 116
+[17-Jul-2014 10:34:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:35:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 10:35:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 10:35:28 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 10:35:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:37:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:38:18 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:38:38 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:40:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 10:41:11 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:42:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:43:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:44:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[17-Jul-2014 10:44:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[17-Jul-2014 13:12:31 PRC] PHP Fatal error:  Class 'message_class' not found in /home/wnovasms/public_html/api/sendMessage.php on line 36
+[18-Jul-2014 13:06:47 Antarctica/Macquarie] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/wnovasms/public_html/include/init.php on line 22
+[18-Jul-2014 10:07:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[18-Jul-2014 11:36:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[18-Jul-2014 11:36:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[18-Jul-2014 11:37:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[18-Jul-2014 15:39:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 09:23:09 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[19-Jul-2014 10:01:18 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:01:26 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:01:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:41 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:02:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:16 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:31 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:41 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:53 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:03:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:04:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:04:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:04:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:04:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:04:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:06:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:06:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:06:31 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:06:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:06:40 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:07:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:07:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:07:50 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:07:54 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:07:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:08:03 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:08:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:10 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:23 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:28 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:33 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:41 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:09:56 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:10:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:10:18 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:10:29 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:12:27 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:12:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:13:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:07 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:12 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:14:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:15:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:15:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:15:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:15:29 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:15:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:16:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:17:57 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[19-Jul-2014 10:18:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:18:35 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:18:51 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:19:14 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:19:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:19:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:20:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:20:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:21:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:21:28 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:21:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:27:30 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:27:36 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:27:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:27:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:27:59 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:35:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:38:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:39:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:40:19 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:42:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:44:47 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:44:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:46:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:46:24 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:46:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:47:01 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:47:08 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:47:14 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:47:17 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:53:02 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[19-Jul-2014 10:53:43 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 120
+[20-Jul-2014 07:57:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[20-Jul-2014 08:11:22 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[22-Jul-2014 09:09:25 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[22-Jul-2014 11:27:37 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[23-Jul-2014 22:58:05 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[23-Jul-2014 22:59:13 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[23-Jul-2014 22:59:52 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[23-Jul-2014 22:59:55 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[23-Jul-2014 23:02:20 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[24-Jul-2014 05:39:15 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 119
+[24-Jul-2014 05:41:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:04:42 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:05:44 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:05:46 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:36:49 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:37:14 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:37:21 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[24-Jul-2014 07:38:32 PRC] PHP Warning:  Creating default object from empty value in /home/wnovasms/public_html/api/sendMessageCN.php on line 53
+[25-Jul-2014 17:44:24 Antarctica/Macquarie] PHP Warning:  Unterminated comment starting line 160 in /home/wnovasms/public_html/api/sendMessageCN.php on line 160
+[25-Jul-2014 14:44:24 PRC] PHP Fatal error:  Call to undefined function countCharacters() in /home/wnovasms/public_html/api/sendMessageCN.php on line 46
+[25-Jul-2014 18:00:52 Antarctica/Macquarie] PHP Warning:  Unterminated comment starting line 160 in /home/wnovasms/public_html/api/sendMessageCN.php on line 160
+[25-Jul-2014 15:00:52 PRC] PHP Fatal error:  Call to undefined function countCharacters() in /home/wnovasms/public_html/api/sendMessageCN.php on line 46
+[24-Jun-2015 02:32:09 Antarctica/Macquarie] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/wnovasms/public_html/include/class/mysql_class.php on line 40
+[30-Sep-2015 14:50:03 Antarctica/Macquarie] PHP Parse error:  syntax error, unexpected ';' in /home/wnovasms/public_html/api/sendMessage.php on line 49
