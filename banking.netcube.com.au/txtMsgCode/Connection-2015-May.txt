@@ -1,0 +1,35 @@
+Monday 11th of May 2015 10:32:11 AM
+==============================================================
+IMEI: testTag: testCode: 
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Fail
+
+Monday 11th of May 2015 10:48:18 AM
+==============================================================
+IMEI: 1234567890Tag: newCode: just for test
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Monday 11th of May 2015 10:50:17 AM
+==============================================================
+IMEI: 1234567890Tag: newCode: just for test
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Monday 11th of May 2015 10:51:10 AM
+==============================================================
+IMEI: 1234567890Tag: newCode: just for test
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Monday 11th of May 2015 10:53:40 AM
+==============================================================
+IMEI: 89610185000183413829Tag: newCode: Your NetCode to authorise the payment of $0.08 to BSB 063019 Account Number *****444 is 140771
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+

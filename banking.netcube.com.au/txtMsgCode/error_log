@@ -1,0 +1,6 @@
+[10-Mar-2015 04:32:29 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 36
+[10-Mar-2015 04:35:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 36
+[10-Mar-2015 04:38:04 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 37
+[10-Mar-2015 04:40:52 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 39
+[10-Mar-2015 04:59:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 41
+[10-Mar-2015 05:00:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/netcubec/public_html/SMS/connect/Connect.php on line 44

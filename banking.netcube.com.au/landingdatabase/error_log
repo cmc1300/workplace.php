@@ -1,0 +1,12 @@
+[17-Apr-2015 17:06:57 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:06:57 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:01 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:01 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:05 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:05 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:38 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:38 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:53 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:07:53 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:09:01 Australia/Melbourne] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'ncsystem.cajadzo6fbz6.ap-southeast-2.rds.amazonaws.com' (110) in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7
+[17-Apr-2015 17:09:01 Australia/Melbourne] PHP Fatal error:  Cannot access empty property in /home/bankingn/public_html/landingdatabase/lib/connect.php on line 7

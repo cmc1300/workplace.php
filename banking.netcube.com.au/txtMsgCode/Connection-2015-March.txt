@@ -1,0 +1,164 @@
+Tuesday 17th of March 2015 10:42:14 AM
+==============================================================
+Start to connect to MySQL database CP_server
+Success
+
+Tuesday 17th of March 2015 10:46:33 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Tuesday 17th of March 2015 10:53:42 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Tuesday 17th of March 2015 10:58:00 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before step mysqli_connect
+Tuesday 17th of March 2015 11:04:25 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Connection failed: Can't connect to MySQL server on '103.26.63.246' (110)
+Tuesday 17th of March 2015 11:11:29 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Tuesday 17th of March 2015 11:18:28 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (110)Tuesday 17th of March 2015 11:31:00 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (110)Tuesday 17th of March 2015 11:46:31 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (110)Tuesday 17th of March 2015 12:08:47 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (110)
+
+Tuesday 17th of March 2015 12:19:35 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (110)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (110)
+
+Tuesday 17th of March 2015 12:39:59 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Tuesday 17th of March 2015 02:28:25 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Tuesday 17th of March 2015 04:04:24 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Wednesday 18th of March 2015 10:28:24 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Wednesday 18th of March 2015 10:38:41 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Tuesday 24th of March 2015 09:43:51 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 26th of March 2015 02:58:49 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 26th of March 2015 05:06:47 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 26th of March 2015 08:00:54 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 26th of March 2015 11:16:22 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 26th of March 2015 11:59:25 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Friday 27th of March 2015 04:36:28 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Monday 30th of March 2015 07:52:01 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Monday 30th of March 2015 08:02:40 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Monday 30th of March 2015 08:50:40 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Monday 30th of March 2015 09:00:13 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+
+Monday 30th of March 2015 09:17:49 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Exception: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '103.26.63.246' (113)
+Failed to connect to MySQL: Can't connect to MySQL server on '103.26.63.246' (113)
+

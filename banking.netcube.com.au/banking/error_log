@@ -1,0 +1,4 @@
+[15-Apr-2015 16:15:15 Australia/Melbourne] PHP Warning:  require_once(../lib/function.php): failed to open stream: No such file or directory in /home/bankingn/public_html/banking/etc/configuration.php on line 5
+[15-Apr-2015 16:15:15 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required '../lib/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bankingn/public_html/banking/etc/configuration.php on line 5
+[15-Apr-2015 16:16:16 Australia/Melbourne] PHP Warning:  require_once(../lib/function.php): failed to open stream: No such file or directory in /home/bankingn/public_html/banking/etc/configuration.php on line 5
+[15-Apr-2015 16:16:16 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required '../lib/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bankingn/public_html/banking/etc/configuration.php on line 5

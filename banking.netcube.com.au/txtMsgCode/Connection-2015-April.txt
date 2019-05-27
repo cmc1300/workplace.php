@@ -1,0 +1,60 @@
+Friday 10th of April 2015 11:24:25 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Friday 17th of April 2015 01:44:30 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Saturday 18th of April 2015 11:08:55 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Monday 20th of April 2015 12:29:48 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 23rd of April 2015 05:21:51 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 23rd of April 2015 06:18:34 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 23rd of April 2015 06:48:31 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Thursday 23rd of April 2015 07:18:27 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Saturday 25th of April 2015 11:21:49 AM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
+Saturday 25th of April 2015 03:44:29 PM
+==============================================================
+Start to connect to MySQL database Banking_server
+Before function mysqli_connect()
+Success
+
