@@ -1,0 +1,643 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face { font-family: dinLight; src: url("../fonts/DIN-Light.otf"); }
+@font-face { font-family: dinBold; src: url("../fonts/DIN-Bold.otf"); }
+@font-face { font-family: dinRegular; src: url("../fonts/DIN-Regular.otf"); }
+@font-face { font-family: dinMedium; src: url("../fonts/DIN-Medium.otf"); }
+/* universal ****************************************************************************************************/
+body, input { font-family: "dinLight", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; font-size: 12px; color: #6d6d6d; background: url(../img/NC-dealer-Recreational-LP_bg.jpg); background-size: 100% 100%; background-repeat: no-repeat; }
+html { -webkit-text-size-adjust: none }
+ul, li { margin: 0; padding: 0; }
+li { list-style: none; }
+h1, h2, h3, h4, h5, h6 { font-family: "dinBold", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+a, a > * { -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+.btn { -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+a { color: #00a1df; }
+a, a:hover { text-decoration: none; outline: 0; }
+p { line-height: 1.5em; margin-bottom: 15px; font-size: 14px; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+input { outline: none; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.fs16 { font-size:16px !important;}
+.tal { text-align:left !important;}
+.dinRegular { font-family:"dinRegular" ;}
+.dinMediumFS { font-family:"dinMedium" ;}
+.blue { color: #00a1df !important; }
+.orange { color: #ea8118 !important; }
+.bold { font-weight: bold !important; }
+.mg0 { margin: 0!important; }
+.pd0 { padding: 0!important; }
+.color4e { color:#4e4e4e !important;}
+.ptb50 { padding-bottom: 50px; padding-top: 50px; }
+.ptb70 { padding-bottom: 70px; padding-top: 70px; }
+.clear { clear: both; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
+.mb70 { margin-bottom: 70px; }
+.mb50 { margin-bottom: 50px; }
+.mb30 { margin-bottom: 30px; }
+.mb5 { margin-bottom: 5px; }
+.mb15 { margin-bottom: 15px; }
+.mt15 { margin-top: 15px; }
+.mt50 { margin-top: 50px; }
+.mb20 { margin-bottom: 20px; }
+/* top ****************************************************************************************************/
+.topBox { background: #434343; font-size: 0; }
+.topLeft a, .topRight a { color: #fff; font-size: 16px; line-height: 55px; text-align: center; display: inline-block; font-family: "dinBold", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.topLeft a.current { background: #1485b1; cursor: default; }
+.topLeft a:hover { background: #4E9FBE; }
+.topRight ul img { margin-right: 10px; }
+.topNav>li { padding: 0; float: right; }
+.topNav>li>a { border-radius: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; padding: 0 15px !important; }
+.topNav>li+li { margin: 0; }
+.topNav>li>a:hover, .topNav>li>a:focus { background-color: #343434; }
+.topNav .open>a, .topNav .open>a:hover, .topNav .open>a:focus { background-color: #343434; border-color: transparent; }
+.topNav .caret { border-top-color: #fff; border-bottom-color: #fff; }
+.topNav a:hover .caret { border-top-color: #fff; border-bottom-color: #fff; }
+.topNav .open>a .caret, .topNav .open>a:hover .caret, .topNav .open>a:focus .caret { border-top-color: #fff; border-bottom-color: #fff; }
+.topNav>li>a { padding: 0; }
+.caret { border-top: 4px solid #fff; }
+a:hover .caret, a:focus .caret { border-top-color: #69D4FD; border-bottom-color: #69D4FD; }
+.dropdown-menu>li>a:hover { background: #00a1df; color: #fff; }
+/* header ****************************************************************************************************/
+.headerBox { padding: 20px 0; }
+.logo { display: inline-block; }
+.navbar-inverse { background-color: transparent; border-color: transparent; }
+.navbar { position: relative; min-height: 50px; margin-bottom: 0; border: none; background: #fff; box-shadow: 0px 0px 15px rgba(0, 0, 0, .15); border-radius: 0; }
+.navbar-nav { float: right !important; margin: 25px -15px 0 !important; }
+.navbar-header { padding: 20px 0; }
+.navbar-inverse .navbar-nav>li>a { font-size: 16px; color: #4e4e4e; line-height: 32px; margin-left: 30px; font-family: "dinBold", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.navbar-inverse .navbar-nav>li>a.current { color: #00a1df; }
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #00a1df; }
+.navbar-inverse .navbar-nav>li:first-child a { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/menuIcon01.png) no-repeat center; width: 22px; height: 32px; text-indent: -9999px; }
+.navbar-inverse .navbar-nav>li:first-child a:hover, .navbar-inverse .navbar-nav>li:first-child a.current { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/menuIcon01Hover.png) no-repeat center; width: 22px; height: 32px; text-indent: -9999px; }
+.navbar-inverse .navbar-nav li.lastChild a { background: #ea6818 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/btnBg.png) repeat-x top; border: 1px solid #ea7c18; border-radius: 3px; color: #fff; line-height: 26px; height: 30px; padding: 0 25px; text-shadow: 0 1px 1px #95550e; }
+.navbar-inverse .navbar-nav li.lastChild a:hover { background-position: 0 -30px; text-shadow: none; background: #ea6818; }
+.navbar-inverse .navbar-toggle { background-color: #1485b1; border: none; }
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus { background-color: #4E9FBE; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form { border-color: #cbcbcb; }
+/* slider ****************************************************************************************************/
+.sliderBox { position: relative; }
+.sliderBtn a { display: block; background: #fff; background: -moz-linear-gradient(top, #ffffff, #ededed); background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#ededed)); border-radius: 2px; line-height: 45px; text-align: center; font-family: "Corbel", "dinBold"; font-weight: bold; font-size: 18px; color: #4e4e4e; border: 1px solid #fff; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); }
+.sliderBtn a:hover { #color: #fff;
+#border: 1px solid #fff;
+#background: #00a1df;
+}
+.sliderBtn .sliderBtnOrange a { background: #ea7c18; background: -moz-linear-gradient(top, #ea9318, #ea6718); background: -webkit-gradient(linear, 0 0, 0 100%, from(#ea9318), to(#ea6718)); border: 1px solid #ea7c18; color: #fff; }
+.sliderBtn .sliderBtnOrange a:hover { color: #fff; border: 1px solid #ea7c18; background: #ea7c18; }
+.sliderBox .nivoSlider { position: relative; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/sliderLoading.gif) no-repeat 50% 50%; max-width: 1600px; margin: 0 auto; }
+.sliderBox .sliderBg { background: #00a1df; }
+.sliderBox .nivoSlider img { position: absolute; top: 0px; left: 0px; display: none; }
+.sliderBox .nivoSlider a { border: 0; display: block; }
+.sliderBox .nivo-controlNav { text-align: center; padding: 0; float: left; width: 100%; z-index: 99; position: relative; display: none; }
+.sliderBox .nivo-controlNav a { display: inline-block; width: 80px; height: 6px; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/sliderBullets.png) repeat; text-indent: -9999px; border: 0; margin: 0; background-position: 0 -20px; }
+.sliderBox .nivo-controlNav a:hover { background-position: 0 -40px; }
+.sliderBox .nivo-controlNav a.active { background-position: 0 0; }
+.sliderBox .nivo-directionNav a { display: block; width: 40px; height: 40px; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/sliderArrows.png) no-repeat; text-indent: -9999px; border: 0; opacity: 0; margin-top: -20px; }
+.sliderBox:hover .nivo-directionNav a { opacity: 1; }
+.sliderBox a.nivo-nextNav { background-position: -40px 0; right: 15px; }
+.sliderBox a.nivo-prevNav { left: 15px; }
+.sliderBox .nivo-caption { font-family: Helvetica, Arial, sans-serif; }
+.sliderBox .nivo-caption a { color: #fff; border-bottom: 1px dotted #fff; }
+.sliderBox .nivo-caption a:hover { color: #fff; }
+.sliderBox .nivo-controlNav.nivo-thumbs-enabled { width: 100%; }
+.sliderBox .nivo-controlNav.nivo-thumbs-enabled a { width: auto; height: auto; background: none; margin-bottom: 5px; }
+.sliderBox .nivo-controlNav.nivo-thumbs-enabled img { display: block; width: 120px; height: auto; }
+.sliderPage { position: relative; }
+.sliderPage .btnBox { position: absolute; left: 0; top: 100px; display: block; float: left; z-index: 99; }
+/* server ****************************************************************************************************/
+.serverBox { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; padding: 35px 0; }
+.serverBox a { text-align: center; display: block; }
+.serverBox a img { display: block; margin: 0 auto; }
+.serverBox a:hover img { }
+.serverBox h6 { color: #363636; font-size: 16px; margin: 10px 0 0; text-transform: uppercase; }
+.serverBox a:hover h6 { color: #00a1df; }
+.serverLi { border-right: 1px solid #cbcbcb; }
+.serverLiLg { border-right: none; }
+.shadow { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/shadow.png) no-repeat top center; height: 17px; }
+/* indexMid ****************************************************************************************************/
+.indexMid { border-bottom: 1px solid #cbcbcb; padding: 40px 0; }
+.midBox h1 { font-weight: normal; color: #4e4e4e; margin-bottom: 20px; text-transform: uppercase; line-height: 1.2em; }
+.midBox h3 { color: 4e4e4e; text-align: center; }
+.midBox h1, .midBox h3 { font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.midBox p { margin-bottom: 25px; font-family: "dinMedium"; }
+.midBox .midImg { display: block; }
+.midBox .btn { border: 1px solid #d4d4d4; background: #fff; color: #00a1df; border-radius: 5px; font-size: 12px; box-shadow: 0 3px 3px #dddddd; padding: 5px 25px; font-family: "dinBold", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.midBox .btn:hover { border: 1px solid #00a1df; background: #00a1df; color: #fff; }
+.midBox .indexEvaluate { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; padding-bottom: 30px; }
+.midBox .indexEvaluate i { font-size: 22px; padding: 30px 40px 10px; display: block; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.midBox .indexEvaluate .shadow { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/evaluateShadow.png) no-repeat top center; height: 50px; background-size: contain; }
+.textScrollBox { margin-top: -15px; }
+.textScrollBox .img { float: left; margin-right: 15px; margin-left: 100px; }
+.textScrollBox h6, .indexEvaluateUser p { margin: 0; line-height: 1.6em; }
+.textScrollBox h6 { font-size: 16px; }
+.textScrollBox p { color: #8e8e8e; }
+.textScrollBox { height: 300px; overflow: hidden; }
+.textScrollBox li { height: 300px; }
+/* footer ****************************************************************************************************/
+.footerBox .box1 { background: #434343; padding: 50px 0 50px; }
+.footerBox .box1 ul { margin-bottom: 20px; }
+.footerBox .box1 h4 { color: #fff; font-weight: normal; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.footerBox .box1 ul li p { font-size: 20px; color: #8c9da3; line-height: 1em; margin-bottom: 10px; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.footerBox .box1 ul li a { color: #8c9da3; font-size: 13px; line-height: 1.6em; }
+.footerBox .box1 ul li a:hover { color: #ccc; }
+.footerBox .box1 ul li.icon a { margin-right: 3px; }
+.footerBox .box1 ul li.icon a:hover { opacity: .5; }
+.footerBox .box2 { background: #434343 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/footerBg.png) repeat-x top; }
+.footerMan { position: absolute; left: 0; bottom: 0; }
+.footerText { margin: 20px 0; margin-left: 130px; }
+.footerText p { margin-bottom: 2px; font-size: 12px; }
+.footerText img { float: left; margin-right: 10px; }
+/* banner ****************************************************************************************************/
+.bannerBox { background: #00a1df url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/bannerBg.png) repeat-x top; }
+.bannerBox h1 { color: #fff; font-family: "dinLight", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; margin: 45px 0 30px; }
+.bannetInput { margin-bottom: 45px; }
+.bannetInput .input-group-addon { border-radius: 0; border: 0; background: #005caa; color: #fff; font-size: 18px; line-height: 47px; padding: 0 30px; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); }
+.bannetInput input[type="text"] { background: #ededed url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/bannerInputBg.png) repeat-x top; height: 47px; line-height: 47px; font-size: 18px; border: none; color: #818181; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); }
+.bannerBox .btn { display: block; width: 90%; height: 47px; background: #ea6818 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/pageBtnBg.png) repeat-x top; margin-left: 10%; border: 1px solid #ea7c18; color: #fff; font-size: 18px; font-family: Corbel, "dinLight"; font-weight: bold; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); }
+.bannerBox .btn:hover { background: #ea6818; }
+/* service ****************************************************************************************************/
+.serviceDiv { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; padding: 30px; margin-bottom: 30px; height: 400px; }
+.serviceDiv img { margin: -7px 10px 0 -7px; }
+.serviceDiv h1, .serviceDiv img { display: inline-block; text-transform: uppercase; vertical-align: middle; }
+.serviceDiv h1 { margin: 0; color: 4e4e4e; }
+.serviceDiv p { font-size: 16px; line-height: 1.5em; margin-top: 10px; border-bottom: 1px solid #cbcbcb; padding-bottom: 20px; }
+.serviceDiv ul li a { color: #00a1df; font-size: 20px; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; line-height: 1.5em; }
+.serviceDiv ul li a:hover { color: #1485b1; }
+/* price ****************************************************************************************************/
+.contentBox { padding-top: 70px; align: center;}
+.contentBox a { color: #00a1df; }
+.contentBox a:hover { color: #005caa; }
+.contentBox h1, .contentBox h2, .contentBox h3, .contentBox h4, .contentBox h5, .contentBox h6 { color: #323232; }
+.contentBox h1 { margin: 0 0 20px; font-family: "dinMedium", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.contentBox h2 { font-weight: normal; text-align: center; font-family: "dinRegular", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; }
+.contentBox .priceLine { height: 15px; border-color: #b7b7b7; }
+.contentBox .priceLineBox { margin-bottom: 10px; }
+.contentBox p { font-size: 18px; color: #323232; line-height: 1.5em; }
+.priceTableBox { margin-bottom: 80px; }
+.priceTableBox .blankBg { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; }
+.priceTableBox .priceTable { border-top: 1px solid #b7b7b7; }
+.priceTableBox .priceTable li { font-size: 22px; line-height: 3; color: #323232; border-bottom: 1px solid #b7b7b7; padding: 0 20px; text-align: center; border-left: 2px solid #f7f7f7; border-right: 2px solid #f7f7f7; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; font-family: "dinMedium"; }
+.priceTableBox .priceTableFirstLi { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; }
+.priceTableBox .priceTable li.bold { font-family: "dinBold"; text-align: left; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; }
+.priceTableBox .priceTable li.long { font-size: 20px; line-height: 72px; }
+.priceTableBox .priceTable li.blue { color: #03a2df; }
+.priceTableBox .priceTable li.btnBox { border: none; background: none; }
+.priceTableBox .priceTable li.btnBox a { margin: 30px auto 0; display: block; width: 60%; color: #fff; background: #ea8118; line-height: 1.8em; text-align: center; border-radius: 10px; }
+.priceTableBox .priceTable li.btnBox a:hover { background: #FF9934; }
+.priceTableBox .priceImg { display: block; margin: 0 auto; }
+.priceTableBox .priceTableNoBorder li { border-right: none; }
+.blueBtn { border: 1px solid #d4d4d4; background: #fff; color: #00a1df; border-radius: 5px; font-size: 14px; box-shadow: 0 3px 3px #dddddd; padding: 10px 25px; font-family: "dinBold", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; margin-top: 20px; display: inline-block; }
+.blueBtn:hover { border: 1px solid #00a1df; background: #00a1df; color: #fff !important; }
+.line { border-bottom: 1px solid #b7b7b7; }
+.pageIcon { text-align: center; }
+.pageIcon img { margin: 0 auto; }
+.featurePlanBg { background-color:#fafafa; margin-top: 50px; padding-bottom:50px; padding-top:50px }
+.deepBg { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; margin-top: 50px; }
+ul.pageList01 { font-size: 16px; line-height: 1.5em; font-family: "dinMedium", "微软雅黑", "宋体", "Open Sans", Helvetica, sans-serif, Arial; color: #323232; padding: 0 15px; }
+ul.pageList01 li { list-style: disc }
+ul.pageList01 a { margin: 0 3px; text-decoration: underline; }
+.priceTableBox .priceSigns { text-align: center; padding: 20px; background: #fff; }
+.priceTableBox .blue { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/hotprice.png) no-repeat right top #00a1df; }
+.priceTableBox .priceSigns p { font-family: "dinMedium"; font-size: 18px; line-height: 1.2em; }
+.priceTableBox .priceSigns h2 { color: #00a1df; font-family: "dinMedium"; font-size: 34px; margin-top: 15px; }
+.priceTableBox .priceSigns .price { font-size: 110px; font-family: "dinRegular"; vertical-align: text-top; color: #00a1df; letter-spacing: -3px; padding: 10px 0; }
+.priceTableBox .priceSigns img { margin: 20px auto; }
+.priceTableBox .priceSigns .price span { display: inline-block; vertical-align: text-top; line-height: 1em; }
+.priceTableBox .priceSigns .price span.small { font-size: 55px; font-family: "dinMedium"; padding-top: 5px; }
+.priceTableBox .priceSigns .price span.sSmall { font-size: 18px; letter-spacing: normal; padding: 20px 0 0 0; }
+.priceTableBox .priceSigns p.smallPrint { font-size: 12px !important; }
+.priceTableBox .priceSigns p.btLine { border-bottom: 1px solid #9f9f9f; padding-bottom: 10px; margin-bottom: 10px; }
+.priceTableBox .blue h2, .priceTableBox .blue p, .priceTableBox .blue .price { color: #fff; }
+.priceTableBox .blue p.btLine { border-bottom: 1px solid #fff; padding-bottom: 10px; margin-bottom: 10px; }
+/* step ****************************************************************************************************/
+.blackBg { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/serverBg.png) repeat; }
+.pageRightBox { padding: 5px 25px 25px; }
+.pageRightBox h3 { font-family: "dinMedium"; font-size: 28px; margin-bottom: 18px; }
+.pageRightBox h6 { font-family: "dinRegular"; font-size: 12px; font-weight: normal; color: #666; }
+.pageRightBox h6 i { margin-left: 10px; }
+.pageRightBox h4 { color: #00a1df; font-size: 18px; font-family: "dinBold"; margin: 20px 0; }
+.pageRightBox dt, .pageRightBox dd { line-height: 1em; padding: 8px 0; font-size: 14px; font-family: "dinMedium"; font-weight: normal; color: #323232; }
+.pageRightBox dt { text-align: left; width: 75%; float: left; }
+.pageRightBox dt small { color: #666; display: block; }
+.pageRightBox dd { text-align: right; float: right; width: 25%; margin: 0; }
+.pageRightBox dl.total { border-top: 1px solid #b7b7b7; border-bottom: 1px solid #b7b7b7; margin: 35px 0; }
+.pageRightBox dl.total dt, .pageRightBox dl.total dd { line-height: 1em; font-size: 18px; font-family: "dinBold"; font-weight: normal; color: #323232; padding: 15px 0; }
+.pageRightBox dl.total dt { text-align: left; width: 60%; float: left; }
+.pageRightBox dl.total dd { text-align: right; float: right; width: 40%; }
+.pageRightBox dl.homePhoneSetupFee { margin: 0; }
+.pageRightBox dl.homePhoneSetupFee dt, .pageRightBox dl.homePhoneSetupFee dd { font-size: 14px; }
+.total .plusGood img { display: block; float: right; margin-right: 15px; }
+.pageRightBox .note { margin-top: 50px; }
+.pageRightBox .note p.small { font-size: 11px; margin: 0; color: #666; }
+.pageRightBox .note p { font-size: 14px; }
+.popover { border: 5px solid rgba(208,208,208,.5) !important; border-radius: 3px; z-index:11114;}
+.popover-title { color: #323232; }
+.popover-content ul { margin-left: 15px; }
+.popover-content ul li { list-style: disc; font-size: 12px; font-family: "dinBold"; color: #323232; margin: 5px 0; }
+.popover-content ul li small { font-family: "dinRegular"; color: #666; display: block; font-size: 11px; }
+.popover-content ul li small b { font-weight: bold; }
+.alertSummary { padding: 0; margin: 0; }
+.alertSummary .close { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/close.png) no-repeat; height: 14px; width: 14px; color: #fff; opacity: 1; margin-right: 5px; float: left; margin-top: 9px; filter: alpha(opacity=100) }
+.alertSummary .close:hover { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/closeHover.png) no-repeat; }
+.alertSummary .add { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/addition.png) no-repeat; height: 14px; width: 14px; color: #fff; opacity: 1; margin-right: 5px; float: left; margin-top: 9px; filter: alpha(opacity=100); border: 0; }
+.alertSummary .add:hover { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/additionHover.png) no-repeat; }
+.alertSummary dt { width: 60%; }
+.stepBox { padding: 10px 0 20px; }
+.stepBox .step { display: inline-block; margin-right: 20px; margin-bottom: 20px; }
+.stepBox .step a:hover p { color: #00a1df; }
+.stepBox .step a:hover .stepNum { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/stepNum01.png) no-repeat  !important; }
+.stepBox .current p { color: #00a1df !important; }
+.stepBox .current .stepNum { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/stepNum01.png) no-repeat  !important; }
+.stepBox .stepHook { padding-left: 5px; }
+.stepBox .step span, .stepBox .step p { display: inline; }
+.stepBox .step p { color: #979797; font-family: "dinMedium"; font-size: 16px; }
+.stepBox .step span.stepNum { display: inline-block; width: 20px; height: 20px; color: #fff; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/stepNum02.png) no-repeat; line-height: 20px; text-align: center; font-size: 15px; font-family: "dinMedium"; margin-right: 8px; }
+.whiteBox { background: #fff; padding: 25px 15px; margin-left: -15px; margin-bottom: 70px; }
+.radiusBox { border-radius: 10px; border: 1px solid #d3d3d3; padding: 15px 20px; }
+.radiusBox h1 { font-size: 24px; font-family: "dinRegular"; }
+.radiusBox p { font-size: 12.5px; }
+.radiusBox .iradio_minimal { float: left; margin-left: -20px; margin-right: 20px; margin-bottom: 10px; }
+.radiusBox .radioBox { padding: 10px 0 25px; }
+.radiusBox .radioBox label { font-size: 14px; font-family: "dinRegular"; color: #323232; }
+.radiusBox .radioBox .radio { margin: 15px 0; }
+.checkBox .icheckbox_minimal { float: left; margin-right: 15px; margin-bottom: 30px; }
+.checkBox .checkbox { padding: 0 0 25px; }
+.checkBox .checkbox label { font-size: 12.5px; font-family: "dinRegular"; color: #323232; }
+.fs14 { font-size: 14px !important; }
+.radiusBox { margin-bottom: 10px; }
+.radiusBox .phoneNumBox { margin: 20px 0; }
+.radiusBox .phoneNumBtn { margin: 20px 0; background: #005caa; color: #fff; }
+.radiusBox .phoneNumBtn:hover { background: #00a1df; }
+.radiusBox .phoneNumBox .input-group-addon { background: #005caa; border-radius: 0; border: 1px solid #005caa; color: #fff; font-family: "dinMedium"; }
+.radiusBox .phoneNumBox .form-control { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/bannerInputBg.png) repeat-x; border-radius: 0; }
+.radiusBox .phoneNumBox .form-control:focus { background: #fff; }
+.radiusBox blockquote { background: #f9f7f7; border: none; border-radius: 10px; margin: 15px 0; font-family: "dinRegular"; font-size: 12.5px; }
+p.btnBox { text-align: right; margin-top: 15px; }
+p.btnBox .btn-primary { background: #00a1df; border-color: #00a1df; font-family: "dinMedium"; font-size: 15px; padding: 6px 30px; color: #fff; }
+p.btnBox .btn-primary:hover { background: #fff; color: #00a1df; }
+.radiusBox .selectedBtn, .radiusBox .selectedBtn:hover { background: #fff; color: #00a1df; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/stepHook.png) no-repeat 25px 10px; padding-left: 50px; }
+#.form-group .dropdown-menu { left: 0 !important; right: auto; }
+.input-group-btn:first-child>.btn { border-radius: 4px; }
+.form-group .control-label { font-size: 13px; text-align: left; font-family: "dinRegular"; font-weight: normal; color: #323232; }
+.pr0 { padding-right: 0; }
+.questionMarkFrom { margin-top: 6px; float: left; margin-left: -15px; width: 19px; height: 19px; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/questionMark.png) no-repeat; display: block; }
+.questionMarkFrom:hover { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/questionMarkHover.png) no-repeat; }
+.questionMark { margin-left: 5px; width: 19px; height: 19px; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/questionMark.png) no-repeat; display: inline-block; vertical-align: middle; }
+.questionMark:hover { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/questionMarkHover.png) no-repeat; }
+.optionsBox .radioBox { padding-bottom: 0; }
+.optionsBox .radioBox .radio { padding-left: 30px; }
+.optionsBox .radioBox .iradio_minimal { margin-left: -30px; margin-right: 10px; }
+.optionsBox .radioBox label strong { font-size: 16px; }
+.optionsBox .radioBox dt, .optionsBox .radioBox dt { font-size: 12px; font-family: "dinRegular"; }
+.optionsBox .radioBox dt { float: left; }
+.optionsBox .radioBox dd { float: right; }
+.radiusBox h1 .edit { text-align: center; float: left; margin-right: 35px; display: none; margin-top: -10px; }
+.radiusBox h1 .edit img, .radiusBox .title .edit a { display: block; }
+.radiusBox h1 .edit a { font-size: 14px; text-decoration: underline; margin-top: 5px; display: block; line-height: 1em; }
+.radiusBox h1 .edit img { width: 28px; }
+.radiusBox h1 { margin-bottom: 12px; margin-top: 12px; }
+.radiusBox h4 { font-size: 18px; font-family: "dinRegular"; margin-bottom: 5px; }
+h1.blue { color: #00a1df; }
+.radiusBox h5 { font-size: 18px; font-family: "dinRegular"; margin: 30px 0 20px; }
+.fristBorder { border-top-left-radius: 4px !important; border-bottom-left-radius: 4px!important; }
+/* popupBox ****************************************************************************************************/
+.popupBox .modal-body { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/bg.png) repeat; }
+.popupBox .modal-content { padding: 15px; background: #fff; border-radius: 4px; border: none; }
+.popupBox .modal-content-promotion { padding: 15px; background: #fff; border-radius: 4px; border: none; width: 582px; height: 373px;}
+.popupBox .modal-content-congratuation { padding: 15px; background: #fff; border-radius: 4px; border: none; width: 582px; height: 373px;}
+.modal .close { position: absolute; right: 0; top: 0; width: 29px; height: 29px; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/closeBtn.png) no-repeat; opacity: 1; filter: alpha(opacity=100); z-index: 99; }
+.modal .close:hover { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/closeBtnHover.png) no-repeat; }
+.popupBox h3 { font-family: "dinRegular"; color: #323232; margin-top: 0; margin-bottom: 0px; padding: 20px 0; line-height: 1.2em; }
+.popupBox h4 { font-family: "dinRegular"; font-weight: normal; color: #323232; margin: 0; padding: 20; line-height: 1.2em; font-size: 20px; }
+.popupBox a { text-decoration: none; }
+.popupBox .inputBox { margin: 40px 0; }
+.popupBox .pirceBox { text-align: center; margin-bottom: 20px; }
+.popupBox .pirceBox .pirce { font-size: 65px; font-family: "dinBold"; font-weight: bold; color: #00a1df; padding: 20px 0; }
+.popupBox .pirceBox .pirce small { font-size: 14px; color: #6d6d6d; }
+#.popupBox .input-group-addon {
+ border-radius: 0;
+ border: 0;
+ background: #005caa;
+ color: #fff;
+ font-size: 18px;
+ line-height: 47px;
+ padding: 0 30px;
+ box-shadow: 2px 2px 6px rgba(0, 0, 0, .2);
+}
+#.popupBox .form-control {
+ background: #ededed url(../img/bannerInputBg.png) repeat-x top;
+ height: 47px;
+ line-height: 47px;
+ font-size: 18px;
+ border: none;
+ color: #818181;
+ box-shadow: 2px 2px 6px rgba(0, 0, 0, .2);
+}
+a.blackBtn { font-family: "dinMedium"; color: #fff; background: #565656; font-size: 16px; padding: 5px 20px 7px; text-decoration: none; border-radius: 5px; display: block; float: left; }
+a.blackBtn:hover { background: #00a1df; color: #fff; }
+a.editBtn { font-family: "dinMedium"; color: #888; background: #fff; font-size: 14px; padding: 5px 30px 6px; text-decoration: none; border-radius: 5px; display: block; float: left; border: 1px solid #d3d3d3; }
+a.editBtn:hover { background: #00a1df; color: #fff; border: 1px solid #00a1df; }
+.submitBtn { font-family: "dinMedium"; color: #fff; background: #00a1df; font-size: 18px; padding: 10px 50px; text-decoration: none; border-radius: 5px; display: block; float: left; border: 1px solid #00a1df; margin-top: 10px; }
+.submitBtn:hover { background: #fff; color: #00a1df; border: 1px solid #00a1df; }
+a.orangeBtn { font-family: "dinMedium"; color: #fff; background: #ea8118; font-size: 18px; padding: 10px 30px; text-decoration: none; border-radius: 5px; display: block; float: left; margin-bottom: 10px; }
+a.orangeBtn:hover { background: #FF9934; color: #fff; }
+input.orangeBtn { font-family: "dinMedium"; color: #fff; background: #ea8118; font-size: 18px; padding: 10px 50px; text-decoration: none; border-radius: 5px; display: block; float: left; margin: 15px 0; border: none; }
+input.orangeBtn:hover { background: #FF9934; color: #fff; }
+.loadingBox { margin-bottom: 20px; }
+.loadingBox img { margin: 0 auto; }
+.pd20Box { padding: 20px 0; }
+small.gray { color: #888; margin: 0 5px; }
+.table { border-bottom: 1px solid #ddd; }
+.delLine dt, .delLine .fee { text-decoration: line-through; }
+/* contact */
+.blueTitle { background: #00a1df; color: #fff !important; font-family: "dinMedium"; padding: 15px; }
+ul.leftSideBarList { margin-bottom: 45px; }
+ul.leftSideBarList li { border-bottom: 1px solid #b7b7b7; padding: 15px; }
+ul.leftSideBarList li a { font-size: 16px; color: #323232; font-family: "dinRegular"; }
+ul.leftSideBarList li a:hover { color: #00a1df; }
+.lightBg { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; padding: 35px 50px; }
+h1.dinMedium { font-family: "dinLight"; margin-bottom: 40px; text-transform: uppercase; font-size: 32px; }
+.contactStyle1 { font-size: 16px; font-family: "dinRegular"; margin-bottom: 20px; color: #323232; }
+.contactForm button { text-align: left !important; color: #979797; }
+.contactForm button, .contactForm input, .contactForm textarea { font-family: "dinBold"; }
+.dinBold { font-family: "dinBold"; }
+.Arial { font-family: Arial, Helvetica, sans-serif; font-size: 80%; padding: 0 1px; }
+.fs14 { font-size: 14px; }
+.form-control { -webkit-box-shadow: none; -webkit-box-shadow: none; }
+.contentBox address { margin-bottom: 40px; }
+.contentBox address h4 a { font-family: "dinRegular"; }
+.contentBox address p { font-size: 15px; color: #979797; }
+.contentBox address b { font-size: 18px; font-family: "dinBold"; color: #323232; font-weight: normal; }
+.googleMap { width: 100%; height: auto; min-height: 500px; }
+.relativeBox { position: relative; }
+.pageBox p { font-size: 16px; margin-bottom: 25px; }
+.pageBox .pageBoxImgRight { margin: 0 0 50px 20px; }
+.pageBox .table { font-size: 14px; font-family: "dinRegular"; }
+.noneLink { cursor: default; color: #888 !important; }
+.breadcrumb { background: none; margin-top: -10px; margin-bottom: 40px; font-size: 16px; font-family: "dinRegular"; font-size: 16px; }
+.breadcrumb>li+li:before { content: ">\00a0"; font-family: Arial, Helvetica, sans-serif; color: #323232; }
+.breadcrumb>.active { color: #01a2d9; }
+.breadcrumb a { color: #323232; }
+.breadcrumb a:hover { color: #01a2d9; }
+.priceDiv { background: #fff; padding: 30px 30px 0; margin-bottom: 30px; margin-top: 70px; box-shadow: 0 0 10px rgba(0, 0, 0, .2); text-align: center; }
+.priceDiv h1 { font-family: "dinBold"; color: #4b4b4b; font-size: 34px; text-align: center; margin: 0 -20px 0; }
+.priceDiv .priceListBlue { color: #01a2d9; text-align: center; font-size: 16px; font-family: "dinBold"; padding-bottom: 30px; }
+.priceDiv a { display: block; background: #01a2d9; color: #fff; text-align: center; font-size: 24px; margin: 35px -30px; padding: 15px 0; font-family: "dinBold"; border: 1px solid #01a2d9; }
+.priceDiv a.noLink:hover { background: #01a2d9; color: #fff; cursor: default; }
+.priceDiv a:hover { color: #01a2d9; border: 1px solid #01a2d9; background: #fff; }
+.priceDiv img { display: block; margin: -90px auto 30px; }
+.priceDiv p { margin-bottom: 50px; }
+dl.pageBoxDl { font-size: 16px; margin-bottom: 25px; }
+dl.pageBoxDl dt { color: #323232; padding-bottom: 10px; }
+.loginBox .modal-body { padding: 0; }
+.loginBox .modal-body .nav-tabs>li>a { margin: 0; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/blackBg.png) repeat; border-radius: 0; border: none; text-decoration: none; font-size: 24px; font-family: "dinBold"; color: #4a4a4a; text-align: center; }
+.loginBox .modal-body .nav-tabs>li>a:hover { color: #01a2d9; }
+.loginBox .nav-tabs { border: none; }
+.loginBox .nav-tabs>li { width: 50%; }
+.loginBox .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus { background: none; border: none; color: #01a2d9; }
+.loginBox .tab-content { padding: 40px; }
+.loginBox h1 { font-family: "dinRegular"; font-weight: normal; color: #323232; margin-bottom: 30px; padding-bottom: 30px; border-bottom: 1px solid #aeaeae; }
+.loginBox .form-group .control-label { font-size: 18px; font-family: "dinRegular"; }
+.bundleDiv { background: #fff; padding: 25px; text-align: center; margin-bottom: 30px; box-shadow: 0 0 5px rgba(0, 0, 0, .2); }
+.bundleDiv h3 { font-family: "dinBold"; font-weight: normal; text-transform: uppercase; font-size: 22px; color: #4e4e4e; }
+.bundleDiv h4 { color: #4e4e4e; font-family: "dinRegular"; }
+.bundleDiv .bundleDivImg { margin: 30px auto; }
+.bundleDiv .blueBox { margin: 0 -25px; padding: 10px 25px; background: #01a2d9; box-shadow: 0 2px 5px rgba(0, 0, 0, .2); }
+.bundleDiv .blueBox h2 { font-size: 28px; font-family: "dinBold"; text-shadow: 0 2px 2px rgba(0, 0, 0, .3); }
+.bundleDiv .blueBox h4 { font-size: 20px; font-family: "dinRegular"; margin-bottom: 20px; line-height: 1.4em; }
+.bundleDiv .blueBox h2, .bundleDiv .blueBox h4 { color: #fff; }
+.bundleDiv .table { border: none; margin-bottom: 20px !important; }
+.bundleDiv .table td { vertical-align: middle; text-align: left; font-size: 18px; font-family: "dinRegular"; padding: 15px 0; color: #424242; border: none; border-bottom: 1px solid #ddd; }
+.bundleDiv .table td.text { padding-left: 10px; }
+.bundleDiv .price { font-size: 110px; font-family: "dinRegular"; vertical-align: text-top; color: #00a1df; letter-spacing: -3px; padding: 10px 0 0; margin: 0 -25px; }
+.bundleDiv .price span.small { font-size: 50px; margin-top: 5px; }
+.bundleDiv .price span { display: inline-block; vertical-align: text-top; line-height: 1em; }
+.bundleDiv .price span.sSmall { font-size: 18px; letter-spacing: normal; padding: 20px 0 0 0; }
+.bundleDiv h6 { margin: -30px 0 0 0; font-size: 14px; font-weight: normal; font-family: "dinMedium"; }
+.bundleDiv a.bundleDivBtn { margin: 40px auto 0; display: block; width: 85%; color: #fff; background: #ea8118; line-height: 2.4em; text-align: center; border-radius: 10px; font-size: 26px; font-family: "dinMedium"; }
+.bundleDiv a.bundleDivBtn:hover { background: #FF9934; }
+.bundleDiv a.bundleDivLink { font-size: 18px; font-family: "dinMedium"; text-decoration: underline; margin: 20px 0; display: block; }
+h1.businessTitle01 { font-family: "dinBold"; text-align: center; font-size: 48px; color: #454545; margin-bottom: 40px; }
+h3.businessTitle02 { font-family: "dinRegular"; text-align: center; background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/titleLine.png) repeat-x left center; margin-bottom: 70px; }
+h3.businessTitle02 span { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/bg.png) repeat; padding: 0 5px; }
+h3.businessTitle02 b { color: #ea8421; white-space: nowrap; }
+.businessDiv { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; box-shadow: 0 0 5px rgba(0, 0, 0, .2); text-align: center; margin-bottom: 30px; }
+.businessDiv h1 { background: #01a2d9; color: #fff; text-transform: uppercase; padding: 30px 0; text-shadow: 0 0 5px rgba(0, 0, 0, .3); margin: 0; letter-spacing: -2px; }
+.businessDiv p { padding: 30px; }
+.businessDiv img { margin: 0 auto; }
+.businessDiv a { display: block; background: #0172d2; font-size: 24px; color: #fff; padding: 15px 0; font-family: "dinRegular"; }
+.businessDiv a:hover { background: #01a2d9; color: #fff; }
+.businessDiv2 { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; box-shadow: 0 0 5px rgba(0, 0, 0, .2); margin-bottom: 30px !important; padding: 30px 15px; }
+.businessDiv2 img { margin: 0 auto; }
+.businessDiv2 h3 { font-family: "dinRegular"; margin-top: 0; }
+.businessDiv2 p { color: #434343; font-size: 16px; }
+.businessDiv2 a { font-family: "dinMedium"; font-size: 16px; }
+.taCenter { text-align: center; }
+h1.hotTitile { font-family: "dinRegular"; font-weight: normal; text-align: center; color: #000; margin-bottom: 50px; }
+a.bigOrangeBtn { display: block; line-height:47x; background: #ea6818 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/pageBtnBg.png) repeat-x top; border: 1px solid #ea7c18; color: #fff; font-size: 24px; font-family: Corbel, "dinLight"; font-weight: bold; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); padding:6px 70px; }
+a.bigOrangeBtn:hover { background: #ea6818; color:#fff; }
+a.bigOrangeBtn1 { margin-top:20px; line-height:47x; background: #ea6818 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/pageBtnBg.png) repeat-x top; border: 1px solid #ea7c18; color: #fff; font-size: 14px; font-family: Corbel, "dinLight"; font-weight: bold; text-align:center; box-shadow: 2px 2px 6px rgba(0, 0, 0, .2); padding:4px 35px; }
+a.bigOrangeBtn1:hover { background: #ea6818; color:#fff; }
+.footerUl { margin-left:20px;}
+.footerUl li { list-style:disc; font-size:14px;font-family: "dinRegular"; line-height:1.8em;}
+
+.bundleDiv a.bundleDivBtnComing { margin: 40px auto 0; display: block; width: 85%; color: #fff; background: #565656; line-height: 2.4em; text-align: center; border-radius: 10px; font-size: 26px; font-family: "dinMedium"; }
+
+
+/* media ****************************************************************************************************/
+
+
+@media screen and (min-width: 880px) {
+.modal-dialog { width: 880px; }
+}
+@media (max-width:992px) {
+.whiteBox { margin-left: 0; }
+.navbar-inverse .navbar-nav>li>a { font-size: 14px; margin-left: 15px; }
+.navbar-inverse .navbar-nav>li:last-child a { padding: 0 10px; }
+.serverLiMd { border: none; border-bottom: 1px solid #cbcbcb; }
+.serviceDiv h1 { font-size: 30px; }
+.datetimepicker { right: 2px; left: auto !important; }
+.mg0a { margin:0 auto;}
+.tac { text-align:center !important;}
+.fln { float:none !important;}
+}
+@media (max-width:1200px) {
+.whiteBox { margin-left: 0; }
+.serverLi { padding-bottom: 15px; }
+.serverLiMd { border: none; border-bottom: 1px solid #cbcbcb; border-right: 1px solid #cbcbcb; }
+.br0 { border-right: none; }
+}
+@media screen and (max-width:767px) {
+.pageBoxImgRight { margin: 0 auto 30px !important; float: none !important; display: block; }
+.lightBg { background: url(../img/tableBg.png) repeat; padding: 30px 20px; }
+h1.dinMedium { font-size: 34px; }
+.radiusBox h1 { font-size: 18px; font-family: "dinBold"; }
+p.btnBox .btn-primary { display: block; width: 100%; margin-bottom: 10px; }
+p.btnBox .btn-primary2 { display: block; width: 100%; margin-bottom: 10px; }
+p.btnBox .btn-primarycus { display: block; width: 100%; margin-bottom: 10px; }	
+.radiusBox .phoneNumBox .input-group-addon { font-size: 12px; padding: 6px; }
+.dropdown-menu { right: 2px; left: auto !important; }
+.whiteBox { margin-left: 0; }
+.logo { margin-left: 15px; }
+.logo img { width: 80%; }
+.navbar-toggle { margin: 2px 15px 0 0; }
+.topRight ul { float: none; }
+.topRight li { padding: 0; }
+.topRight li a { background: #535353; border-left: 1px solid #434343; font-size: 12px; position: relative; padding: 0 !important; }
+.topRight li a .caret { position: absolute; left: 50%; top: 50%; margin-top: 15px; margin-left: -4px; }
+.topRight li a img { display: none; }
+.topRight li:last-child a { border-left: none; }
+.navbar-nav { margin-top: 0!important; }
+.navbar { border-radius: 0; }
+.navbar-inverse .navbar-collapse { position: absolute; z-index: 999; top: 74px; width: 100%; }
+.navbar-inverse .navbar-nav { background: #fff; opacity: .90; float: none !important; }
+.navbar-inverse .navbar-nav>li>a { font-size: 14px; line-height: 34px; margin: 0; padding: 5px 15px; border-bottom: 1px solid #ccc; }
+.navbar-inverse .navbar-nav>li:first-child a { background: none !important; text-indent: 0 !important; height: auto !important; width: auto !important; }
+.navbar-inverse .navbar-nav>li:first-child a.current { color: #00a1df; }
+.navbar-inverse .navbar-nav>li:last-child { border: none; }
+.navbar-inverse .navbar-nav>li:last-child a { background: #ea6818 url(../img/btnBg.png) repeat-x top; border: 1px solid #ea7c18; border-radius: 0; color: #fff; line-height: 40px; height: 40px; padding: 0 15px; }
+.navbar-inverse .navbar-nav>li:last-child a:hover { background-position: 0 -30px; text-shadow: none; }
+.serverLi { border-bottom: 1px solid #cbcbcb; padding: 5px 0; }
+.XsBr0 { border-right: 0; }
+.br0 { border-right: 1px solid #cbcbcb; }
+.bb0 { border-bottom: none; }
+.serverBox a img { width: 80px; height: auto; }
+.serverBox a h6 { margin: 0 0 10px; }
+.serverBox { padding: 20px 0; }
+.midBox .midImg { margin: 0 auto; }
+.midBox { text-align: center; }
+.indexMid { padding: 20px 0; }
+.indexEvaluateUser .img { margin-left: 80px; }
+.indexEvaluateUser h6, .indexEvaluateUser p { text-align: left; }
+.dropdown-menu>li>a { background: #fff; border: none; line-height: 2em; }
+.dropdown-menu>li>a:hover { background: #00a1df; color: #fff; }
+.textScrollBox { height: 340px; overflow: hidden; }
+.textScrollBox li { height: 340px; }
+.bannerBox .btn { width: 100%; margin: 20px 0 0 0; padding: 0; }
+.serviceDiv { text-align: center; height: auto; }
+.serviceDiv h1, .serviceDiv img { display: inline-block; text-transform: uppercase; vertical-align: middle; margin: 0 auto; }
+.priceTableBox .priceTable li, .priceTableBox .priceTable li.long { font-size: 12px; line-height: 3em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.priceTableBox .hook { width: 19px; }
+.priceTableBox .priceTable li.btnBox a { font-size: 18px; width: 100% }
+.priceTableBox .priceTable li { padding: 0 10px; }
+.priceTableBox .priceSigns p { font-family: "dinMedium"; font-size: 12px; line-height: 1.2em; }
+.priceTableBox .priceSigns h2 { font-size: 24px; }
+.priceTableBox .priceSigns .price { font-size: 60px; }
+.priceTableBox .priceSigns .price span.small { font-size: 18px; }
+.footerBox .box1 h4 { font-size: 14px; }
+.bannetInput .input-group-addon { font-size: 14px; padding: 0 15px; }
+.bannetInput input[type="text"] { font-size: 14px; }
+.popupBox .input-group-addon { font-size: 12px; padding: 0 10px; }
+.popupBox .form-control { font-size: 12px; }
+.popupBox h4 { font-size: 16px; }
+.popupBox h3 { font-size: 20px; padding: 10px 0; }
+.popupBox .pirceBox .pirce { font-size: 45px; }
+a.orangeBtn, a.blackBtn { display: block; float: none; text-align: center; }
+.datetimepicker { right: 2px; left: auto !important; }
+.pageRightBox dl.homePhoneSetupFee dt { width: 100%; padding-bottom: 0; text-align: center; }
+.pageRightBox dl.homePhoneSetupFee dd { width: 100%; text-align: left; padding-top: 0; text-align: center; }
+#order-first-month-total-fee { width: 100% !important; text-align: center; }
+.total .plusGood { width: 100% !important; }
+.total .plusGood img { display: block; float: none; margin: 0 auto; }
+.loginBox h1 { font-size: 24px; margin: 0 0 10px; padding-bottom: 20px; }
+.loginBox .tab-content { padding: 20px; }
+.popAdd .dropdown-menu>li>a { white-space: normal; padding: 5px 20px; line-height: 1.2em; font-size: 12px; }
+.bannetInput .dropdown-menu>li>a { white-space: normal; padding: 5px 20px; line-height: 1.2em; font-size: 12px; }
+.businessDiv2 { text-align: center; }
+.businessDiv2 h3 { margin-top: 20px; }
+.form-group .dropdown-menuRight { left: auto !important; right: 2px; }
+.mg0a { margin:0 auto;}
+.tac { text-align:center !important;}
+.fln { float:none !important;}
+}
+/* Small devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+.modal-dialog { width: 738px; }
+.navbar-nav>li>a { padding: 0; }
+.topNav .dropdown-menu { left: auto; right: 2px; }
+}
+.weChatMark { background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/wechat.png) no-repeat; display: inline-block; vertical-align: middle; }
+h1.dinMediumBord { font-family: "dinLight"; margin-bottom: 40px; font-weight: bolder; font-size: 32px; }
+.priceTableBox .blankBg1 {background: url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/tableBg.png) repeat; background-position:center;}   
+
+@media screen and (min-width: 768px) {
+	.priceTableBox .blankBg {
+		/* styles for mobile browsers smaller than 480px; (iPhone) */
+	    background: url("../img/mr-cube-choose-a-plan-3x.png") bottom no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;
+	}
+	.priceTableBox .blankBgMb {
+		height:350px;
+		/* styles for mobile browsers smaller than 480px; (iPhone) */
+	    background: url("../img/mobile_broadband.png") bottom no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;      	                             
+	}
+	.priceTableBox .mobilebr {
+		/* styles for mobile browsers smaller than 480px; (iPhone) */
+		display:none;
+	}	
+}
+@media screen and (max-width: 768px) {
+	#mobileBroadbandpeak {font-size:12px;}
+	.priceTableBox .blankBg {
+	    background: url("../img/mr-cube-choose-a-plan-2x.png") bottom no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;
+	}
+	.priceTableBox .blankBgMb {
+	height:303px;
+	    background: url("../img/mobile_broadband2.png") bottom no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;
+	}	
+	.priceTableBox .mobilebr {
+		/* styles for mobile browsers smaller than 480px; (iPhone) */
+		display:none;
+	}
+}
+@media screen and (max-width: 480px) {
+	.priceTableBox .blankBg {
+	    background: url("../img/mr-cube-choose-a-plan.png") no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;
+	}
+	.priceTableBox .blankBgMb {
+		height:288px;
+	    background: url("../img/mobile_broadband2.png") bottom no-repeat,
+	                url(../img/tableBg.png) repeat;
+	                background-position:center,center;
+	}
+	.priceTableBox .mobilebr {
+		/* styles for mobile browsers smaller than 480px; (iPhone) */
+		display:block;
+	               
+	}			
+}
+}
+p.btnBox .btn-primary1 { text-align:right display: block; margin-bottom: 10px; }
+p.btnBox .btn-primary1 { background: #00a1df; border-color: #00a1df; font-family: "dinMedium"; font-size: 15px; padding: 6px 30px; color: #fff; }
+p.btnBox .btn-primary2 { background: #565656; border-color: #565656; font-family: "dinMedium"; font-size: 15px; padding: 6px 30px; color: #fff; }
+p.btnBox .btn-primary2:hover { background: #565656; color: white; }
+p.btnBox .btn-primarycus { background: #f76d19; border-color: #f76d19; font-family: "dinMedium"; font-size: 15px; padding: 6px 30px; color: #fff; }
+p.btnBox .btn-primarycus:hover { background: white; color: #f76d19; }
+.priceTableBox .priceTable li.btnBox1 { border: none; background: none; }
+.priceTableBox .priceTable li.btnBox1 a { margin: 33px auto 0; display: block; width: 50%; color: #fff; background: #00a1df; line-height: 1.8em; text-align: center; border-radius: 10px; font-size:16px;}
+.priceTableBox .priceTable li.btnBox1 a:hover { background: #1cb7f2; }
+.radiusBox1 { border-radius: 10px; border: 1px solid #d3d3d3; padding: 15px 20px; }
+.radiusBox1 h1 { font-size: 24px; font-family: "dinRegular"; }
+.radiusBox1 p { font-size: 17px; color:#777; }
+.radiusBox1 .iradio_minimal { float: left; margin-left: -20px; margin-right: 20px; margin-bottom: 10px; }
+.radiusBox1 .radioBox { padding: 10px 0 25px; margin-left:10px;}
+.radiusBox1 .radioBox label { font-size: 14px; font-family: "dinRegular"; color: #323232; }
+.radiusBox1 .radioBox .radio { margin: 15px 0; }
+.addtoplan { background: #ea6818 url(file:///C|/Users/MayMay/AppData/Roaming/Adobe/Dreamweaver%20CS5/en_US/Configuration/Temp/img/btnBg.png) repeat-x top; border: 1px solid #ea7c18; border-radius: 3px; color: #fff; line-height: 26px; height: 30px; padding: 0 25px; text-shadow: 0 1px 1px #95550e;margin-right:20px; text-align:right}
+
+@media all {
+	.page-break	{ display: none; }
+}
+
+@media print {
+	.page-break	{ display: block; page-break-before: always; }
+}
+
+.mobilepackage {text-align:center}

@@ -1,0 +1,2 @@
+[17-Apr-2015 00:35:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/netcubec/public_html/landing/cash-test/php/landpageSeptAdd.php on line 74
+[17-Apr-2015 00:37:32 UTC] PHP Fatal error:  Can't use function return value in write context in /home/netcubec/public_html/landing/cash-test/php/landpageSeptAdd.php on line 81
